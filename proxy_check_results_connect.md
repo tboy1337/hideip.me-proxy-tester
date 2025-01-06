@@ -15,14 +15,6 @@ Server: N/A
 Country: Brazil
 
 Protocol: connect
-Proxy: 195.26.243.36:80
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 92.79.157.81:8080
 Status: working
 IP: N/A
@@ -45,6 +37,22 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Singapore
+
+Protocol: connect
+Proxy: 117.1.250.134:10023
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 117.177.63.75:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
 Protocol: connect
 Proxy: 146.190.26.65:3128
