@@ -23,6 +23,14 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: connect
+Proxy: 204.10.194.63:10134
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: connect
 Proxy: 38.9.141.250:10609
 Status: working
 IP: N/A
@@ -31,7 +39,15 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 117.1.196.7:10006
+Proxy: 116.104.10.215:10003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 116.104.10.215:10004
 Status: working
 IP: N/A
 Anon: N/A
