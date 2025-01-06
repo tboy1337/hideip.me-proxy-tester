@@ -15,15 +15,15 @@ Server: N/A
 Country: Brazil
 
 Protocol: connect
-Proxy: 117.1.196.7:10020
+Proxy: 195.26.243.36:80
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: United States
 
 Protocol: connect
-Proxy: 92.50.76.42:8080
+Proxy: 92.79.157.81:8080
 Status: working
 IP: N/A
 Anon: N/A
