@@ -7,12 +7,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 27.77.79.174:8080
+Proxy: 204.10.194.63:10129
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Ukraine
 
 Protocol: connect
 Proxy: 201.1.174.168:3128
