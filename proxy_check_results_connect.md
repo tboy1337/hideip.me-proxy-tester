@@ -46,3 +46,19 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 51.89.5.14:56789
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: connect
+Proxy: 116.104.10.215:10013
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
