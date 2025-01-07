@@ -1,10 +1,10 @@
 Protocol: connect
-Proxy: 89.46.249.145:36918
+Proxy: 199.48.129.114:3120
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United Kingdom
+Country: United States
 
 Protocol: connect
 Proxy: 47.239.217.242:80
