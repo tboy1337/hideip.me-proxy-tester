@@ -15,15 +15,15 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 80.87.192.7:3128
+Proxy: 149.28.32.205:25936
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: United States
 
 Protocol: connect
-Proxy: 139.162.147.122:80
+Proxy: 92.79.157.81:8080
 Status: working
 IP: N/A
 Anon: N/A
@@ -39,10 +39,10 @@ Server: N/A
 Country: Vietnam
 
 Protocol: connect
-Proxy: 164.70.67.78:8080
+Proxy: 220.167.233.42:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Japan
+Country: China
 
