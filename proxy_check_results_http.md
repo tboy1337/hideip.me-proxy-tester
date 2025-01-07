@@ -15,60 +15,12 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 102.222.173.33:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Botswana
-
-Protocol: http
 Proxy: 188.112.179.204:80
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Latvia
-
-Protocol: http
-Proxy: 103.156.16.245:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.188.173.153:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 219.79.87.158:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Hong Kong
-
-Protocol: http
-Proxy: 27.109.215.216:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Macao
-
-Protocol: http
-Proxy: 103.156.15.134:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
 
 Protocol: http
 Proxy: 188.132.221.189:8080
@@ -79,20 +31,12 @@ Server: mikrotik
 Country: Türkiye
 
 Protocol: http
-Proxy: 103.165.157.248:8090
+Proxy: 103.134.220.145:8080
 Status: working
 IP: None
-Anon: elite
+Anon: transparent
 Server: mikrotik
 Country: Indonesia
-
-Protocol: http
-Proxy: 50.235.247.114:8085
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: United States
 
 Protocol: http
 Proxy: 79.110.201.235:8081
@@ -111,6 +55,22 @@ Server: None
 Country: Hong Kong
 
 Protocol: http
+Proxy: 103.138.14.170:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.181.255.231:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
 Proxy: 79.110.202.131:8081
 Status: working
 IP: None
@@ -125,22 +85,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
-
-Protocol: http
-Proxy: 38.183.146.191:1989
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 102.213.248.54:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Kenya
 
 Protocol: http
 Proxy: 203.95.196.125:8080
