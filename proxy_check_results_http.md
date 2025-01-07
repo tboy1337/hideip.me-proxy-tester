@@ -1,5 +1,13 @@
 Protocol: http
-Proxy: 60.188.102.225:18080
+Proxy: 103.84.208.170:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 39.175.77.7:30001
 Status: working
 IP: None
 Anon: elite
@@ -7,23 +15,63 @@ Server: None
 Country: China
 
 Protocol: http
-Proxy: 39.175.85.98:30001
+Proxy: 103.216.50.223:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: China
+Country: Cambodia
 
 Protocol: http
-Proxy: 218.252.231.17:80
+Proxy: 119.252.173.26:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Hong Kong
+Country: Indonesia
 
 Protocol: http
-Proxy: 14.47.70.137:8080
+Proxy: 103.111.207.138:32650
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 185.191.236.162:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Switzerland
+
+Protocol: http
+Proxy: 185.44.65.171:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Pakistan
+
+Protocol: http
+Proxy: 185.44.65.171:9595
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Pakistan
+
+Protocol: http
+Proxy: 103.186.96.26:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 211.202.167.56:80
 Status: working
 IP: None
 Anon: elite
@@ -31,20 +79,20 @@ Server: None
 Country: South Korea
 
 Protocol: http
-Proxy: 129.213.131.147:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 116.68.162.82:8080
+Proxy: 202.51.190.202:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Bangladesh
+
+Protocol: http
+Proxy: 51.89.96.237:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United Kingdom
 
 Protocol: http
 Proxy: 103.137.111.231:8080
@@ -55,10 +103,10 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: http
-Proxy: 196.251.131.82:8080
+Proxy: 212.98.139.70:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: South Africa
+Anon: transparent
+Server: mikrotik
+Country: Lebanon
 
