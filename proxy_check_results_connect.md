@@ -23,34 +23,10 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 204.10.194.63:10064
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: connect
 Proxy: 129.146.163.153:47060
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: connect
-Proxy: 103.151.140.124:10609
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: connect
-Proxy: 117.1.250.134:10015
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
