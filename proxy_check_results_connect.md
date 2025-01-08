@@ -23,6 +23,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 89.46.249.252:5080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: connect
 Proxy: 206.189.110.249:3128
 Status: working
 IP: N/A
@@ -37,12 +45,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: connect
-Proxy: 164.70.67.78:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Japan
 
