@@ -1,5 +1,5 @@
 Protocol: connect
-Proxy: 199.48.129.114:3120
+Proxy: 47.88.17.136:18080
 Status: working
 IP: N/A
 Anon: N/A
@@ -29,12 +29,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Hong Kong
-
-Protocol: connect
-Proxy: 171.234.227.2:10008
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
