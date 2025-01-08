@@ -30,11 +30,3 @@ Anon: N/A
 Server: N/A
 Country: The Netherlands
 
-Protocol: connect
-Proxy: 109.199.110.101:80
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
-
