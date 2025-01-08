@@ -1,18 +1,18 @@
 Protocol: connect
-Proxy: 147.45.170.226:1080
+Proxy: 199.48.129.114:3120
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: The Netherlands
+Country: United States
 
 Protocol: connect
-Proxy: 117.1.196.7:10009
+Proxy: 89.46.249.145:36918
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: United Kingdom
 
 Protocol: connect
 Proxy: 117.1.196.7:10020
