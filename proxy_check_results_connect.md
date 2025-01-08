@@ -46,3 +46,27 @@ Anon: N/A
 Server: N/A
 Country: Indonesia
 
+Protocol: connect
+Proxy: 152.67.8.148:443
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
+Proxy: 117.1.102.87:10018
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 117.1.102.87:10021
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
