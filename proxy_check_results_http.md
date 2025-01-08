@@ -15,6 +15,46 @@ Server: None
 Country: China
 
 Protocol: http
+Proxy: 203.95.198.35:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
+Proxy: 185.49.31.205:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
+Proxy: 159.224.232.194:8888
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Ukraine
+
+Protocol: http
+Proxy: 182.155.254.159:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Taiwan
+
+Protocol: http
+Proxy: 203.95.199.159:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
 Proxy: 103.216.50.224:8080
 Status: working
 IP: None
@@ -31,12 +71,20 @@ Server: mikrotik
 Country: Equatorial Guinea
 
 Protocol: http
-Proxy: 103.63.190.107:8080
+Proxy: 103.216.50.223:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Cambodia
+
+Protocol: http
+Proxy: 185.162.60.6:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Hungary
 
 Protocol: http
 Proxy: 113.108.13.120:8083
@@ -47,28 +95,12 @@ Server: None
 Country: China
 
 Protocol: http
-Proxy: 102.0.9.138:32650
+Proxy: 79.110.201.235:8081
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Kenya
-
-Protocol: http
-Proxy: 177.36.14.137:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Brazil
-
-Protocol: http
-Proxy: 103.156.15.114:3127
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Poland
 
 Protocol: http
 Proxy: 103.118.46.64:8080
@@ -111,6 +143,14 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 45.144.165.34:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Thailand
+
+Protocol: http
 Proxy: 196.251.131.82:8080
 Status: working
 IP: None
@@ -125,4 +165,12 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: http
+Proxy: 203.95.196.55:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
 
