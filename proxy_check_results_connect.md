@@ -39,20 +39,28 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 117.1.250.134:10017
+Proxy: 204.10.194.63:10064
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Ukraine
 
 Protocol: connect
-Proxy: 117.1.250.134:10010
+Proxy: 85.132.37.9:1313
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Azerbaijan
+
+Protocol: connect
+Proxy: 164.70.67.78:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Japan
 
 Protocol: connect
 Proxy: 116.97.206.20:2020
