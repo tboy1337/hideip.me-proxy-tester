@@ -39,26 +39,10 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 92.79.157.81:8080
+Proxy: 196.192.76.185:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
-
-Protocol: connect
-Proxy: 116.231.164.38:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 183.130.59.29:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
+Country: Tanzania
 
