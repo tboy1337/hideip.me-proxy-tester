@@ -31,15 +31,15 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 139.162.147.122:80
+Proxy: 217.61.105.211:4001
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Chile
 
 Protocol: connect
-Proxy: 117.1.102.87:10011
+Proxy: 117.1.250.134:10022
 Status: working
 IP: N/A
 Anon: N/A
