@@ -31,10 +31,18 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 139.162.147.122:80
+Proxy: 217.61.105.211:4001
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Chile
+
+Protocol: connect
+Proxy: 204.10.194.63:10038
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Ukraine
 
