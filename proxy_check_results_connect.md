@@ -23,6 +23,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 89.221.225.229:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Moldova
+
+Protocol: connect
 Proxy: 206.189.110.249:3128
 Status: working
 IP: N/A
@@ -31,12 +39,12 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 139.162.147.122:80
+Proxy: 80.87.192.7:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Russia
 
 Protocol: connect
 Proxy: 77.237.236.247:80
