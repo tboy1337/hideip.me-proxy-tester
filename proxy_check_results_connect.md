@@ -23,15 +23,15 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 8.218.212.181:60000
+Proxy: 8.219.102.193:2000
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
+Country: Singapore
 
 Protocol: connect
-Proxy: 8.217.138.208:60000
+Proxy: 8.218.212.181:60000
 Status: working
 IP: N/A
 Anon: N/A
