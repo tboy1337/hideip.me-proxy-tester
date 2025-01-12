@@ -46,3 +46,11 @@ Anon: N/A
 Server: N/A
 Country: Hong Kong
 
+Protocol: connect
+Proxy: 58.214.183.253:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
