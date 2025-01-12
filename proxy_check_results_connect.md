@@ -15,6 +15,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 103.151.140.124:10609
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 8.219.102.193:2000
 Status: working
 IP: N/A
@@ -37,12 +45,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Hong Kong
-
-Protocol: connect
-Proxy: 58.214.183.253:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
 
