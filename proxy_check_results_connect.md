@@ -7,14 +7,6 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 38.165.231.59:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Ecuador
-
-Protocol: connect
 Proxy: 119.252.173.26:8080
 Status: working
 IP: N/A
@@ -31,12 +23,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 77.237.236.223:80
+Proxy: 152.67.8.148:443
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: India
 
 Protocol: connect
 Proxy: 8.219.102.193:2000
