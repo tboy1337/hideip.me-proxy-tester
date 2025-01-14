@@ -31,12 +31,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 206.189.110.249:3128
+Proxy: 109.123.244.75:80
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: The Netherlands
+Country: Germany
 
 Protocol: connect
 Proxy: 14.232.192.26:10947
@@ -47,10 +47,10 @@ Server: N/A
 Country: Thailand
 
 Protocol: connect
-Proxy: 217.61.105.211:4001
+Proxy: 150.95.27.197:10090
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Bolivia
+Country: Japan
 
