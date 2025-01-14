@@ -38,19 +38,3 @@ Anon: N/A
 Server: N/A
 Country: The Netherlands
 
-Protocol: connect
-Proxy: 129.146.163.153:47060
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 109.123.244.75:80
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
-
