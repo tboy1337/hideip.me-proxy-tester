@@ -38,11 +38,3 @@ Anon: N/A
 Server: N/A
 Country: The Netherlands
 
-Protocol: connect
-Proxy: 109.206.203.79:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Poland
-
