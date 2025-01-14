@@ -39,10 +39,10 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 5.78.124.240:40000
+Proxy: 59.173.29.168:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: China
 
