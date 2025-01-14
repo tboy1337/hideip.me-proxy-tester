@@ -38,11 +38,3 @@ Anon: N/A
 Server: N/A
 Country: The Netherlands
 
-Protocol: connect
-Proxy: 59.173.29.168:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
