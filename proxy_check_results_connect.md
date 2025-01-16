@@ -39,6 +39,14 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
+Proxy: 196.192.76.185:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Tanzania
+
+Protocol: connect
 Proxy: 47.251.122.81:8888
 Status: working
 IP: N/A
@@ -47,18 +55,18 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 164.70.67.78:8080
+Proxy: 188.165.236.146:3420
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Japan
+Country: France
 
 Protocol: connect
-Proxy: 116.203.15.29:3128
+Proxy: 118.163.27.53:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Finland
+Country: Taiwan
 
