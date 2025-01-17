@@ -47,14 +47,6 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: connect
-Proxy: 223.197.178.186:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
-Protocol: connect
 Proxy: 47.239.217.242:80
 Status: working
 IP: N/A
@@ -71,14 +63,6 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
-Proxy: 5.9.198.34:55555
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: connect
 Proxy: 47.243.14.57:2000
 Status: working
 IP: N/A
@@ -87,10 +71,18 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 52.169.235.202:3128
+Proxy: 109.206.203.79:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Ireland
+Country: Poland
+
+Protocol: connect
+Proxy: 5.78.118.46:60275
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
 
