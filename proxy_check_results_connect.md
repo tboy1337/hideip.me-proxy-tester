@@ -31,6 +31,14 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
+Proxy: 196.192.76.185:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Tanzania
+
+Protocol: connect
 Proxy: 129.146.163.153:47060
 Status: working
 IP: N/A
@@ -39,15 +47,15 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 5.78.124.240:40001
+Proxy: 47.236.8.166:18080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Singapore
 
 Protocol: connect
-Proxy: 47.243.14.57:2000
+Proxy: 112.120.100.163:3128
 Status: working
 IP: N/A
 Anon: N/A
