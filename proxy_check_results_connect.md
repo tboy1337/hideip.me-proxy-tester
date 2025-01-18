@@ -23,10 +23,10 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 47.236.8.166:18080
+Proxy: 193.37.70.209:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: Germany
 
