@@ -47,20 +47,20 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 85.132.37.9:1313
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Azerbaijan
+
+Protocol: connect
 Proxy: 5.9.198.34:55555
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: connect
-Proxy: 47.243.14.57:2000
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
 
 Protocol: connect
 Proxy: 2.59.181.125:33420
