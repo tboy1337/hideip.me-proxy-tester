@@ -47,20 +47,12 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 47.243.14.57:2000
+Proxy: 45.143.95.47:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 185.157.160.159:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Sweden
+Country: United Arab Emirates
 
 Protocol: connect
 Proxy: 2.59.181.125:33420
