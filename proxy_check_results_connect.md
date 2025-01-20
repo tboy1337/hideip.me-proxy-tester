@@ -30,27 +30,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 93.183.95.159:20170
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: The Netherlands
-
-Protocol: connect
-Proxy: 101.126.22.66:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 171.255.249.96:10003
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
