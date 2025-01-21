@@ -31,12 +31,20 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 152.67.8.148:443
+Proxy: 80.87.192.7:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: India
+Country: Russia
+
+Protocol: connect
+Proxy: 116.231.164.38:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
 Protocol: connect
 Proxy: 47.243.14.57:2000
