@@ -47,18 +47,10 @@ Server: N/A
 Country: India
 
 Protocol: connect
-Proxy: 116.231.164.38:8118
+Proxy: 47.243.14.57:2000
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 45.143.95.47:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United Arab Emirates
+Country: Hong Kong
 
