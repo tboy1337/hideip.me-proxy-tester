@@ -54,3 +54,11 @@ Anon: N/A
 Server: N/A
 Country: China
 
+Protocol: connect
+Proxy: 45.143.95.47:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United Arab Emirates
+
