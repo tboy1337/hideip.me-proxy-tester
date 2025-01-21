@@ -31,10 +31,26 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 101.126.22.66:7777
+Proxy: 206.189.110.249:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: The Netherlands
+
+Protocol: connect
+Proxy: 91.201.115.137:22211
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: connect
+Proxy: 93.183.88.246:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
