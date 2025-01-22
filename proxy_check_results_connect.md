@@ -15,12 +15,20 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 94.131.3.222:1080
+Proxy: 168.138.55.69:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: The Netherlands
+Country: Japan
+
+Protocol: connect
+Proxy: 91.186.97.212:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
 
 Protocol: connect
 Proxy: 36.103.167.209:7890
