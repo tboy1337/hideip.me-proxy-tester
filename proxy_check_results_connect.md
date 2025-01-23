@@ -39,12 +39,12 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
-Proxy: 193.37.70.209:3128
+Proxy: 47.243.14.57:2000
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Hong Kong
 
 Protocol: connect
 Proxy: 2.59.181.125:33420
@@ -55,10 +55,18 @@ Server: N/A
 Country: Türkiye
 
 Protocol: connect
-Proxy: 195.2.79.116:3128
+Proxy: 77.238.233.70:1080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: The Netherlands
+
+Protocol: connect
+Proxy: 77.238.233.70:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
