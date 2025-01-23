@@ -1,18 +1,26 @@
 Protocol: socks4
-Proxy: 1.212.157.114:4145
+Proxy: 181.115.75.102:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: South Korea
+Country: Honduras
 
 Protocol: socks4
-Proxy: 190.54.12.74:5678
+Proxy: 202.40.179.18:4145
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Chile
+Country: Bangladesh
+
+Protocol: socks4
+Proxy: 46.214.153.223:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Romania
 
 Protocol: socks4
 Proxy: 200.108.50.254:4145
@@ -23,15 +31,7 @@ Server: mikrotik
 Country: Panama
 
 Protocol: socks4
-Proxy: 177.101.135.89:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Brazil
-
-Protocol: socks4
-Proxy: 37.52.13.164:5678
+Proxy: 37.52.50.28:5678
 Status: working
 IP: None
 Anon: transparent
@@ -39,36 +39,20 @@ Server: mikrotik
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 197.251.236.227:5678
+Proxy: 103.120.202.53:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ghana
+Country: Bangladesh
 
 Protocol: socks4
-Proxy: 197.251.236.226:5678
+Proxy: 80.65.80.230:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ghana
-
-Protocol: socks4a
-Proxy: 107.180.90.88:32168
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks4
-Proxy: 91.228.245.196:60606
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Slovakia
+Country: Bosnia and Herzegovina
 
 Protocol: socks4
 Proxy: 80.92.224.141:5678
@@ -95,31 +79,15 @@ Server: mikrotik
 Country: Chile
 
 Protocol: socks4
-Proxy: 201.204.47.66:5678
+Proxy: 222.212.85.149:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Costa Rica
+Country: China
 
 Protocol: socks4
-Proxy: 181.57.184.46:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Colombia
-
-Protocol: socks4
-Proxy: 202.166.211.89:60606
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Nepal
-
-Protocol: socks4
-Proxy: 36.66.203.163:5678
+Proxy: 182.253.71.122:5678
 Status: working
 IP: None
 Anon: transparent
@@ -127,60 +95,44 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 185.236.46.221:5678
+Proxy: 41.139.147.86:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ukraine
+Country: Kenya
 
 Protocol: socks4
-Proxy: 1.32.59.217:31981
+Proxy: 79.7.101.98:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Malaysia
+Country: Italy
 
 Protocol: socks4
-Proxy: 103.4.145.133:1080
+Proxy: 185.79.243.74:5678
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
 Server: mikrotik
-Country: Bangladesh
+Country: Poland
 
 Protocol: socks4a
-Proxy: 88.202.230.103:39345
+Proxy: 186.226.58.189:46046
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United Kingdom
-
-Protocol: socks4a
-Proxy: 134.122.43.203:56442
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Canada
+Country: Brazil
 
 Protocol: socks4
-Proxy: 118.70.206.161:60606
+Proxy: 168.194.226.178:4153
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 163.53.150.137:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Bangladesh
+Country: Brazil
 
 Protocol: socks4
 Proxy: 103.159.104.60:1088
@@ -191,47 +143,31 @@ Server: mikrotik
 Country: India
 
 Protocol: socks4
-Proxy: 51.79.248.208:12713
+Proxy: 178.33.162.89:58629
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Singapore
+Country: Spain
 
 Protocol: socks4
-Proxy: 190.110.114.110:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Argentina
-
-Protocol: socks4
-Proxy: 103.177.124.107:9090
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Bangladesh
-
-Protocol: socks4
-Proxy: 89.221.212.251:18535
+Proxy: 198.12.249.249:7971
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Czechia
+Country: United States
 
-Protocol: socks4
-Proxy: 89.221.212.251:42796
+Protocol: socks4a
+Proxy: 84.247.168.26:18684
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Czechia
+Country: Germany
 
 Protocol: socks4
-Proxy: 46.105.124.216:42902
+Proxy: 37.187.131.224:60972
 Status: working
 IP: None
 Anon: elite
@@ -239,12 +175,76 @@ Server: None
 Country: France
 
 Protocol: socks4
+Proxy: 84.247.168.26:55104
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4
+Proxy: 89.221.212.251:48397
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Czechia
+
+Protocol: socks4a
+Proxy: 88.202.230.103:9497
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United Kingdom
+
+Protocol: socks4a
+Proxy: 51.75.206.235:60428
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4a
+Proxy: 46.105.124.216:42902
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4a
 Proxy: 84.247.168.26:12818
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Germany
+
+Protocol: socks4
+Proxy: 5.252.224.41:30206
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4
+Proxy: 5.252.224.41:58071
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4a
+Proxy: 185.95.0.197:44877
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Türkiye
 
 Protocol: socks4
 Proxy: 103.175.127.230:60606
@@ -254,6 +254,14 @@ Anon: transparent
 Server: mikrotik
 Country: Bangladesh
 
+Protocol: socks4a
+Proxy: 51.79.248.208:27651
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
+
 Protocol: socks4
 Proxy: 186.10.102.218:5678
 Status: working
@@ -262,7 +270,7 @@ Anon: transparent
 Server: mikrotik
 Country: Chile
 
-Protocol: socks4a
+Protocol: socks4
 Proxy: 51.79.51.174:26169
 Status: working
 IP: None
@@ -278,15 +286,15 @@ Anon: elite
 Server: None
 Country: France
 
-Protocol: socks4
-Proxy: 178.33.133.82:61915
+Protocol: socks4a
+Proxy: 185.95.0.197:28202
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
+Country: Türkiye
 
-Protocol: socks4
+Protocol: socks4a
 Proxy: 31.172.186.69:23448
 Status: working
 IP: None
@@ -295,12 +303,36 @@ Server: None
 Country: Poland
 
 Protocol: socks4
-Proxy: 144.217.255.108:39698
+Proxy: 185.95.0.197:21530
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Canada
+Country: Türkiye
+
+Protocol: socks4a
+Proxy: 162.241.129.84:37500
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 31.172.186.69:53163
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: socks4
+Proxy: 84.247.168.26:17431
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: socks4a
 Proxy: 185.95.0.197:33829
@@ -309,22 +341,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Türkiye
-
-Protocol: socks4a
-Proxy: 103.82.38.163:42045
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks4a
-Proxy: 54.38.217.92:22929
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
 
 Protocol: socks4a
 Proxy: 207.244.241.235:62119
@@ -342,15 +358,87 @@ Anon: elite
 Server: None
 Country: Canada
 
-Protocol: socks4
-Proxy: 94.158.246.91:59558
+Protocol: socks4a
+Proxy: 173.249.33.49:48779
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Moldova
+Country: Germany
 
 Protocol: socks4a
+Proxy: 31.172.186.69:35309
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: socks4
+Proxy: 66.29.138.67:14023
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 66.29.138.31:38097
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 84.247.168.26:7473
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4a
+Proxy: 198.12.249.249:10705
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 144.91.71.101:62806
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4a
+Proxy: 66.29.138.31:51175
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 132.148.167.56:26337
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 178.33.133.82:10289
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4
 Proxy: 84.247.168.26:45157
 Status: working
 IP: None
@@ -359,12 +447,12 @@ Server: None
 Country: Germany
 
 Protocol: socks4a
-Proxy: 172.105.14.39:42686
+Proxy: 148.251.154.233:59825
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Canada
+Country: Germany
 
 Protocol: socks4a
 Proxy: 66.29.138.67:38918
@@ -374,7 +462,7 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4a
+Protocol: socks4
 Proxy: 132.148.167.56:44276
 Status: working
 IP: None
@@ -383,7 +471,15 @@ Server: None
 Country: United States
 
 Protocol: socks4
-Proxy: 67.205.174.75:40092
+Proxy: 72.167.224.168:64514
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 66.29.138.67:36607
 Status: working
 IP: None
 Anon: elite
@@ -391,14 +487,14 @@ Server: None
 Country: United States
 
 Protocol: socks4
-Proxy: 142.93.150.134:9152
+Proxy: 144.91.71.101:41195
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Canada
+Country: Germany
 
-Protocol: socks4
+Protocol: socks4a
 Proxy: 67.205.174.75:18163
 Status: working
 IP: None
@@ -414,7 +510,7 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
+Protocol: socks4a
 Proxy: 66.29.138.31:36607
 Status: working
 IP: None
@@ -422,13 +518,45 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
+Protocol: socks4a
+Proxy: 159.89.164.144:55157
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: India
+
+Protocol: socks4a
 Proxy: 185.95.0.197:61258
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Türkiye
+
+Protocol: socks4a
+Proxy: 148.72.210.123:12122
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
+
+Protocol: socks4
+Proxy: 185.95.0.197:55419
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Türkiye
+
+Protocol: socks4a
+Proxy: 66.29.138.67:38925
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks4a
 Proxy: 208.109.9.250:10171
@@ -439,7 +567,23 @@ Server: None
 Country: Singapore
 
 Protocol: socks4a
-Proxy: 162.240.103.65:48548
+Proxy: 79.139.57.142:54846
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Hungary
+
+Protocol: socks4a
+Proxy: 132.148.167.56:14593
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 166.62.38.100:20654
 Status: working
 IP: None
 Anon: elite
@@ -447,7 +591,15 @@ Server: None
 Country: United States
 
 Protocol: socks4
-Proxy: 162.240.104.248:48548
+Proxy: 89.221.212.251:16529
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Czechia
+
+Protocol: socks4
+Proxy: 162.144.33.212:20785
 Status: working
 IP: None
 Anon: elite
@@ -455,28 +607,28 @@ Server: None
 Country: United States
 
 Protocol: socks4
-Proxy: 66.29.138.31:19757
+Proxy: 208.109.13.93:41013
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
+
+Protocol: socks4a
+Proxy: 207.244.241.235:53514
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
-Proxy: 49.0.156.20:32000
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Mongolia
-
-Protocol: socks4
-Proxy: 139.59.72.216:1981
+Protocol: socks4a
+Proxy: 203.190.8.35:42541
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: India
+Country: Bangladesh
 
 Protocol: socks4a
 Proxy: 162.240.172.41:64931
@@ -486,7 +638,7 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4a
+Protocol: socks4
 Proxy: 162.240.101.88:20404
 Status: working
 IP: None
@@ -494,7 +646,7 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
+Protocol: socks4a
 Proxy: 162.240.172.209:64931
 Status: working
 IP: None
@@ -510,30 +662,6 @@ Anon: elite
 Server: None
 Country: France
 
-Protocol: socks4
-Proxy: 208.109.13.93:27692
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
-
-Protocol: socks4a
-Proxy: 94.158.246.181:62875
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Moldova
-
-Protocol: socks4a
-Proxy: 132.148.167.243:44945
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
 Protocol: socks4a
 Proxy: 132.148.167.243:48451
 Status: working
@@ -542,21 +670,21 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
-Proxy: 31.172.186.69:16650
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
 Protocol: socks4a
-Proxy: 132.148.167.243:40303
+Proxy: 66.29.138.31:35531
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: socks4a
+Proxy: 173.249.33.49:58533
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: socks4a
 Proxy: 66.29.138.67:59377
@@ -567,15 +695,7 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 132.148.167.243:53911
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks4
-Proxy: 54.36.13.94:54923
+Proxy: 188.165.227.67:13033
 Status: working
 IP: None
 Anon: elite
@@ -583,15 +703,23 @@ Server: None
 Country: France
 
 Protocol: socks4
-Proxy: 46.105.127.74:41863
+Proxy: 173.249.33.49:37399
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
+Country: Germany
 
 Protocol: socks4
-Proxy: 166.62.121.196:47509
+Proxy: 94.158.246.82:62875
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Moldova
+
+Protocol: socks4a
+Proxy: 72.167.224.168:32802
 Status: working
 IP: None
 Anon: elite
@@ -599,12 +727,76 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 66.29.138.31:28340
+Proxy: 94.158.246.94:62875
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Moldova
+
+Protocol: socks4a
+Proxy: 72.14.190.102:48275
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: socks4a
+Proxy: 46.101.163.117:2185
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4a
+Proxy: 166.62.121.196:47509
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 162.240.172.41:60852
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 194.163.171.163:33317
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4
+Proxy: 185.95.0.197:19311
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Türkiye
+
+Protocol: socks4a
+Proxy: 66.29.138.67:28340
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 185.95.0.197:30084
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Türkiye
 
 Protocol: socks4
 Proxy: 103.152.92.1:21080
@@ -615,31 +807,23 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 162.240.103.65:38913
+Proxy: 103.152.92.126:21080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: United States
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
-Protocol: socks4a
-Proxy: 54.36.13.94:12855
+Protocol: socks4
+Proxy: 103.152.92.134:21080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: France
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
-Protocol: socks4a
-Proxy: 185.95.0.197:18693
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Türkiye
-
-Protocol: socks4a
-Proxy: 66.29.138.67:30391
+Protocol: socks4
+Proxy: 66.29.138.31:38589
 Status: working
 IP: None
 Anon: elite
@@ -647,6 +831,22 @@ Server: None
 Country: United States
 
 Protocol: socks4
+Proxy: 173.249.33.49:42966
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4
+Proxy: 1.179.148.33:1080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Thailand
+
+Protocol: socks4a
 Proxy: 72.167.224.168:33736
 Status: working
 IP: None
@@ -655,31 +855,23 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 51.38.82.147:55927
+Proxy: 68.183.122.221:21537
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United Kingdom
+Country: United States
 
 Protocol: socks4a
-Proxy: 94.158.246.83:54170
+Proxy: 148.72.209.120:16082
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Moldova
-
-Protocol: socks4
-Proxy: 185.95.0.197:47978
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Türkiye
+Country: Singapore
 
 Protocol: socks4a
-Proxy: 144.91.71.101:27159
+Proxy: 46.4.13.176:52189
 Status: working
 IP: None
 Anon: elite
@@ -687,12 +879,12 @@ Server: None
 Country: Germany
 
 Protocol: socks4a
-Proxy: 173.249.33.49:55434
+Proxy: 178.33.133.82:13830
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Germany
+Country: France
 
 Protocol: socks4a
 Proxy: 162.240.104.248:39713
@@ -703,12 +895,28 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 144.91.71.101:7219
+Proxy: 31.172.186.69:48867
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Germany
+Country: Poland
+
+Protocol: socks4a
+Proxy: 88.202.230.103:31104
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United Kingdom
+
+Protocol: socks4
+Proxy: 94.158.246.84:61952
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Moldova
 
 Protocol: socks4a
 Proxy: 79.139.57.142:6893
@@ -718,7 +926,7 @@ Anon: elite
 Server: None
 Country: Hungary
 
-Protocol: socks4a
+Protocol: socks4
 Proxy: 162.240.172.41:48933
 Status: working
 IP: None
@@ -735,6 +943,14 @@ Server: None
 Country: United States
 
 Protocol: socks4a
+Proxy: 66.29.138.67:45698
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
 Proxy: 132.148.167.243:30241
 Status: working
 IP: None
@@ -743,12 +959,12 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 132.148.167.243:44585
+Proxy: 185.95.0.197:44937
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Türkiye
 
 Protocol: socks4a
 Proxy: 132.148.167.243:44728
@@ -767,12 +983,12 @@ Server: None
 Country: United States
 
 Protocol: socks4
-Proxy: 94.158.246.83:50985
+Proxy: 190.14.224.244:3629
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Moldova
+Server: mikrotik
+Country: Colombia
 
 Protocol: socks4a
 Proxy: 132.148.167.243:57413
@@ -783,15 +999,15 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 132.148.167.243:62859
+Proxy: 94.158.246.87:50985
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Moldova
 
-Protocol: socks4
-Proxy: 31.172.186.69:57881
+Protocol: socks4a
+Proxy: 31.172.186.69:64613
 Status: working
 IP: None
 Anon: elite
@@ -806,8 +1022,8 @@ Anon: elite
 Server: None
 Country: Vietnam
 
-Protocol: socks4a
-Proxy: 144.91.71.101:47187
+Protocol: socks4
+Proxy: 194.163.171.163:59130
 Status: working
 IP: None
 Anon: elite
@@ -823,20 +1039,36 @@ Server: None
 Country: Singapore
 
 Protocol: socks4
-Proxy: 94.158.246.83:49651
+Proxy: 194.163.171.163:35415
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4a
+Proxy: 94.158.246.85:49651
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Moldova
 
-Protocol: socks4
-Proxy: 94.158.246.84:49651
+Protocol: socks4a
+Proxy: 148.72.210.123:28245
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Moldova
+Country: Singapore
+
+Protocol: socks4
+Proxy: 198.12.249.249:30563
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks4a
 Proxy: 162.241.129.84:43729
@@ -847,36 +1079,12 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 94.158.246.81:50985
+Proxy: 185.95.0.197:63854
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Moldova
-
-Protocol: socks4a
-Proxy: 171.254.2.112:1080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 94.158.246.181:50985
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Moldova
-
-Protocol: socks4
-Proxy: 36.66.111.81:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Country: Türkiye
 
 Protocol: socks4
 Proxy: 180.94.28.114:6969
@@ -887,20 +1095,20 @@ Server: mikrotik
 Country: Bangladesh
 
 Protocol: socks4a
-Proxy: 66.29.138.31:59377
+Proxy: 94.158.246.90:50985
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Moldova
+
+Protocol: socks4
+Proxy: 66.29.138.67:35531
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
-
-Protocol: socks4a
-Proxy: 144.91.71.101:58499
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
 
 Protocol: socks4a
 Proxy: 162.240.172.41:60459
@@ -927,14 +1135,6 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 162.240.172.209:60459
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks4
 Proxy: 72.14.190.102:24692
 Status: working
 IP: None
@@ -950,7 +1150,7 @@ Anon: elite
 Server: None
 Country: Singapore
 
-Protocol: socks4
+Protocol: socks4a
 Proxy: 162.240.54.87:59601
 Status: working
 IP: None
@@ -958,16 +1158,48 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
-Proxy: 94.158.246.93:54170
+Protocol: socks4a
+Proxy: 186.226.58.189:22097
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Moldova
+Country: Brazil
 
 Protocol: socks4a
+Proxy: 149.202.78.38:48593
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4
 Proxy: 72.167.45.178:38156
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 89.221.212.251:63863
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Czechia
+
+Protocol: socks4a
+Proxy: 68.178.207.17:41686
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 208.109.230.244:41686
 Status: working
 IP: None
 Anon: elite
@@ -983,23 +1215,15 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 207.148.121.18:7575
+Proxy: 68.178.203.148:56175
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Singapore
-
-Protocol: socks4
-Proxy: 51.89.21.99:22548
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United Kingdom
+Country: United States
 
 Protocol: socks4a
-Proxy: 68.178.203.148:56175
+Proxy: 66.29.138.67:28535
 Status: working
 IP: None
 Anon: elite
@@ -1022,13 +1246,29 @@ Anon: elite
 Server: None
 Country: Singapore
 
-Protocol: socks4a
+Protocol: socks4
 Proxy: 152.228.228.142:28691
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: France
+
+Protocol: socks4
+Proxy: 84.247.168.26:9086
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4a
+Proxy: 51.79.248.208:20196
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
 Protocol: socks4a
 Proxy: 31.172.186.69:5516
@@ -1037,14 +1277,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
-
-Protocol: socks4
-Proxy: 186.47.213.158:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Ecuador
 
 Protocol: socks4a
 Proxy: 162.240.160.37:21286
@@ -1055,14 +1287,22 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 50.62.81.217:13027
+Proxy: 37.187.131.224:16197
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: France
 
-Protocol: socks4a
+Protocol: socks4
+Proxy: 161.97.170.156:6392
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4
 Proxy: 89.221.212.251:52506
 Status: working
 IP: None
@@ -1071,28 +1311,12 @@ Server: None
 Country: Czechia
 
 Protocol: socks4
-Proxy: 68.178.207.17:34211
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks4
 Proxy: 89.169.55.200:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Germany
-
-Protocol: socks4a
-Proxy: 162.240.172.209:54448
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
 
 Protocol: socks4a
 Proxy: 207.244.238.71:4625
@@ -1111,6 +1335,22 @@ Server: None
 Country: France
 
 Protocol: socks4
+Proxy: 27.147.221.140:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Bangladesh
+
+Protocol: socks4
+Proxy: 197.156.240.66:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Nigeria
+
+Protocol: socks4a
 Proxy: 165.227.104.122:40523
 Status: working
 IP: None
@@ -1118,13 +1358,21 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
+Protocol: socks4a
 Proxy: 50.62.81.217:60787
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: socks4
+Proxy: 148.251.154.233:31514
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: socks4a
 Proxy: 188.165.247.6:20853
@@ -1142,15 +1390,39 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4a
-Proxy: 72.167.45.178:10947
+Protocol: socks4
+Proxy: 148.66.128.53:60599
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Singapore
 
-Protocol: socks4
+Protocol: socks4a
+Proxy: 144.217.255.108:46420
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Canada
+
+Protocol: socks4a
+Proxy: 178.33.162.89:63929
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Spain
+
+Protocol: socks4a
+Proxy: 46.105.124.216:45512
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4a
 Proxy: 164.68.127.147:14152
 Status: working
 IP: None
@@ -1158,13 +1430,13 @@ Anon: elite
 Server: None
 Country: Germany
 
-Protocol: socks4a
-Proxy: 171.250.221.199:1080
+Protocol: socks4
+Proxy: 66.29.138.31:15906
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
+Country: United States
 
 Protocol: socks4a
 Proxy: 68.178.203.148:34556
@@ -1174,13 +1446,37 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4a
-Proxy: 139.59.5.88:44209
+Protocol: socks4
+Proxy: 152.228.134.142:37286
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: India
+Country: France
+
+Protocol: socks4a
+Proxy: 165.227.140.18:40294
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4a
+Proxy: 103.82.38.163:46083
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 185.174.122.94:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Poland
 
 Protocol: socks4a
 Proxy: 208.109.9.250:52927
@@ -1191,7 +1487,7 @@ Server: None
 Country: Singapore
 
 Protocol: socks4
-Proxy: 185.174.122.72:5678
+Proxy: 185.174.122.15:5678
 Status: working
 IP: None
 Anon: transparent
@@ -1207,7 +1503,7 @@ Server: mikrotik
 Country: Poland
 
 Protocol: socks4
-Proxy: 190.180.34.163:5678
+Proxy: 190.180.34.164:5678
 Status: working
 IP: None
 Anon: transparent
@@ -1215,7 +1511,15 @@ Server: mikrotik
 Country: Bolivia
 
 Protocol: socks4
-Proxy: 171.248.210.152:1080
+Proxy: 171.248.209.54:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 171.248.211.155:1080
 Status: working
 IP: None
 Anon: elite
@@ -1229,6 +1533,22 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: socks4
+Proxy: 5.189.140.148:12299
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks4a
+Proxy: 188.165.227.67:38070
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
 
 Protocol: socks4a
 Proxy: 142.93.150.134:17190
@@ -1247,14 +1567,22 @@ Server: None
 Country: Vietnam
 
 Protocol: socks4a
-Proxy: 188.165.218.155:13851
+Proxy: 193.70.32.184:11668
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: France
 
-Protocol: socks4
+Protocol: socks4a
+Proxy: 162.240.97.183:48535
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
 Proxy: 184.170.245.138:50829
 Status: working
 IP: None
@@ -1262,21 +1590,77 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
-Proxy: 51.38.82.147:9454
+Protocol: socks4a
+Proxy: 144.217.253.110:38817
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United Kingdom
+Country: Canada
+
+Protocol: socks4
+Proxy: 60.217.64.237:35292
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: China
 
 Protocol: socks4a
-Proxy: 116.96.13.73:1080
+Proxy: 162.240.163.127:50603
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 27.73.20.153:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Vietnam
+
+Protocol: socks4
+Proxy: 185.95.0.197:40581
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Türkiye
+
+Protocol: socks4
+Proxy: 115.127.188.214:1080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Bangladesh
+
+Protocol: socks4
+Proxy: 27.65.243.232:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4a
+Proxy: 162.240.101.88:5397
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 208.109.230.244:56070
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks4
 Proxy: 115.74.154.251:1080
@@ -1287,6 +1671,14 @@ Server: None
 Country: Vietnam
 
 Protocol: socks4a
+Proxy: 144.217.253.110:48755
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Canada
+
+Protocol: socks4a
 Proxy: 68.178.201.83:54223
 Status: working
 IP: None
@@ -1294,23 +1686,7 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4a
-Proxy: 208.109.235.146:54857
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks4a
-Proxy: 27.75.158.190:1080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks4a
+Protocol: socks4
 Proxy: 188.165.227.67:52523
 Status: working
 IP: None
@@ -1318,7 +1694,55 @@ Anon: elite
 Server: None
 Country: France
 
+Protocol: socks4a
+Proxy: 116.107.191.36:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4a
+Proxy: 31.172.186.69:51816
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: socks4a
+Proxy: 54.36.13.94:11668
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
 Protocol: socks4
+Proxy: 116.96.11.175:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 192.53.171.180:38606
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 27.65.29.255:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4a
 Proxy: 66.29.138.31:1171
 Status: working
 IP: None
@@ -1327,7 +1751,7 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 46.105.127.74:60170
+Proxy: 151.106.39.195:28296
 Status: working
 IP: None
 Anon: elite
@@ -1335,20 +1759,60 @@ Server: None
 Country: France
 
 Protocol: socks4
-Proxy: 193.198.36.102:38970
+Proxy: 148.66.128.53:13934
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Croatia
+Country: Singapore
 
 Protocol: socks4a
+Proxy: 104.36.148.79:32532
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Canada
+
+Protocol: socks4a
+Proxy: 171.254.218.73:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 116.96.12.1:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4
 Proxy: 184.168.120.115:48386
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Singapore
+
+Protocol: socks4a
+Proxy: 27.66.100.31:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4a
+Proxy: 51.89.21.99:47700
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United Kingdom
 
 Protocol: socks4a
 Proxy: 208.109.9.250:18563
@@ -1358,11 +1822,43 @@ Anon: elite
 Server: None
 Country: Singapore
 
-Protocol: socks4
-Proxy: 27.65.113.123:1080
+Protocol: socks4a
+Proxy: 116.100.220.251:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Vietnam
+
+Protocol: socks4a
+Proxy: 27.65.116.27:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4a
+Proxy: 198.12.249.249:60093
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 162.0.236.115:3076
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 103.160.205.38:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
