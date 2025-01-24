@@ -30,11 +30,3 @@ Anon: N/A
 Server: N/A
 Country: China
 
-Protocol: connect
-Proxy: 89.252.140.208:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Türkiye
-
