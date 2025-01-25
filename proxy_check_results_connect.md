@@ -47,10 +47,10 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 178.217.98.188:3128
+Proxy: 119.4.10.37:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: China
 
