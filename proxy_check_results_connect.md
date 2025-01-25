@@ -39,10 +39,10 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 144.202.78.147:80
+Proxy: 119.4.10.37:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: China
 
