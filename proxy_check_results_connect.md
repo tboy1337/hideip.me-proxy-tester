@@ -15,6 +15,14 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
+Proxy: 212.87.222.80:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Bulgaria
+
+Protocol: connect
 Proxy: 36.103.167.209:7890
 Status: working
 IP: N/A
@@ -29,4 +37,12 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: connect
+Proxy: 178.217.98.188:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
 
