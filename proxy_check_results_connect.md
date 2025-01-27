@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: Türkiye
 
+Protocol: connect
+Proxy: 144.202.78.147:80
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
