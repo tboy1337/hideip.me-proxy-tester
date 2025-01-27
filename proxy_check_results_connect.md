@@ -15,18 +15,10 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
-Proxy: 2.59.181.125:33420
+Proxy: 164.70.67.78:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Türkiye
-
-Protocol: connect
-Proxy: 85.194.244.91:57732
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Poland
+Country: Japan
 
