@@ -47,6 +47,14 @@ Server: N/A
 Country: China
 
 Protocol: connect
+Proxy: 2.59.181.125:33420
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: connect
 Proxy: 36.103.167.209:7890
 Status: working
 IP: N/A
@@ -55,12 +63,12 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 204.216.152.229:3128
+Proxy: 144.202.78.147:80
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Brazil
+Country: United States
 
 Protocol: connect
 Proxy: 5.252.21.13:1080
