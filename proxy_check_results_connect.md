@@ -15,14 +15,6 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: connect
-Proxy: 103.27.111.156:1080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
-Protocol: connect
 Proxy: 101.126.22.66:7777
 Status: working
 IP: N/A
@@ -31,23 +23,15 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 36.111.142.2:12798
+Proxy: 195.58.36.68:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Czechia
 
 Protocol: connect
 Proxy: 36.111.142.177:12700
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 14.29.223.165:2009
 Status: working
 IP: N/A
 Anon: N/A
@@ -63,10 +47,34 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 110.80.19.82:5020
+Proxy: 8.213.211.216:53128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: Thailand
+
+Protocol: connect
+Proxy: 79.117.2.168:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Spain
+
+Protocol: connect
+Proxy: 106.120.183.118:12700
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 36.111.128.61:12798
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
