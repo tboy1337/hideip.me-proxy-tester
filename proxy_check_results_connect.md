@@ -7,20 +7,36 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 89.46.249.248:25585
+Proxy: 119.252.173.26:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United Kingdom
+Country: Indonesia
 
 Protocol: connect
-Proxy: 91.186.97.212:3128
+Proxy: 117.177.63.75:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: China
+
+Protocol: connect
+Proxy: 83.118.60.147:8213
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: connect
+Proxy: 103.27.111.156:1080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Hong Kong
 
 Protocol: connect
 Proxy: 101.126.22.66:7777
@@ -31,7 +47,15 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 158.222.90.12:4481
+Proxy: 118.163.27.53:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Taiwan
+
+Protocol: connect
+Proxy: 60.161.5.84:333
 Status: working
 IP: N/A
 Anon: N/A
@@ -39,12 +63,12 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 36.111.142.177:12700
+Proxy: 101.36.125.154:887
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Hong Kong
 
 Protocol: connect
 Proxy: 207.148.68.198:999
@@ -55,7 +79,23 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
+Proxy: 83.217.23.34:8090
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
 Proxy: 106.120.183.118:12700
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 36.111.128.61:12798
 Status: working
 IP: N/A
 Anon: N/A
@@ -71,34 +111,10 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
-Proxy: 46.180.173.250:3128
+Proxy: 142.247.103.2:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
-
-Protocol: connect
-Proxy: 182.132.24.201:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 106.117.235.112:9788
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 106.117.235.117:9788
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Taiwan
+Country: Saudi Arabia
 
