@@ -1,12 +1,4 @@
 Protocol: connect
-Proxy: 138.2.64.185:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Singapore
-
-Protocol: connect
 Proxy: 119.252.173.26:8080
 Status: working
 IP: N/A
@@ -29,6 +21,14 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Hong Kong
+
+Protocol: connect
+Proxy: 163.172.54.157:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: connect
 Proxy: 36.111.142.2:12798
@@ -69,14 +69,6 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: China
-
-Protocol: connect
-Proxy: 138.199.165.18:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
 
 Protocol: connect
 Proxy: 106.117.235.121:9788
