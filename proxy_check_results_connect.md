@@ -7,20 +7,20 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 103.151.140.124:10609
+Proxy: 47.251.122.81:8888
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: United States
 
 Protocol: connect
-Proxy: 47.239.217.242:80
+Proxy: 5.78.124.240:40001
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
+Country: United States
 
 Protocol: connect
 Proxy: 101.126.22.66:7777
@@ -31,7 +31,23 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 36.103.167.209:7890
+Proxy: 195.58.36.68:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Czechia
+
+Protocol: connect
+Proxy: 195.2.79.116:8888
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
+Proxy: 58.144.141.26:12700
 Status: working
 IP: N/A
 Anon: N/A
@@ -39,15 +55,7 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 118.163.27.53:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Taiwan
-
-Protocol: connect
-Proxy: 36.111.142.2:12798
+Proxy: 36.111.142.177:12792
 Status: working
 IP: N/A
 Anon: N/A
@@ -63,52 +71,20 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 116.231.166.126:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 178.130.42.169:1080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: The Netherlands
-
-Protocol: connect
-Proxy: 106.120.183.118:12700
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 36.111.128.61:12798
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 36.150.4.6:12700
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 45.58.147.30:3128
+Proxy: 45.58.147.28:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: connect
+Proxy: 106.117.235.112:9788
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
 Protocol: connect
 Proxy: 220.167.232.159:8118
