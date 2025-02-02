@@ -7,12 +7,20 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 47.236.8.166:18080
+Proxy: 5.78.124.240:40001
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: United States
+
+Protocol: connect
+Proxy: 112.120.100.163:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Hong Kong
 
 Protocol: connect
 Proxy: 36.103.167.209:7890
@@ -23,47 +31,39 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 192.81.129.252:3132
+Proxy: 93.183.88.246:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: The Netherlands
 
 Protocol: connect
-Proxy: 5.160.235.243:3128
+Proxy: 89.252.140.208:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Iran
+Country: Türkiye
+
+Protocol: connect
+Proxy: 83.217.213.202:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
+Proxy: 118.163.27.53:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Taiwan
 
 Protocol: connect
 Proxy: 36.111.142.2:12798
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 58.144.141.26:12700
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 36.111.142.177:12700
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 36.111.142.177:12792
 Status: working
 IP: N/A
 Anon: N/A
@@ -79,7 +79,7 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 36.111.128.61:12798
+Proxy: 106.120.183.118:12700
 Status: working
 IP: N/A
 Anon: N/A
@@ -87,26 +87,18 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 51.222.200.68:3128
+Proxy: 116.106.190.142:80
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: Vietnam
 
 Protocol: connect
-Proxy: 61.153.231.14:10792
+Proxy: 204.109.59.186:3119
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 8.217.13.94:10001
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
+Country: United States
 
