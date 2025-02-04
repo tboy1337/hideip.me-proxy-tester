@@ -1,21 +1,5 @@
 Protocol: connect
-Proxy: 88.198.212.91:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: connect
-Proxy: 5.78.124.240:40000
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 47.236.8.166:18080
+Proxy: 194.233.76.162:8000
 Status: working
 IP: N/A
 Anon: N/A
@@ -23,15 +7,39 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
-Proxy: 91.186.97.212:3128
+Proxy: 119.252.173.26:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: Indonesia
+
+Protocol: connect
+Proxy: 103.151.140.124:10609
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 101.126.22.66:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
 Protocol: connect
 Proxy: 36.103.167.209:7890
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 36.111.142.2:12798
 Status: working
 IP: N/A
 Anon: N/A
@@ -47,55 +55,7 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 36.150.4.6:12700
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 45.58.147.29:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 45.58.147.26:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 45.58.147.30:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 83.217.23.35:8090
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: connect
-Proxy: 183.66.135.142:22222
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 112.64.155.147:1088
+Proxy: 36.111.128.61:12798
 Status: working
 IP: N/A
 Anon: N/A
@@ -2072,14 +2032,6 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.254:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 204.109.59.210:3119
 Status: working
 IP: N/A
 Anon: N/A
