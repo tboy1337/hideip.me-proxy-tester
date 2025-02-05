@@ -1,44 +1,4 @@
 Protocol: connect
-Proxy: 119.252.173.26:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: connect
-Proxy: 47.236.8.166:18080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Singapore
-
-Protocol: connect
-Proxy: 103.27.111.156:1080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 192.81.129.252:3132
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 36.111.142.2:12798
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
 Proxy: 101.36.125.154:887
 Status: working
 IP: N/A
@@ -47,28 +7,12 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 83.217.23.34:8090
+Proxy: 45.58.147.26:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
-
-Protocol: connect
-Proxy: 36.111.128.61:12798
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 167.71.48.245:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
+Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.2:7777
@@ -192,6 +136,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.19:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 96.62.191.20:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -695,14 +647,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.85:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.86:7777
 Status: working
 IP: N/A
@@ -784,6 +728,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.96:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 96.62.191.97:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -2077,4 +2029,12 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: connect
+Proxy: 217.61.105.211:4007
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Bolivia
 
