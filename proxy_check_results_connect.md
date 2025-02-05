@@ -1,50 +1,10 @@
 Protocol: connect
-Proxy: 204.109.59.194:3120
+Proxy: 47.88.17.136:18080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: connect
-Proxy: 199.48.129.114:3120
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 88.198.212.91:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: connect
-Proxy: 103.187.100.198:3129
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Bangladesh
-
-Protocol: connect
-Proxy: 103.151.140.124:10609
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: connect
-Proxy: 117.177.63.75:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
 
 Protocol: connect
 Proxy: 47.236.8.166:18080
@@ -55,7 +15,7 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
-Proxy: 59.173.29.168:8118
+Proxy: 101.126.22.66:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -71,44 +31,20 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 118.70.184.10:31300
+Proxy: 130.185.118.195:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Germany
 
 Protocol: connect
-Proxy: 52.169.235.202:3128
+Proxy: 118.193.32.18:887
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Ireland
-
-Protocol: connect
-Proxy: 36.111.142.2:12798
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 58.144.141.26:12700
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 45.58.147.27:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Hong Kong
 
 Protocol: connect
 Proxy: 96.62.191.2:7777
@@ -2133,4 +2069,28 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: connect
+Proxy: 103.187.146.137:8082
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 121.187.164.253:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: South Korea
+
+Protocol: connect
+Proxy: 46.249.98.222:1080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Iran
 
