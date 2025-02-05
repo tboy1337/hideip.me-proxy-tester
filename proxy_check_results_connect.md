@@ -1,34 +1,18 @@
 Protocol: connect
-Proxy: 47.251.122.81:8888
+Proxy: 88.198.212.91:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Germany
 
 Protocol: connect
-Proxy: 103.151.140.124:10609
+Proxy: 89.46.249.248:25585
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Indonesia
-
-Protocol: connect
-Proxy: 5.78.124.240:40000
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 103.27.111.156:1080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
+Country: United Kingdom
 
 Protocol: connect
 Proxy: 36.111.142.2:12798
@@ -47,28 +31,12 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 101.36.125.154:887
+Proxy: 167.71.48.245:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 106.120.183.118:12700
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 36.150.4.6:12700
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
+Country: Germany
 
 Protocol: connect
 Proxy: 96.62.191.2:7777
@@ -287,6 +255,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 96.62.191.31:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 96.62.191.32:7777
 Status: working
 IP: N/A
@@ -416,6 +392,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.48:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 96.62.191.49:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -592,14 +576,6 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.71:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.72:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -871,14 +847,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.108:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.109:7777
 Status: working
 IP: N/A
@@ -904,14 +872,6 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.112:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.113:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1127,6 +1087,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 96.62.191.142:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 96.62.191.143:7777
 Status: working
 IP: N/A
@@ -1272,14 +1240,6 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.161:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.162:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1479,14 +1439,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.187:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.188:7777
 Status: working
 IP: N/A
@@ -1632,6 +1584,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.206:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 96.62.191.207:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1863,14 +1823,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.236:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.237:7777
 Status: working
 IP: N/A
@@ -2015,6 +1967,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 161.97.173.139:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: connect
 Proxy: 96.62.191.7:7777
 Status: working
 IP: N/A
@@ -2061,4 +2021,12 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: connect
+Proxy: 217.61.105.211:4007
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Bolivia
 
