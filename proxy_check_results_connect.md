@@ -7,47 +7,7 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 72.240.9.63:80
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 168.138.55.69:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Japan
-
-Protocol: connect
-Proxy: 91.186.97.212:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: connect
-Proxy: 103.27.111.156:1080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 112.120.100.163:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 101.126.22.66:7777
+Proxy: 60.211.124.10:4434
 Status: working
 IP: N/A
 Anon: N/A
@@ -55,7 +15,15 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 83.217.23.34:8090
+Proxy: 2.59.181.125:33420
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
+Protocol: connect
+Proxy: 217.197.121.35:3128
 Status: working
 IP: N/A
 Anon: N/A
@@ -63,15 +31,47 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
-Proxy: 204.109.59.186:3119
+Proxy: 195.2.79.116:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Russia
 
 Protocol: connect
-Proxy: 96.62.191.2:7777
+Proxy: 58.144.141.26:12700
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 36.111.142.177:12700
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 36.111.142.177:12792
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 36.150.4.6:12700
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 204.109.59.186:3119
 Status: working
 IP: N/A
 Anon: N/A
@@ -2055,6 +2055,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 2.50.142.185:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United Arab Emirates
+
+Protocol: connect
 Proxy: 96.62.191.7:7777
 Status: working
 IP: N/A
@@ -2103,10 +2111,10 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 36.140.27.13:1081
+Proxy: 47.245.30.253:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Japan
 
