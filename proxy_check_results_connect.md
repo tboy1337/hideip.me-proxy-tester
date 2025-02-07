@@ -1,20 +1,4 @@
 Protocol: connect
-Proxy: 88.198.212.91:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: connect
-Proxy: 119.252.173.26:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: connect
 Proxy: 103.27.111.156:1080
 Status: working
 IP: N/A
@@ -23,7 +7,7 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 118.193.32.18:887
+Proxy: 101.36.125.154:887
 Status: working
 IP: N/A
 Anon: N/A
@@ -47,6 +31,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 96.62.191.4:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 96.62.191.5:7777
 Status: working
 IP: N/A
@@ -63,7 +55,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.9:7777
+Proxy: 96.62.191.10:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -119,23 +111,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.18:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.19:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.20:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -151,14 +127,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.22:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.23:7777
 Status: working
 IP: N/A
@@ -167,23 +135,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.24:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.25:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.26:7777
+Proxy: 96.62.191.27:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -200,14 +152,6 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.30:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.31:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -271,23 +215,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.40:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.41:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.43:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -319,7 +247,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.47:7777
+Proxy: 96.62.191.48:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -327,7 +255,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.48:7777
+Proxy: 96.62.191.49:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -343,7 +271,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.52:7777
+Proxy: 96.62.191.51:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -351,7 +279,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.53:7777
+Proxy: 96.62.191.54:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -375,14 +303,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.57:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.58:7777
 Status: working
 IP: N/A
@@ -391,15 +311,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.59:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.61:7777
+Proxy: 96.62.191.60:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -415,7 +327,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.64:7777
+Proxy: 96.62.191.63:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -455,23 +367,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.69:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.70:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.71:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -511,14 +407,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.78:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.79:7777
 Status: working
 IP: N/A
@@ -536,6 +424,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.81:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 96.62.191.82:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -575,31 +471,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.87:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.88:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.90:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.91:7777
+Proxy: 96.62.191.89:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -616,14 +488,6 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.93:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.94:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -655,14 +519,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.98:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.99:7777
 Status: working
 IP: N/A
@@ -687,6 +543,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 96.62.191.102:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 96.62.191.103:7777
 Status: working
 IP: N/A
@@ -703,23 +567,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.105:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.106:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.107:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -775,7 +623,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.114:7777
+Proxy: 96.62.191.115:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -815,22 +663,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.120:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.121:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.122:7777
 Status: working
 IP: N/A
@@ -847,31 +679,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.124:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.125:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.126:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.127:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -903,14 +711,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.131:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.134:7777
 Status: working
 IP: N/A
@@ -919,7 +719,23 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 96.62.191.135:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 96.62.191.136:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 96.62.191.137:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -959,7 +775,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.143:7777
+Proxy: 96.62.191.142:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -967,7 +783,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.144:7777
+Proxy: 96.62.191.143:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1063,22 +879,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.156:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.157:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.158:7777
 Status: working
 IP: N/A
@@ -1119,14 +919,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.163:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.164:7777
 Status: working
 IP: N/A
@@ -1143,6 +935,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 96.62.191.166:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 96.62.191.167:7777
 Status: working
 IP: N/A
@@ -1151,7 +951,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.168:7777
+Proxy: 96.62.191.169:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1159,7 +959,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.171:7777
+Proxy: 96.62.191.170:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1168,30 +968,6 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.172:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.173:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.174:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.175:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1215,15 +991,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.178:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.179:7777
+Proxy: 96.62.191.180:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1263,7 +1031,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.185:7777
+Proxy: 96.62.191.186:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1271,7 +1039,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.186:7777
+Proxy: 96.62.191.187:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1295,30 +1063,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.190:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.191:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.192:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.193:7777
 Status: working
 IP: N/A
@@ -1328,22 +1072,6 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.194:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.195:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.196:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1367,39 +1095,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.200:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.201:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.203:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.204:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.205:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1423,14 +1119,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.208:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.209:7777
 Status: working
 IP: N/A
@@ -1447,7 +1135,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.212:7777
+Proxy: 96.62.191.211:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1455,7 +1143,15 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.214:7777
+Proxy: 96.62.191.213:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 96.62.191.215:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1471,23 +1167,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.217:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.218:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.220:7777
+Proxy: 96.62.191.219:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1496,6 +1176,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.221:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 96.62.191.222:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1535,7 +1223,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.227:7777
+Proxy: 96.62.191.228:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1551,22 +1239,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.230:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.231:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.232:7777
 Status: working
 IP: N/A
@@ -1575,15 +1247,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.234:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.235:7777
+Proxy: 96.62.191.233:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1600,6 +1264,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.237:7777
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 96.62.191.238:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1632,14 +1304,6 @@ Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.242:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.243:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1703,14 +1367,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.252:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.253:7777
 Status: working
 IP: N/A
@@ -1719,31 +1375,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 96.62.191.254:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.7:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 96.62.191.8:7777
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 96.62.191.75:7777
 Status: working
 IP: N/A
 Anon: N/A
@@ -1775,7 +1407,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 180.184.205.59:12798
+Proxy: 116.172.92.16:12700
 Status: working
 IP: N/A
 Anon: N/A
@@ -1783,20 +1415,12 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 218.31.88.90:11889
+Proxy: 116.172.66.186:12701
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: China
-
-Protocol: connect
-Proxy: 195.209.114.6:8090
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Russia
 
 Protocol: connect
 Proxy: 195.209.114.30:8090
@@ -1807,18 +1431,10 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
-Proxy: 195.209.114.146:8090
+Proxy: 195.209.112.155:8090
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Russia
-
-Protocol: connect
-Proxy: 114.80.37.192:3081
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
 
