@@ -1,42 +1,66 @@
 Protocol: connect
-Proxy: 88.198.212.91:3128
+Proxy: 204.109.59.194:3120
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: United States
 
 Protocol: connect
-Proxy: 103.151.140.124:10609
+Proxy: 199.48.129.114:3120
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: United States
 
 Protocol: connect
-Proxy: 83.118.60.147:8213
+Proxy: 94.159.110.4:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: Russia
 
 Protocol: connect
-Proxy: 185.157.160.159:8118
+Proxy: 204.109.59.194:3121
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Sweden
+Country: United States
 
 Protocol: connect
-Proxy: 36.103.167.209:7890
+Proxy: 118.163.27.53:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Taiwan
+
+Protocol: connect
+Proxy: 45.58.147.27:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 45.58.147.30:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 204.109.59.186:3119
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: connect
 Proxy: 96.62.191.2:7777
@@ -2071,38 +2095,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 106.116.245.9:9788
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 218.31.88.90:11889
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 211.144.194.122:10704
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 218.98.160.110:12798
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
 Proxy: 116.172.92.11:12798
 Status: working
 IP: N/A
@@ -2112,6 +2104,14 @@ Country: China
 
 Protocol: connect
 Proxy: 185.133.36.104:65432
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: connect
+Proxy: 185.133.36.120:65432
 Status: working
 IP: N/A
 Anon: N/A
