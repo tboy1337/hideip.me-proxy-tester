@@ -7,6 +7,22 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
+Proxy: 119.252.173.26:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
+Proxy: 47.251.122.81:8888
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 112.120.100.163:3128
 Status: working
 IP: N/A
@@ -15,28 +31,12 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 36.103.167.209:7890
+Proxy: 106.116.245.116:9788
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: China
-
-Protocol: connect
-Proxy: 183.66.135.142:22222
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 204.109.59.210:3119
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
 
 Protocol: connect
 Proxy: 218.98.160.110:12798
@@ -45,28 +45,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: China
-
-Protocol: connect
-Proxy: 116.172.92.11:12798
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 218.1.237.240:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 89.46.249.145:36918
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United Kingdom
 
