@@ -15,7 +15,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 112.120.100.163:3128
+Proxy: 103.27.111.156:1080
 Status: working
 IP: N/A
 Anon: N/A
@@ -31,12 +31,12 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 8.213.211.216:53128
+Proxy: 45.58.147.28:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: United States
 
 Protocol: connect
 Proxy: 8.218.119.80:4444
