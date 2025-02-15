@@ -15,18 +15,18 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 45.58.147.27:3128
+Proxy: 114.80.36.63:3081
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: China
 
 Protocol: connect
-Proxy: 78.129.155.75:8080
+Proxy: 2.50.143.230:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United Kingdom
+Country: United Arab Emirates
 
