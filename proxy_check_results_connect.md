@@ -1,37 +1,53 @@
 Protocol: connect
-Proxy: 81.90.149.186:3128
+Proxy: 47.236.8.166:18080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Iran
+Country: Singapore
 
 Protocol: connect
-Proxy: 199.48.130.178:3120
+Proxy: 8.213.211.216:53128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Thailand
 
 Protocol: connect
-Proxy: 199.48.135.186:3120
+Proxy: 8.217.124.178:49440
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Hong Kong
 
 Protocol: connect
-Proxy: 2.50.143.230:3128
+Proxy: 221.202.27.194:10810
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United Arab Emirates
+Country: China
 
 Protocol: connect
-Proxy: 199.48.130.179:3120
+Proxy: 83.217.23.34:8090
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
+Proxy: 78.129.155.75:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: connect
+Proxy: 118.70.135.1:60026
 Status: working
 IP: N/A
 Anon: N/A
