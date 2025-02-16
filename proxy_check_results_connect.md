@@ -1,10 +1,18 @@
 Protocol: connect
-Proxy: 47.251.122.81:8888
+Proxy: 8.218.119.80:4444
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Hong Kong
+
+Protocol: connect
+Proxy: 194.60.133.122:9912
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
 Protocol: connect
 Proxy: 176.97.210.117:3000
