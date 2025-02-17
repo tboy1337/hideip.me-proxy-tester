@@ -15,20 +15,20 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
-Proxy: 83.118.60.147:8213
+Proxy: 47.236.8.166:18080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: Singapore
 
 Protocol: connect
-Proxy: 204.109.59.186:3119
+Proxy: 103.27.111.156:1080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Hong Kong
 
 Protocol: connect
 Proxy: 8.218.119.80:4444
