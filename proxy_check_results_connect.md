@@ -1,18 +1,10 @@
 Protocol: connect
-Proxy: 47.236.8.166:18080
+Proxy: 176.126.196.10:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Singapore
-
-Protocol: connect
-Proxy: 8.218.119.80:4444
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
+Country: Spain
 
 Protocol: connect
 Proxy: 176.97.210.117:3000
