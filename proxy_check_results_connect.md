@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 8.223.57.218:1087
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Singapore
+
