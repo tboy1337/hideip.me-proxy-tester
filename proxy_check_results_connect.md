@@ -23,6 +23,14 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
+Proxy: 116.106.190.142:80
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
 Proxy: 8.218.119.80:4444
 Status: working
 IP: N/A
