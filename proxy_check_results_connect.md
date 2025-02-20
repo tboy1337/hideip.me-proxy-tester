@@ -15,12 +15,20 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 116.106.190.142:8080
+Proxy: 47.236.8.166:18080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Singapore
+
+Protocol: connect
+Proxy: 185.133.36.126:65432
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
 Protocol: connect
 Proxy: 176.97.210.117:3000
