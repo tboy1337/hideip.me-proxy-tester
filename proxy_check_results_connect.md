@@ -1,18 +1,18 @@
 Protocol: connect
-Proxy: 193.122.106.183:47495
+Proxy: 47.236.8.166:18080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: South Korea
+Country: Singapore
 
 Protocol: connect
-Proxy: 176.97.210.117:3000
+Proxy: 112.122.230.41:1229
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: China
 
 Protocol: connect
 Proxy: 161.35.83.151:3128
