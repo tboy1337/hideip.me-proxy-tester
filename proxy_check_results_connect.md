@@ -1,10 +1,10 @@
 Protocol: connect
-Proxy: 101.126.22.66:7777
+Proxy: 158.160.52.208:8090
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Russia
 
 Protocol: connect
 Proxy: 172.232.147.60:3128
