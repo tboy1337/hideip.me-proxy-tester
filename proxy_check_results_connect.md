@@ -1,13 +1,29 @@
 Protocol: connect
-Proxy: 196.192.76.185:3128
+Proxy: 221.202.27.194:10810
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Tanzania
+Country: China
 
 Protocol: connect
-Proxy: 91.186.97.212:3128
+Proxy: 61.152.132.35:8788
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 146.56.52.57:20201
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: India
+
+Protocol: connect
+Proxy: 158.160.52.208:8090
 Status: working
 IP: N/A
 Anon: N/A
