@@ -15,6 +15,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 168.138.55.69:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Japan
+
+Protocol: connect
 Proxy: 58.240.211.251:7890
 Status: working
 IP: N/A
