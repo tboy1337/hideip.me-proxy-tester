@@ -23,7 +23,15 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 183.130.21.40:8118
+Proxy: 172.233.78.254:7890
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Japan
+
+Protocol: connect
+Proxy: 58.240.211.250:7890
 Status: working
 IP: N/A
 Anon: N/A
