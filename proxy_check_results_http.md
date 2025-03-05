@@ -1,5 +1,13 @@
 Protocol: http
-Proxy: 103.118.46.174:8080
+Proxy: 182.93.75.77:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Nepal
+
+Protocol: http
+Proxy: 103.118.46.61:8080
 Status: working
 IP: None
 Anon: elite
@@ -7,7 +15,7 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 103.172.71.140:8080
+Proxy: 103.189.123.110:8080
 Status: working
 IP: None
 Anon: transparent
@@ -15,20 +23,44 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.152.100.221:8080
+Proxy: 103.155.190.242:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Pakistan
+Country: Indonesia
 
 Protocol: http
-Proxy: 183.109.79.187:80
+Proxy: 103.134.220.145:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 65.20.188.244:9090
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Iraq
+
+Protocol: http
+Proxy: 79.110.201.235:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Korea
+Country: Poland
+
+Protocol: http
+Proxy: 185.49.31.207:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
 
 Protocol: http
 Proxy: 91.241.241.60:9090
@@ -39,36 +71,44 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 109.95.220.45:8080
+Proxy: 212.127.95.235:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Poland
 
 Protocol: http
-Proxy: 38.156.73.229:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Türkiye
-
-Protocol: http
-Proxy: 88.222.85.14:8080
+Proxy: 61.158.175.38:9002
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Lithuania
+Country: China
 
 Protocol: http
-Proxy: 188.191.165.159:8080
+Proxy: 190.223.60.131:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Peru
+
+Protocol: http
+Proxy: 196.20.125.129:8083
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Algeria
+
+Protocol: http
+Proxy: 50.114.33.43:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
 
 Protocol: http
 Proxy: 79.110.202.131:8081
@@ -79,12 +119,44 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 123.121.4.190:86
+Proxy: 125.124.225.211:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: China
+
+Protocol: http
+Proxy: 203.95.199.7:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
+Proxy: 103.173.165.2:7777
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 59.5.195.56:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Korea
+
+Protocol: http
+Proxy: 112.86.55.130:81
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
 
 Protocol: http
 Proxy: 37.204.144.240:8080
@@ -95,12 +167,36 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 79.110.200.27:8000
+Proxy: 31.10.83.158:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: Russia
+
+Protocol: http
+Proxy: 193.25.120.142:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 185.17.153.178:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 103.57.39.249:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 5.79.226.132:8081
@@ -111,15 +207,31 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 45.244.87.19:8080
+Proxy: 203.95.196.9:8080
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Anon: elite
+Server: None
+Country: Cambodia
 
 Protocol: http
-Proxy: 203.95.196.9:8080
+Proxy: 113.104.185.133:8888
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Hong Kong
+
+Protocol: http
+Proxy: 60.26.203.110:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: http
+Proxy: 203.95.198.106:8080
 Status: working
 IP: None
 Anon: elite
