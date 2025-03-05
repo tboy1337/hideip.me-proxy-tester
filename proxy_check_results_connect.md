@@ -7,14 +7,6 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 27.254.99.183:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Thailand
-
-Protocol: connect
 Proxy: 47.251.122.81:8888
 Status: working
 IP: N/A
@@ -39,7 +31,7 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 8.210.38.209:1081
+Proxy: 47.243.113.74:5555
 Status: working
 IP: N/A
 Anon: N/A
@@ -47,10 +39,10 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 171.236.227.54:8080
+Proxy: 47.238.67.96:8888
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Hong Kong
 
