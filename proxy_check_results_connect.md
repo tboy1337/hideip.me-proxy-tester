@@ -71,14 +71,6 @@ Server: N/A
 Country: Georgia
 
 Protocol: connect
-Proxy: 192.9.188.22:8182
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 91.215.220.12:80
 Status: working
 IP: N/A
