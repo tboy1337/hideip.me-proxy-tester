@@ -7,7 +7,7 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 45.58.147.30:3128
+Proxy: 118.70.135.1:60001
 Status: working
 IP: N/A
 Anon: N/A
@@ -23,20 +23,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 42.51.69.208:11909
+Proxy: 77.91.66.238:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hungary
-
-Protocol: connect
-Proxy: 192.9.188.22:6058
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Georgia
 
 Protocol: connect
 Proxy: 91.215.220.12:80
@@ -45,12 +37,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Russia
-
-Protocol: connect
-Proxy: 195.211.190.238:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
 
