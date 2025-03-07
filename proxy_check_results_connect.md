@@ -39,10 +39,26 @@ Server: N/A
 Country: India
 
 Protocol: connect
-Proxy: 192.9.188.22:8137
+Proxy: 47.243.113.74:5555
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Hong Kong
+
+Protocol: connect
+Proxy: 5.160.224.146:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Iran
+
+Protocol: connect
+Proxy: 182.132.25.215:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
