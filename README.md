@@ -25,7 +25,7 @@ Fork this repository to your own GitHub account.
 
 - **Fetch Proxy Files**: Downloads the latest proxy files from the [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) repository.
 - **Proxy Validation**: Verifies proxies for functionality and collects metadata.
-- **Report Updates**: Commits and pushes the updated report (`proxy_check_results.md`) to your repository.
+- **Report Updates**: Commits and pushes the updated report (`proxy_check_results_*.md`) to your repository.
 
 ## Contributing
 
