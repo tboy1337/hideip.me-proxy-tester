@@ -22,11 +22,3 @@ Anon: N/A
 Server: N/A
 Country: Russia
 
-Protocol: connect
-Proxy: 192.9.188.22:6425
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
