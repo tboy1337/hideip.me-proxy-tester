@@ -7,12 +7,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 116.203.15.29:3128
+Proxy: 195.58.36.68:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Finland
+Country: Czechia
 
 Protocol: connect
 Proxy: 176.97.210.117:3000
