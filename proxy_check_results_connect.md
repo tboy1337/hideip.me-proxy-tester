@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 27.185.27.44:10020
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
