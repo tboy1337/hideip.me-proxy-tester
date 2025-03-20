@@ -22,11 +22,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 89.249.62.6:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Uzbekistan
-
