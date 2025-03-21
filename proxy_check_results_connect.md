@@ -15,10 +15,18 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 192.9.188.22:8081
+Proxy: 192.9.188.22:6109
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: connect
+Proxy: 125.209.108.106:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Pakistan
 
