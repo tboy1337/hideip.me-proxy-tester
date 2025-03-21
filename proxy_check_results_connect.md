@@ -15,12 +15,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 104.248.163.184:3128
+Proxy: 109.205.58.144:1080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United Kingdom
+Country: The Netherlands
 
 Protocol: connect
 Proxy: 125.209.108.86:3128
@@ -31,10 +31,10 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 38.180.116.106:1080
+Proxy: 31.31.0.74:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: The Netherlands
+Country: Moldova
 
