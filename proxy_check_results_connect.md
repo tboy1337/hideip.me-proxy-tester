@@ -15,12 +15,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 192.9.188.22:6109
+Proxy: 195.224.198.222:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: United Kingdom
 
 Protocol: connect
 Proxy: 125.209.108.106:3128
@@ -29,4 +29,12 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Pakistan
+
+Protocol: connect
+Proxy: 31.31.0.74:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Moldova
 
