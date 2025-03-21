@@ -14,3 +14,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 192.9.188.22:8081
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
