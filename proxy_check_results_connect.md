@@ -14,27 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 109.205.58.144:1080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: The Netherlands
-
-Protocol: connect
-Proxy: 125.209.108.86:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Pakistan
-
-Protocol: connect
-Proxy: 31.31.0.74:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Moldova
-
