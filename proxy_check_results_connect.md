@@ -15,12 +15,12 @@ Server: N/A
 Country: Singapore
 
 Protocol: connect
-Proxy: 140.245.23.249:3128
+Proxy: 218.98.160.110:12798
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: India
+Country: China
 
 Protocol: connect
 Proxy: 176.97.210.117:3000
@@ -31,26 +31,18 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 37.114.192.104:3128
+Proxy: 219.135.229.197:7890
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Iran
+Country: China
 
 Protocol: connect
-Proxy: 195.224.198.222:3128
+Proxy: 38.180.116.106:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United Kingdom
-
-Protocol: connect
-Proxy: 125.209.108.106:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Pakistan
+Country: The Netherlands
 
