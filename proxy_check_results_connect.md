@@ -15,10 +15,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 221.202.27.194:10811
+Proxy: 195.224.198.222:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: United Kingdom
 
