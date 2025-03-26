@@ -7,14 +7,6 @@ Server: None
 Country: Bangladesh
 
 Protocol: http
-Proxy: 123.200.14.194:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Bangladesh
-
-Protocol: http
 Proxy: 119.252.173.26:8080
 Status: working
 IP: None
@@ -23,20 +15,12 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 185.191.236.162:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 190.7.138.78:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Colombia
+Country: Switzerland
 
 Protocol: http
 Proxy: 185.49.31.207:8081
@@ -63,12 +47,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 208.109.234.211:8080
+Proxy: 91.241.217.58:9090
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Ukraine
 
 Protocol: http
 Proxy: 159.224.232.194:8888
@@ -79,12 +63,44 @@ Server: None
 Country: Ukraine
 
 Protocol: http
+Proxy: 95.66.138.21:8880
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
 Proxy: 203.95.197.15:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Cambodia
+
+Protocol: http
+Proxy: 79.110.202.131:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
+Proxy: 62.182.204.81:88
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 109.197.153.25:8888
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
 
 Protocol: http
 Proxy: 66.94.108.138:3128
@@ -103,14 +119,6 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 103.133.26.119:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 62.162.193.125:8081
 Status: working
 IP: None
@@ -119,12 +127,12 @@ Server: None
 Country: North Macedonia
 
 Protocol: http
-Proxy: 103.63.26.119:8080
+Proxy: 31.10.83.158:8080
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Russia
 
 Protocol: http
 Proxy: 79.110.200.27:8000
@@ -151,12 +159,12 @@ Server: None
 Country: Czechia
 
 Protocol: http
-Proxy: 178.217.89.78:8080
+Proxy: 154.0.14.116:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Bulgaria
+Country: South Africa
 
 Protocol: http
 Proxy: 203.95.199.159:8080
@@ -181,14 +189,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Cyprus
-
-Protocol: http
-Proxy: 203.95.196.171:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
 
 Protocol: http
 Proxy: 65.49.2.199:3128
@@ -247,7 +247,7 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 74.82.60.199:3128
+Proxy: 72.52.87.199:3128
 Status: working
 IP: None
 Anon: elite
@@ -255,7 +255,7 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 72.52.87.199:3128
+Proxy: 64.62.219.199:3128
 Status: working
 IP: None
 Anon: elite
@@ -327,14 +327,6 @@ Server: None
 Country: Bangladesh
 
 Protocol: http
-Proxy: 103.166.159.165:7777
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 91.83.220.123:1111
 Status: working
 IP: None
@@ -359,14 +351,6 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 92.222.167.109:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: http
 Proxy: 203.95.196.13:8080
 Status: working
 IP: None
@@ -383,6 +367,14 @@ Server: None
 Country: Cambodia
 
 Protocol: http
+Proxy: 46.187.46.173:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Russia
+
+Protocol: http
 Proxy: 50.114.33.238:8080
 Status: working
 IP: None
@@ -397,6 +389,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Cambodia
+
+Protocol: http
+Proxy: 46.12.18.103:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Greece
 
 Protocol: http
 Proxy: 5.79.224.183:8081
@@ -421,4 +421,12 @@ IP: None
 Anon: elite
 Server: None
 Country: Russia
+
+Protocol: http
+Proxy: 43.156.240.48:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
