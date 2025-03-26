@@ -22,11 +22,3 @@ Anon: N/A
 Server: N/A
 Country: Taiwan
 
-Protocol: connect
-Proxy: 27.45.184.112:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
