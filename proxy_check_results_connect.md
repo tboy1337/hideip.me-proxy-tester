@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 31.31.0.74:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Moldova
-
