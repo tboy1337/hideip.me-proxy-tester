@@ -39,39 +39,15 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 87.107.146.159:57775
+Proxy: 191.101.70.112:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Iran
+Country: Brazil
 
 Protocol: connect
 Proxy: 208.98.45.81:20004
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 208.98.45.99:20004
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 208.98.45.101:20004
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 208.98.45.104:20004
 Status: working
 IP: N/A
 Anon: N/A
@@ -87,39 +63,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 208.98.45.109:20004
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 208.98.45.68:20001
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 208.98.45.77:20001
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 208.98.45.79:20001
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 208.98.45.119:20001
 Status: working
 IP: N/A
 Anon: N/A
