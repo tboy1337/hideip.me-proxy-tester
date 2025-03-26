@@ -23,10 +23,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 210.61.207.92:3128
+Proxy: 87.107.146.25:33199
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Taiwan
+Country: Iran
 
