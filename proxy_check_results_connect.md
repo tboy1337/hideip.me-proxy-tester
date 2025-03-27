@@ -23,12 +23,20 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
-Proxy: 31.31.0.74:3128
+Proxy: 83.217.23.35:8090
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Moldova
+Country: Russia
+
+Protocol: connect
+Proxy: 77.91.70.115:59620
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Finland
 
 Protocol: connect
 Proxy: 54.169.207.96:10002
