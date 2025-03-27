@@ -15,14 +15,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 83.118.60.147:8213
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Thailand
-
-Protocol: connect
 Proxy: 176.97.210.117:3000
 Status: working
 IP: N/A
@@ -80,6 +72,14 @@ Country: Taiwan
 
 Protocol: connect
 Proxy: 208.43.38.57:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 70.39.116.226:20005
 Status: working
 IP: N/A
 Anon: N/A
