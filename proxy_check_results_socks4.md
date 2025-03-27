@@ -23,6 +23,14 @@ Server: None
 Country: United States
 
 Protocol: socks4a
+Proxy: 178.32.202.54:52638
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4a
 Proxy: 198.12.249.249:30563
 Status: working
 IP: None
@@ -32,6 +40,14 @@ Country: United States
 
 Protocol: socks4a
 Proxy: 198.12.249.249:60093
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 66.29.138.31:1171
 Status: working
 IP: None
 Anon: elite
@@ -95,6 +111,14 @@ Server: None
 Country: United States
 
 Protocol: socks4a
+Proxy: 64.202.184.249:23616
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
 Proxy: 64.202.184.249:32102
 Status: working
 IP: None
@@ -103,7 +127,7 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 54.36.176.100:52638
+Proxy: 178.32.202.54:41611
 Status: working
 IP: None
 Anon: elite
@@ -119,36 +143,12 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 66.29.138.67:8751
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks4a
 Proxy: 198.12.249.249:24929
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
-
-Protocol: socks4
-Proxy: 66.29.138.31:8751
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks4
-Proxy: 175.100.70.72:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Cambodia
 
 Protocol: socks4
 Proxy: 171.7.117.234:4153
@@ -159,23 +159,23 @@ Server: mikrotik
 Country: Thailand
 
 Protocol: socks4
-Proxy: 171.248.212.221:1080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 1.4.145.61:4145
+Proxy: 103.148.45.139:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Thailand
+Country: Indonesia
+
+Protocol: socks4
+Proxy: 103.81.194.126:5555
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: socks4a
-Proxy: 116.100.223.64:1080
+Proxy: 116.97.19.89:1080
 Status: working
 IP: None
 Anon: elite
