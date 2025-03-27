@@ -23,6 +23,22 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
+Proxy: 83.217.23.35:8090
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
+Proxy: 60.248.77.86:555
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Taiwan
+
+Protocol: connect
 Proxy: 8.218.14.185:1088
 Status: working
 IP: N/A
