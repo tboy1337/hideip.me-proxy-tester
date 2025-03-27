@@ -63,28 +63,12 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 77.91.70.115:59620
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Finland
-
-Protocol: connect
 Proxy: 60.248.77.86:555
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Taiwan
-
-Protocol: connect
-Proxy: 185.26.201.73:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
 
 Protocol: connect
 Proxy: 185.254.96.244:3030
