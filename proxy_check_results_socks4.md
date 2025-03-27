@@ -23,6 +23,14 @@ Server: None
 Country: United States
 
 Protocol: socks4a
+Proxy: 159.89.164.144:58237
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: India
+
+Protocol: socks4a
 Proxy: 198.12.249.249:30563
 Status: working
 IP: None
@@ -111,7 +119,7 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 198.12.249.249:62529
+Proxy: 198.12.249.249:24929
 Status: working
 IP: None
 Anon: elite
@@ -119,10 +127,10 @@ Server: None
 Country: United States
 
 Protocol: socks4a
-Proxy: 198.12.249.249:24929
+Proxy: 125.234.88.194:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Vietnam
 
