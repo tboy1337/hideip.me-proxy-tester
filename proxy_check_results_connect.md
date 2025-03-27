@@ -31,44 +31,12 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
-Proxy: 83.217.23.35:8090
+Proxy: 185.254.96.22:3030
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
-
-Protocol: connect
-Proxy: 77.91.70.115:59620
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Finland
-
-Protocol: connect
-Proxy: 15.235.10.43:28003
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: connect
-Proxy: 77.91.70.115:12977
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Finland
-
-Protocol: connect
-Proxy: 192.81.129.252:3133
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Germany
 
 Protocol: connect
 Proxy: 185.254.97.188:3030
