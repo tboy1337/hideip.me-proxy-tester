@@ -31,12 +31,12 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
-Proxy: 60.248.77.86:555
+Proxy: 31.31.0.74:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Taiwan
+Country: Moldova
 
 Protocol: connect
 Proxy: 8.218.14.185:1088
