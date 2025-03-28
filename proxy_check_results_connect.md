@@ -22,11 +22,3 @@ Anon: N/A
 Server: N/A
 Country: United States
 
-Protocol: connect
-Proxy: 5.75.197.16:30455
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: The Netherlands
-
