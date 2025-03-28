@@ -31,14 +31,6 @@ Server: None
 Country: United States
 
 Protocol: socks5h
-Proxy: 50.63.12.101:54885
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5h
 Proxy: 198.12.249.249:48086
 Status: working
 IP: None
@@ -111,6 +103,14 @@ Server: mikrotik
 Country: Türkiye
 
 Protocol: socks5h
+Proxy: 45.207.198.12:5555
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Mauritius
+
+Protocol: socks5h
 Proxy: 45.207.198.46:5555
 Status: working
 IP: None
@@ -119,12 +119,52 @@ Server: None
 Country: Mauritius
 
 Protocol: socks5
-Proxy: 45.142.193.6:8393
+Proxy: 45.142.193.7:7777
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: The Netherlands
+Country: Italy
+
+Protocol: socks5
+Proxy: 45.142.193.22:5013
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5
+Proxy: 45.142.193.9:10900
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5h
+Proxy: 195.35.3.190:48865
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks5
+Proxy: 45.142.193.36:6358
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5
+Proxy: 45.142.193.26:19624
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Canada
 
 Protocol: socks5h
 Proxy: 152.53.36.109:32905
@@ -134,6 +174,14 @@ Anon: elite
 Server: None
 Country: India
 
+Protocol: socks5
+Proxy: 45.142.193.36:5379
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Korea
+
 Protocol: socks5h
 Proxy: 152.53.36.109:33947
 Status: working
@@ -142,6 +190,14 @@ Anon: elite
 Server: None
 Country: India
 
+Protocol: socks5
+Proxy: 45.142.193.201:11249
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
 Protocol: socks5h
 Proxy: 152.53.36.109:38148
 Status: working
@@ -149,4 +205,12 @@ IP: None
 Anon: elite
 Server: None
 Country: India
+
+Protocol: socks5
+Proxy: 45.142.193.22:5897
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
 
