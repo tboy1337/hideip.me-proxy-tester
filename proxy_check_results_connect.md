@@ -47,26 +47,10 @@ Server: N/A
 Country: Taiwan
 
 Protocol: connect
-Proxy: 185.26.201.73:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
-
-Protocol: connect
 Proxy: 15.235.10.31:28003
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Canada
-
-Protocol: connect
-Proxy: 192.81.129.252:3133
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
 
