@@ -39,20 +39,12 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 210.61.207.92:3128
+Proxy: 89.36.65.133:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Taiwan
-
-Protocol: connect
-Proxy: 191.101.70.112:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Brazil
+Country: United Kingdom
 
 Protocol: connect
 Proxy: 15.235.10.43:28003
