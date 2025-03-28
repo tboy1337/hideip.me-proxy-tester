@@ -1,5 +1,5 @@
 Protocol: http
-Proxy: 109.197.153.25:8888
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
 Anon: elite
@@ -7,12 +7,12 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 66.94.108.138:3128
+Proxy: 109.197.153.25:8888
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Russia
 
 Protocol: http
 Proxy: 185.61.253.97:8888
@@ -47,12 +47,12 @@ Server: None
 Country: Hungary
 
 Protocol: http
-Proxy: 208.43.38.57:3128
+Proxy: 213.131.85.26:1976
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: United States
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 193.95.53.131:7777
