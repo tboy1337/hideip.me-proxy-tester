@@ -7,15 +7,23 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 103.171.150.56:8080
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Russia
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 157.66.84.14:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.88.90.18:8080
 Status: working
 IP: None
 Anon: transparent
@@ -31,28 +39,12 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 154.0.155.93:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Tanzania
-
-Protocol: http
 Proxy: 66.94.108.138:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
-
-Protocol: http
-Proxy: 103.161.130.154:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
 
 Protocol: http
 Proxy: 113.212.108.107:8080
@@ -71,20 +63,12 @@ Server: mikrotik
 Country: Tanzania
 
 Protocol: http
-Proxy: 103.102.12.105:8080
+Proxy: 171.4.88.214:8081
 Status: working
 IP: None
-Anon: elite
+Anon: transparent
 Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 64.62.219.99:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
+Country: Thailand
 
 Protocol: http
 Proxy: 102.213.146.24:8080
@@ -135,14 +119,6 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 85.208.85.202:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
 Proxy: 203.95.196.19:8080
 Status: working
 IP: None
@@ -167,22 +143,6 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 154.236.168.176:1976
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
-
-Protocol: http
-Proxy: 90.68.150.113:4321
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Spain
-
-Protocol: http
 Proxy: 103.118.44.252:8080
 Status: working
 IP: None
@@ -192,6 +152,14 @@ Country: Cambodia
 
 Protocol: http
 Proxy: 203.95.196.51:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
+Proxy: 50.114.33.197:8080
 Status: working
 IP: None
 Anon: elite
