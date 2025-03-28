@@ -31,6 +31,14 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
+Proxy: 5.75.197.16:30455
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: connect
 Proxy: 178.63.237.145:7575
 Status: working
 IP: N/A
