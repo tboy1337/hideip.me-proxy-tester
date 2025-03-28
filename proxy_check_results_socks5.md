@@ -6,7 +6,7 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks5
+Protocol: socks5h
 Proxy: 198.12.249.249:14083
 Status: working
 IP: None
@@ -102,7 +102,7 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks5h
+Protocol: socks5
 Proxy: 178.32.202.54:10635
 Status: working
 IP: None
@@ -110,7 +110,7 @@ Anon: elite
 Server: None
 Country: France
 
-Protocol: socks5
+Protocol: socks5h
 Proxy: 54.36.176.100:41611
 Status: working
 IP: None
@@ -166,48 +166,8 @@ Anon: elite
 Server: None
 Country: Mauritius
 
-Protocol: socks5
-Proxy: 45.142.193.22:4408
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Georgia
-
-Protocol: socks5
-Proxy: 45.142.193.10:9100
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 45.142.193.6:6004
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 45.142.193.6:8159
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: India
-
-Protocol: socks5
-Proxy: 45.142.193.17:13974
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 45.142.193.10:6999
+Protocol: socks5h
+Proxy: 69.64.85.167:34852
 Status: working
 IP: None
 Anon: elite
@@ -223,36 +183,12 @@ Server: None
 Country: France
 
 Protocol: socks5
-Proxy: 45.142.193.22:4145
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks5
 Proxy: 45.142.193.35:6236
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: France
-
-Protocol: socks5
-Proxy: 45.142.193.10:8888
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Kenya
-
-Protocol: socks5
-Proxy: 45.142.193.33:5554
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: The Netherlands
 
 Protocol: socks5
 Proxy: 45.142.193.15:10292
@@ -277,12 +213,4 @@ IP: None
 Anon: elite
 Server: None
 Country: The Netherlands
-
-Protocol: socks5
-Proxy: 45.142.193.32:5982
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
 
