@@ -7,20 +7,28 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.155.190.242:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 196.20.125.129:8083
+Proxy: 110.43.221.121:7088
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Algeria
+Country: China
+
+Protocol: http
+Proxy: 180.191.59.41:51804
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Philippines
+
+Protocol: http
+Proxy: 43.130.146.142:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
 Protocol: http
 Proxy: 109.197.153.25:8888
@@ -29,30 +37,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Russia
-
-Protocol: http
-Proxy: 103.80.110.190:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Bhutan
-
-Protocol: http
-Proxy: 202.182.59.225:10001
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 200.114.81.219:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Argentina
 
 Protocol: http
 Proxy: 102.213.146.24:8080
@@ -79,14 +63,6 @@ Server: None
 Country: Armenia
 
 Protocol: http
-Proxy: 113.11.98.168:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Bangladesh
-
-Protocol: http
 Proxy: 91.83.220.123:1111
 Status: working
 IP: None
@@ -109,14 +85,6 @@ IP: None
 Anon: transparent
 Server: mikrotik
 Country: Egypt
-
-Protocol: http
-Proxy: 54.221.142.167:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
 
 Protocol: http
 Proxy: 103.154.77.122:2025
@@ -143,20 +111,20 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 50.114.33.177:8080
+Proxy: 103.68.214.113:8080
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Cambodia
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
-Proxy: 50.114.33.220:8080
+Proxy: 85.215.49.159:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Cambodia
+Country: Germany
 
 Protocol: http
 Proxy: 103.118.44.252:8080
