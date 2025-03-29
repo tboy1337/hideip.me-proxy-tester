@@ -38,16 +38,8 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks5h
+Protocol: socks5
 Proxy: 64.202.184.249:31239
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5h
-Proxy: 66.29.128.190:35550
 Status: working
 IP: None
 Anon: elite
@@ -62,32 +54,24 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks5h
-Proxy: 195.91.129.101:1337
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Russia
-
 Protocol: socks5
-Proxy: 149.86.137.246:10820
+Proxy: 45.154.116.20:34858
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Türkiye
+Server: None
+Country: Ukraine
 
-Protocol: socks5h
-Proxy: 5.75.199.188:1080
+Protocol: socks5
+Proxy: 195.35.3.190:63305
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Germany
+Server: None
+Country: France
 
 Protocol: socks5
-Proxy: 45.142.193.13:5397
+Proxy: 45.142.193.7:8844
 Status: working
 IP: None
 Anon: elite
@@ -95,31 +79,7 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 45.142.193.7:8222
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 45.142.193.8:6360
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Belgium
-
-Protocol: socks5
-Proxy: 45.142.193.24:16806
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Italy
-
-Protocol: socks5
-Proxy: 45.142.193.37:5541
+Proxy: 45.142.193.10:7840
 Status: working
 IP: None
 Anon: elite
@@ -127,26 +87,18 @@ Server: None
 Country: India
 
 Protocol: socks5
-Proxy: 45.142.193.34:36150
+Proxy: 152.53.36.109:34617
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: India
 
-Protocol: socks5
-Proxy: 45.142.193.35:6630
+Protocol: socks5h
+Proxy: 152.53.36.109:46457
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: The Netherlands
-
-Protocol: socks5
-Proxy: 45.142.193.22:37595
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Malaysia
+Country: India
 
