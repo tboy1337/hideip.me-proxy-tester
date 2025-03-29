@@ -70,48 +70,8 @@ Anon: elite
 Server: None
 Country: Russia
 
-Protocol: socks5
-Proxy: 45.142.193.32:10283
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 195.35.3.190:43827
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5
-Proxy: 45.142.193.8:6398
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Iran
-
-Protocol: socks5
-Proxy: 45.142.193.10:7007
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Iran
-
 Protocol: socks5h
 Proxy: 67.222.110.81:48409
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 45.142.193.15:37595
 Status: working
 IP: None
 Anon: elite
