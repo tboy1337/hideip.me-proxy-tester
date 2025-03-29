@@ -38,3 +38,19 @@ Anon: N/A
 Server: N/A
 Country: Singapore
 
+Protocol: connect
+Proxy: 15.235.10.31:28003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: connect
+Proxy: 178.63.237.145:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Germany
+
