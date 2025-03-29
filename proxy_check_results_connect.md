@@ -31,6 +31,30 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
+Proxy: 43.153.36.22:3334
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 15.235.10.31:28003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: connect
+Proxy: 77.221.141.93:6060
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Sweden
+
+Protocol: connect
 Proxy: 5.75.197.16:30455
 Status: working
 IP: N/A
