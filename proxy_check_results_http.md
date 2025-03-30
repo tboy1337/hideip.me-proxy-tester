@@ -1,18 +1,18 @@
 Protocol: http
-Proxy: 154.65.39.7:80
+Proxy: 103.49.114.195:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Senegal
+Country: Bangladesh
 
 Protocol: http
-Proxy: 93.171.157.249:8080
+Proxy: 27.109.215.216:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Macao
 
 Protocol: http
 Proxy: 185.191.236.162:3128
@@ -21,14 +21,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Switzerland
-
-Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
 
 Protocol: http
 Proxy: 79.110.200.148:8081
@@ -47,20 +39,68 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 115.127.31.66:8080
+Proxy: 109.95.220.45:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 95.66.244.250:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 103.216.50.223:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
+Proxy: 62.241.133.227:1981
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 95.66.138.21:8880
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 39.175.75.144:30001
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: http
+Proxy: 79.110.202.131:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
+Proxy: 113.212.108.107:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Bangladesh
-
-Protocol: http
-Proxy: 154.0.155.93:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Tanzania
 
 Protocol: http
 Proxy: 79.110.200.27:8000
@@ -87,20 +127,20 @@ Server: None
 Country: Finland
 
 Protocol: http
-Proxy: 45.226.225.96:999
+Proxy: 103.171.146.133:8080
 Status: working
 IP: None
-Anon: elite
+Anon: transparent
 Server: mikrotik
-Country: Argentina
+Country: Indonesia
 
 Protocol: http
-Proxy: 212.108.135.215:9090
+Proxy: 196.251.135.26:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Cyprus
+Country: South Africa
 
 Protocol: http
 Proxy: 65.49.2.199:3128
@@ -151,12 +191,44 @@ Server: None
 Country: United States
 
 Protocol: http
+Proxy: 72.52.87.199:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 64.62.219.199:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 65.49.14.6:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
 Proxy: 74.82.60.99:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: http
+Proxy: 102.213.146.24:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Africa
 
 Protocol: http
 Proxy: 185.61.253.97:8888
@@ -191,12 +263,12 @@ Server: None
 Country: Hungary
 
 Protocol: http
-Proxy: 92.222.167.109:3128
+Proxy: 208.43.38.57:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
+Country: United States
 
 Protocol: http
 Proxy: 203.95.198.169:8080
@@ -207,12 +279,12 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 192.81.129.252:3133
+Proxy: 37.114.37.82:2019
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Germany
 
 Protocol: http
 Proxy: 50.114.33.226:8080
@@ -247,12 +319,12 @@ Server: None
 Country: Hungary
 
 Protocol: http
-Proxy: 213.131.85.30:1976
+Proxy: 27.66.8.156:2940
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Anon: elite
+Server: None
+Country: Vietnam
 
 Protocol: http
 Proxy: 179.48.251.190:8080
@@ -263,10 +335,18 @@ Server: None
 Country: Costa Rica
 
 Protocol: http
-Proxy: 50.114.33.1:8080
+Proxy: 194.39.127.56:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Cambodia
+Country: Portugal
+
+Protocol: http
+Proxy: 179.48.251.190:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Costa Rica
 
