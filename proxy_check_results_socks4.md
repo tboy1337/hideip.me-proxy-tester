@@ -1,13 +1,13 @@
 Protocol: socks4
-Proxy: 80.92.224.141:5678
+Proxy: 185.79.243.153:38431
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ukraine
+Country: Poland
 
 Protocol: socks4
-Proxy: 83.234.76.155:4145
+Proxy: 95.128.142.76:1080
 Status: working
 IP: None
 Anon: transparent
@@ -15,20 +15,20 @@ Server: mikrotik
 Country: Russia
 
 Protocol: socks4a
-Proxy: 66.29.138.31:38925
+Proxy: 166.62.121.196:61764
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4a
-Proxy: 66.29.138.31:53597
+Protocol: socks4
+Proxy: 5.189.140.148:20091
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Germany
 
 Protocol: socks4a
 Proxy: 64.202.184.249:60221
@@ -54,48 +54,40 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
-Proxy: 66.29.138.67:1171
+Protocol: socks4a
+Proxy: 66.29.138.67:8751
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
-
-Protocol: socks4
-Proxy: 178.32.202.54:48169
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks4
-Proxy: 54.36.176.100:49864
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
 
 Protocol: socks4a
-Proxy: 67.222.106.44:54666
+Proxy: 192.169.233.191:25441
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
 
+Protocol: socks4a
+Proxy: 159.69.73.200:44183
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
 Protocol: socks4
-Proxy: 103.81.194.126:5555
+Proxy: 103.39.51.156:1090
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
 Country: Indonesia
 
-Protocol: socks4a
-Proxy: 27.77.234.239:1080
+Protocol: socks4
+Proxy: 27.65.119.241:1080
 Status: working
 IP: None
 Anon: elite
@@ -103,10 +95,18 @@ Server: None
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 27.75.145.225:1080
+Proxy: 27.75.149.199:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Vietnam
+
+Protocol: socks4
+Proxy: 134.35.211.210:1080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Yemen
 
