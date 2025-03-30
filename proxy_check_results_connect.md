@@ -46,11 +46,3 @@ Anon: N/A
 Server: N/A
 Country: Canada
 
-Protocol: connect
-Proxy: 139.59.79.56:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: India
-
