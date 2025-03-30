@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: Hong Kong
 
+Protocol: connect
+Proxy: 15.235.10.31:28003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Canada
+
