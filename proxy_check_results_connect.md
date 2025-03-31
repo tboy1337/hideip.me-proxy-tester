@@ -23,12 +23,12 @@ Server: N/A
 Country: Ireland
 
 Protocol: connect
-Proxy: 221.202.27.194:10811
+Proxy: 83.167.73.125:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Russia
 
 Protocol: connect
 Proxy: 208.43.38.57:3128
@@ -39,23 +39,15 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 154.6.190.79:4444
+Proxy: 14.103.234.196:8899
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: France
+Country: Seychelles
 
 Protocol: connect
-Proxy: 61.160.236.62:8888
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 38.38.228.201:34423
+Proxy: 38.38.228.16:34423
 Status: working
 IP: N/A
 Anon: N/A
