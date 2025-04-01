@@ -15,26 +15,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 43.153.36.22:3334
+Proxy: 115.87.207.192:8213
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 2.50.142.225:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United Arab Emirates
-
-Protocol: connect
-Proxy: 157.245.59.240:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Singapore
+Country: Thailand
 
