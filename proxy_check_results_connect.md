@@ -47,18 +47,10 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 210.61.207.92:3128
+Proxy: 202.61.203.162:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Taiwan
-
-Protocol: connect
-Proxy: 93.108.36.22:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Portugal
+Country: Germany
 
