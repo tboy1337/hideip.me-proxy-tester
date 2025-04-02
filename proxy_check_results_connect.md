@@ -31,6 +31,14 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
+Proxy: 210.61.207.92:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Taiwan
+
+Protocol: connect
 Proxy: 192.81.129.252:3133
 Status: working
 IP: N/A
@@ -45,12 +53,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Singapore
-
-Protocol: connect
-Proxy: 13.233.39.114:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: India
 
