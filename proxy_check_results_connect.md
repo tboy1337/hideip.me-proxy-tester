@@ -22,11 +22,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 2.59.181.125:15100
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Türkiye
-
