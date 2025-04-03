@@ -15,12 +15,20 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 15.235.10.31:28003
+Proxy: 219.135.229.196:7890
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: China
+
+Protocol: connect
+Proxy: 103.249.86.48:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Malaysia
 
 Protocol: connect
 Proxy: 5.189.190.187:8090
