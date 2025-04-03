@@ -7,15 +7,7 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 119.252.173.26:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
-Protocol: connect
-Proxy: 218.98.160.110:12798
+Proxy: 112.64.155.147:1088
 Status: working
 IP: N/A
 Anon: N/A
@@ -29,14 +21,6 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Germany
-
-Protocol: connect
-Proxy: 221.202.27.194:10811
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
 
 Protocol: connect
 Proxy: 123.112.240.180:7893
