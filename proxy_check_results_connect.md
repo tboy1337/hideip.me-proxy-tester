@@ -23,7 +23,7 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 15.235.10.43:28003
+Proxy: 15.235.10.31:28003
 Status: working
 IP: N/A
 Anon: N/A
