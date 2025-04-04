@@ -31,10 +31,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 123.112.240.180:7893
+Proxy: 222.186.21.30:6789
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Hong Kong
 
