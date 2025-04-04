@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 208.43.38.57:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
