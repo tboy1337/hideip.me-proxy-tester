@@ -31,12 +31,12 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 208.43.38.57:3128
+Proxy: 103.249.86.48:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Malaysia
 
 Protocol: connect
 Proxy: 15.235.10.31:28003
@@ -45,20 +45,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Canada
-
-Protocol: connect
-Proxy: 107.172.96.11:24283
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 2.59.181.248:15151
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Türkiye
 
