@@ -1,4 +1,20 @@
 Protocol: http
+Proxy: 167.99.124.118:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 154.0.14.116:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Africa
+
+Protocol: http
 Proxy: 203.95.196.171:8080
 Status: working
 IP: None
@@ -8,14 +24,6 @@ Country: Cambodia
 
 Protocol: http
 Proxy: 208.43.38.57:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 192.81.129.252:3133
 Status: working
 IP: None
 Anon: elite
@@ -47,6 +55,14 @@ Server: None
 Country: Cambodia
 
 Protocol: http
+Proxy: 14.186.125.108:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: http
 Proxy: 37.16.75.117:3128
 Status: working
 IP: None
@@ -61,4 +77,12 @@ IP: None
 Anon: elite
 Server: None
 Country: Cambodia
+
+Protocol: http
+Proxy: 37.16.75.117:3129
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
 
