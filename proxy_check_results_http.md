@@ -1,26 +1,18 @@
 Protocol: http
-Proxy: 119.252.173.26:8080
+Proxy: 176.36.190.253:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Indonesia
+Anon: transparent
+Server: mikrotik
+Country: Ukraine
 
 Protocol: http
-Proxy: 157.20.50.238:8080
+Proxy: 103.82.126.202:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
 Country: Indonesia
-
-Protocol: http
-Proxy: 196.20.125.129:8083
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Algeria
 
 Protocol: http
 Proxy: 203.95.196.171:8080
@@ -39,12 +31,28 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 91.83.220.123:8080
+Proxy: 112.208.170.201:5050
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Philippines
+
+Protocol: http
+Proxy: 146.59.16.105:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Hungary
+Country: France
+
+Protocol: http
+Proxy: 194.99.22.21:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: http
 Proxy: 103.216.50.206:8080
@@ -63,23 +71,15 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 103.133.60.12:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.118.44.254:8080
+Proxy: 193.95.53.131:7788
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Cambodia
+Country: Tunisia
 
 Protocol: http
-Proxy: 103.118.44.237:8080
+Proxy: 103.118.44.254:8080
 Status: working
 IP: None
 Anon: elite
@@ -103,6 +103,22 @@ Server: None
 Country: Cambodia
 
 Protocol: http
+Proxy: 217.52.247.89:1981
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 197.166.106.82:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
 Proxy: 103.118.44.69:8080
 Status: working
 IP: None
@@ -119,10 +135,10 @@ Server: None
 Country: Germany
 
 Protocol: http
-Proxy: 123.26.24.116:1111
+Proxy: 188.165.179.23:9443
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
+Country: France
 
