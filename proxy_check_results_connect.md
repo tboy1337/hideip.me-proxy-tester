@@ -22,11 +22,3 @@ Anon: N/A
 Server: N/A
 Country: Hong Kong
 
-Protocol: connect
-Proxy: 135.181.19.230:50608
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Spain
-
