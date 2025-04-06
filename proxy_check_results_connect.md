@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 58.214.182.66:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
