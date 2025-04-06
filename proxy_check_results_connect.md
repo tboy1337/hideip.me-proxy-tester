@@ -39,10 +39,10 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 5.189.190.187:8090
+Proxy: 103.249.86.48:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Malaysia
 
