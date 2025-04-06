@@ -22,19 +22,3 @@ Anon: N/A
 Server: N/A
 Country: Hong Kong
 
-Protocol: connect
-Proxy: 219.135.229.203:7890
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 103.249.86.48:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Malaysia
-
