@@ -31,20 +31,20 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 89.36.65.133:3128
+Proxy: 188.34.160.26:6699
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United Kingdom
+Country: Germany
 
 Protocol: connect
-Proxy: 58.214.182.66:8118
+Proxy: 64.176.41.252:30001
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Hong Kong
 
 Protocol: connect
 Proxy: 47.76.31.106:8080
