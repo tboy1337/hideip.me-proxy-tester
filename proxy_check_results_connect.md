@@ -22,19 +22,3 @@ Anon: N/A
 Server: N/A
 Country: United Kingdom
 
-Protocol: connect
-Proxy: 116.237.112.58:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 64.176.41.252:30001
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
