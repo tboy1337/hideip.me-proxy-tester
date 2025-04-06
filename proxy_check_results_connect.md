@@ -39,12 +39,12 @@ Server: N/A
 Country: United Kingdom
 
 Protocol: connect
-Proxy: 15.235.10.31:28003
+Proxy: 58.214.182.66:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: China
 
 Protocol: connect
 Proxy: 47.76.31.106:8080
