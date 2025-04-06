@@ -47,10 +47,18 @@ Server: N/A
 Country: Tunisia
 
 Protocol: connect
-Proxy: 103.149.137.102:30000
+Proxy: 15.235.9.224:28003
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Canada
+
+Protocol: connect
+Proxy: 15.235.53.20:28003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Canada
 
