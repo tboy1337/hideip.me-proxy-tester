@@ -31,6 +31,14 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
+Proxy: 192.81.129.252:3133
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 5.189.190.187:8090
 Status: working
 IP: N/A
@@ -47,15 +55,15 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
-Proxy: 139.180.137.60:30033
+Proxy: 89.58.46.123:9100
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: Germany
 
 Protocol: connect
-Proxy: 139.180.137.60:30000
+Proxy: 139.180.137.60:30033
 Status: working
 IP: N/A
 Anon: N/A
