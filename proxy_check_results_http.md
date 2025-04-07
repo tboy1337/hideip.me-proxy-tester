@@ -1,21 +1,13 @@
 Protocol: http
-Proxy: 167.99.124.118:80
+Proxy: 122.116.125.115:8888
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Taiwan
 
 Protocol: http
 Proxy: 178.177.54.157:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 62.33.53.248:3128
 Status: working
 IP: None
 Anon: elite
@@ -29,14 +21,6 @@ IP: None
 Anon: elite
 Server: None
 Country: France
-
-Protocol: http
-Proxy: 157.66.84.14:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
 
 Protocol: http
 Proxy: 79.110.202.184:8081
@@ -55,14 +39,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 178.115.253.35:8080
-Status: working
-IP: None
-Anon: transparent
-Server: None
-Country: Austria
-
-Protocol: http
 Proxy: 212.127.95.235:8081
 Status: working
 IP: None
@@ -71,20 +47,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 175.34.36.22:8888
+Proxy: 91.244.255.107:1214
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Australia
-
-Protocol: http
-Proxy: 45.151.70.237:8080
-Status: working
-IP: None
-Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Russia
 
 Protocol: http
 Proxy: 83.168.75.202:8081
@@ -95,12 +63,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 38.123.220.173:999
+Proxy: 196.1.93.16:80
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Argentina
+Anon: elite
+Server: None
+Country: Senegal
 
 Protocol: http
 Proxy: 91.83.220.123:1111
@@ -119,42 +87,50 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 5.228.144.64:8081
+Proxy: 147.161.246.37:10801
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Switzerland
 
 Protocol: http
-Proxy: 103.230.81.126:8080
+Proxy: 87.120.103.205:8080
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.24.215.126:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 213.131.85.26:1981
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Server: None
+Country: Albania
 
 Protocol: http
 Proxy: 101.255.119.205:8080
 Status: working
 IP: None
 Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 193.95.53.131:7788
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Tunisia
+
+Protocol: http
+Proxy: 103.118.44.237:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
+Proxy: 36.90.24.147:8080
+Status: working
+IP: None
+Anon: transparent
 Server: mikrotik
 Country: Indonesia
 
