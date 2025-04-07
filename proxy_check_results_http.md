@@ -23,12 +23,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 78.28.152.111:80
+Proxy: 83.168.72.172:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Bosnia and Herzegovina
+Country: Poland
 
 Protocol: http
 Proxy: 115.127.31.66:8080
@@ -55,12 +55,12 @@ Server: None
 Country: Hungary
 
 Protocol: http
-Proxy: 192.81.129.252:3133
+Proxy: 197.164.101.19:1981
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: United States
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 50.114.33.145:8080
