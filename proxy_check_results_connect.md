@@ -31,10 +31,26 @@ Server: N/A
 Country: China
 
 Protocol: connect
+Proxy: 15.235.10.31:28003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: connect
 Proxy: 116.202.50.179:40001
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: connect
+Proxy: 65.109.61.30:60000
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Poland
 
