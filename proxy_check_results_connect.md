@@ -1,4 +1,12 @@
 Protocol: connect
+Proxy: 217.26.67.57:3180
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Serbia
+
+Protocol: connect
 Proxy: 88.198.212.91:3128
 Status: working
 IP: N/A
@@ -29,22 +37,6 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Hong Kong
-
-Protocol: connect
-Proxy: 65.108.232.33:60109
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Norway
-
-Protocol: connect
-Proxy: 2.50.142.156:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United Arab Emirates
 
 Protocol: connect
 Proxy: 85.194.244.91:10808
