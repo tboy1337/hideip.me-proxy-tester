@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: Vietnam
 
+Protocol: connect
+Proxy: 125.230.229.243:1080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Taiwan
+
