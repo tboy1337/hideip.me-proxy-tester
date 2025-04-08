@@ -7,15 +7,7 @@ Server: None
 Country: Bangladesh
 
 Protocol: http
-Proxy: 122.151.54.147:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Australia
-
-Protocol: http
-Proxy: 37.140.51.159:80
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
 Anon: elite
@@ -23,12 +15,12 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 119.252.173.26:8080
+Proxy: 77.119.240.209:8080
 Status: working
 IP: None
-Anon: elite
+Anon: transparent
 Server: None
-Country: Indonesia
+Country: Austria
 
 Protocol: http
 Proxy: 79.110.201.235:8081
@@ -95,15 +87,7 @@ Server: None
 Country: Hong Kong
 
 Protocol: http
-Proxy: 115.127.31.66:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Bangladesh
-
-Protocol: http
-Proxy: 79.110.202.131:8081
+Proxy: 79.110.200.27:8000
 Status: working
 IP: None
 Anon: elite
@@ -111,12 +95,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 62.182.204.81:88
+Proxy: 38.123.220.173:999
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Russia
+Anon: transparent
+Server: mikrotik
+Country: Argentina
 
 Protocol: http
 Proxy: 218.75.224.4:3309
@@ -133,14 +117,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Cyprus
-
-Protocol: http
-Proxy: 220.116.142.217:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Korea
 
 Protocol: http
 Proxy: 91.83.220.123:1111
@@ -167,6 +143,14 @@ Server: None
 Country: Hungary
 
 Protocol: http
+Proxy: 45.59.188.219:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Canada
+
+Protocol: http
 Proxy: 213.131.85.26:1981
 Status: working
 IP: None
@@ -191,14 +175,6 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 103.79.131.70:13001
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Indonesia
-
-Protocol: http
 Proxy: 50.114.33.145:8080
 Status: working
 IP: None
@@ -207,10 +183,10 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 58.208.218.18:8888
+Proxy: 27.131.248.120:8081
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: China
+Server: mikrotik
+Country: Indonesia
 
