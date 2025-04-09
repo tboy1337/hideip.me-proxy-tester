@@ -1,4 +1,12 @@
 Protocol: http
+Proxy: 103.216.50.11:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
 Proxy: 121.182.138.71:80
 Status: working
 IP: None
@@ -7,12 +15,20 @@ Server: None
 Country: South Korea
 
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 182.253.181.10:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 27.109.215.216:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Macao
 
 Protocol: http
 Proxy: 79.110.201.235:8081
@@ -79,6 +95,14 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 110.43.221.121:7088
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: http
 Proxy: 79.110.202.131:8081
 Status: working
 IP: None
@@ -93,6 +117,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Russia
+
+Protocol: http
+Proxy: 62.162.193.125:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: North Macedonia
 
 Protocol: http
 Proxy: 79.110.200.27:8000
@@ -111,20 +143,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 220.116.142.217:80
+Proxy: 139.159.97.82:10900
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Korea
-
-Protocol: http
-Proxy: 65.49.68.199:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
+Country: Singapore
 
 Protocol: http
 Proxy: 208.43.38.57:3128
@@ -151,12 +175,20 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 45.59.188.219:3128
+Proxy: 157.20.91.137:8080
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Canada
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 31.56.78.165:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 193.95.53.131:7788
@@ -165,6 +197,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Tunisia
+
+Protocol: http
+Proxy: 103.133.60.12:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 14.186.125.108:8080
