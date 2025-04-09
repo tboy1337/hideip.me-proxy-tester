@@ -23,20 +23,20 @@ Server: N/A
 Country: Malaysia
 
 Protocol: connect
-Proxy: 65.109.61.30:60109
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Norway
-
-Protocol: connect
-Proxy: 65.109.61.30:60011
+Proxy: 37.16.75.117:3129
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Poland
+
+Protocol: connect
+Proxy: 167.172.44.105:8889
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
 Protocol: connect
 Proxy: 85.194.244.91:10808
