@@ -23,12 +23,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 103.249.86.48:3128
+Proxy: 2.50.142.156:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Malaysia
+Country: United Arab Emirates
 
 Protocol: connect
 Proxy: 85.194.244.91:10808
