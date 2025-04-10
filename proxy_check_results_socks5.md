@@ -23,6 +23,14 @@ Server: None
 Country: India
 
 Protocol: socks5h
+Proxy: 159.89.164.144:52133
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: India
+
+Protocol: socks5h
 Proxy: 50.63.12.101:47544
 Status: working
 IP: None
@@ -63,12 +71,12 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 103.179.156.62:1080
+Proxy: 149.86.137.246:10820
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Bangladesh
+Country: Türkiye
 
 Protocol: socks5h
 Proxy: 188.166.217.4:47553
