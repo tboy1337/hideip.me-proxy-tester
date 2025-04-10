@@ -55,6 +55,14 @@ Server: N/A
 Country: Jordan
 
 Protocol: connect
+Proxy: 51.195.116.48:28003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Jordan
+
+Protocol: connect
 Proxy: 143.198.42.182:31280
 Status: working
 IP: N/A
