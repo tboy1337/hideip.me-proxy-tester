@@ -7,7 +7,7 @@ Server: None
 Country: United States
 
 Protocol: socks5h
-Proxy: 50.63.12.101:47544
+Proxy: 50.63.12.101:59998
 Status: working
 IP: None
 Anon: elite
@@ -15,6 +15,14 @@ Server: None
 Country: United States
 
 Protocol: socks5h
+Proxy: 50.63.12.101:47544
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5
 Proxy: 50.63.12.101:54885
 Status: working
 IP: None
@@ -29,6 +37,14 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: socks5
+Proxy: 89.169.55.200:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: socks5h
 Proxy: 64.202.184.249:31239
@@ -55,6 +71,14 @@ Server: None
 Country: United States
 
 Protocol: socks5h
+Proxy: 64.202.184.249:23616
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5h
 Proxy: 64.202.184.249:32102
 Status: working
 IP: None
@@ -62,32 +86,32 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks5
-Proxy: 45.142.193.24:8088
+Protocol: socks5h
+Proxy: 67.225.137.109:61891
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Finland
+Country: United States
 
 Protocol: socks5
-Proxy: 42.3.183.215:1080
+Proxy: 103.179.156.62:1080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Hong Kong
+Country: Bangladesh
 
 Protocol: socks5
-Proxy: 45.142.193.13:4721
+Proxy: 45.142.193.10:4002
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Germany
+Country: India
 
-Protocol: socks5
-Proxy: 45.142.193.9:4005
+Protocol: socks5h
+Proxy: 89.58.45.94:43792
 Status: working
 IP: None
 Anon: elite
@@ -95,26 +119,18 @@ Server: None
 Country: Italy
 
 Protocol: socks5h
-Proxy: 45.12.132.25:51791
+Proxy: 45.12.132.28:51791
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Cyprus
 
-Protocol: socks5
-Proxy: 45.142.193.224:4014
+Protocol: socks5h
+Proxy: 78.29.46.43:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Japan
-
-Protocol: socks5h
-Proxy: 91.225.123.23:65180
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Ukraine
+Country: Russia
 
