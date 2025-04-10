@@ -23,28 +23,12 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
-Proxy: 15.235.10.31:28003
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Canada
-
-Protocol: connect
 Proxy: 83.217.23.34:8090
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Russia
-
-Protocol: connect
-Proxy: 15.235.53.20:28003
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Canada
 
 Protocol: connect
 Proxy: 85.194.244.91:10808
