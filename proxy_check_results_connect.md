@@ -15,6 +15,22 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
+Proxy: 125.209.108.86:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Pakistan
+
+Protocol: connect
+Proxy: 47.76.31.106:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Hong Kong
+
+Protocol: connect
 Proxy: 85.194.244.91:10808
 Status: working
 IP: N/A
