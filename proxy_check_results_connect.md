@@ -47,14 +47,6 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
-Proxy: 2.59.181.125:15133
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Türkiye
-
-Protocol: connect
 Proxy: 15.235.9.224:28003
 Status: working
 IP: N/A
@@ -71,12 +63,12 @@ Server: N/A
 Country: Vietnam
 
 Protocol: connect
-Proxy: 51.195.116.48:28003
+Proxy: 47.76.31.106:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Jordan
+Country: Hong Kong
 
 Protocol: connect
 Proxy: 149.248.11.28:49165

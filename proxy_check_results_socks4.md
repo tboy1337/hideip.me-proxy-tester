@@ -1,18 +1,18 @@
 Protocol: socks4
-Proxy: 80.65.80.230:5678
+Proxy: 176.120.32.135:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bosnia and Herzegovina
+Country: Ukraine
 
 Protocol: socks4
-Proxy: 169.239.236.201:10801
+Proxy: 200.108.50.254:4145
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Nigeria
+Country: Panama
 
 Protocol: socks4a
 Proxy: 50.63.12.101:1376
@@ -38,8 +38,24 @@ Anon: elite
 Server: None
 Country: United States
 
+Protocol: socks4a
+Proxy: 27.254.67.114:50729
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Thailand
+
 Protocol: socks4
-Proxy: 138.68.21.132:52639
+Proxy: 41.70.106.1:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Malawi
+
+Protocol: socks4a
+Proxy: 67.222.106.44:33803
 Status: working
 IP: None
 Anon: elite
@@ -47,47 +63,47 @@ Server: None
 Country: United States
 
 Protocol: socks4
-Proxy: 188.165.227.67:37484
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks4a
-Proxy: 178.32.202.54:49280
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks4
-Proxy: 202.46.84.226:65437
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: socks4a
-Proxy: 171.247.242.185:1080
+Proxy: 171.247.245.25:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Vietnam
 
-Protocol: socks4
-Proxy: 125.234.95.221:1080
+Protocol: socks4a
+Proxy: 67.222.110.74:26039
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 67.222.106.44:45454
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 27.77.229.217:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Vietnam
 
-Protocol: socks4
-Proxy: 171.250.222.117:1080
+Protocol: socks4a
+Proxy: 27.76.199.19:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4a
+Proxy: 27.75.147.52:1080
 Status: working
 IP: None
 Anon: elite
