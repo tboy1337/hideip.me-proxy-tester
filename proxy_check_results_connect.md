@@ -15,20 +15,20 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
+Proxy: 212.227.189.168:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: connect
 Proxy: 125.209.108.86:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Pakistan
-
-Protocol: connect
-Proxy: 15.235.10.43:28003
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Canada
 
 Protocol: connect
 Proxy: 15.235.53.20:28003
@@ -55,10 +55,10 @@ Server: N/A
 Country: Jordan
 
 Protocol: connect
-Proxy: 143.198.42.182:31280
+Proxy: 223.204.176.147:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: Thailand
 
