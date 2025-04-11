@@ -23,20 +23,12 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 15.235.10.43:28003
+Proxy: 208.43.38.57:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
-
-Protocol: connect
-Proxy: 185.26.201.73:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
+Country: United States
 
 Protocol: connect
 Proxy: 15.235.53.20:28003
