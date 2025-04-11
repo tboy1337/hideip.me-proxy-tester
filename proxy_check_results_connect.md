@@ -55,12 +55,20 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
-Proxy: 193.95.53.131:7788
+Proxy: 83.217.23.34:8090
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Tunisia
+Country: Russia
+
+Protocol: connect
+Proxy: 185.247.185.19:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
 
 Protocol: connect
 Proxy: 15.235.53.20:28003
@@ -77,4 +85,36 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Vietnam
+
+Protocol: connect
+Proxy: 51.195.119.226:28003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Jordan
+
+Protocol: connect
+Proxy: 51.195.116.48:28003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Jordan
+
+Protocol: connect
+Proxy: 171.213.208.83:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 143.198.42.182:31280
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Canada
 
