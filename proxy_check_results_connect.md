@@ -23,14 +23,6 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 64.176.35.119:7891
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Japan
-
-Protocol: connect
 Proxy: 85.194.244.91:10808
 Status: working
 IP: N/A
