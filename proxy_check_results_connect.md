@@ -39,18 +39,18 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 185.247.185.19:3128
+Proxy: 208.43.38.57:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: United States
 
 Protocol: connect
-Proxy: 15.235.53.20:28003
+Proxy: 85.194.244.91:10808
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: Vietnam
 
