@@ -47,10 +47,10 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
-Proxy: 64.176.35.119:7891
+Proxy: 51.195.118.225:28003
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Japan
+Country: Jordan
 
