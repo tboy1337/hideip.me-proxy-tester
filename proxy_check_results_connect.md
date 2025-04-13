@@ -15,20 +15,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 37.16.75.117:3129
+Proxy: 185.26.201.73:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Poland
-
-Protocol: connect
-Proxy: 65.109.61.30:60009
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Poland
+Country: Germany
 
 Protocol: connect
 Proxy: 3.17.67.15:3128
