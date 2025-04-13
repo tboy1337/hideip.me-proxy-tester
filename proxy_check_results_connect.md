@@ -15,10 +15,26 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 125.209.108.86:3128
+Proxy: 47.238.149.53:30009
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Pakistan
+Country: Ukraine
+
+Protocol: connect
+Proxy: 64.44.60.57:10009
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 47.238.149.53:30006
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Ukraine
 
