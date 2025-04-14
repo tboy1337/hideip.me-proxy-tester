@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: Vietnam
 
+Protocol: connect
+Proxy: 51.195.117.127:28003
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Jordan
+
