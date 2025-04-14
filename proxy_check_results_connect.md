@@ -23,6 +23,14 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
+Proxy: 89.36.65.133:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
+Protocol: connect
 Proxy: 85.194.244.91:10808
 Status: working
 IP: N/A
@@ -31,18 +39,18 @@ Server: N/A
 Country: Vietnam
 
 Protocol: connect
-Proxy: 52.221.187.205:3128
+Proxy: 51.195.119.226:28003
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Singapore
+Country: Jordan
 
 Protocol: connect
-Proxy: 47.238.149.53:30006
+Proxy: 3.17.67.15:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Ukraine
+Country: United States
 
