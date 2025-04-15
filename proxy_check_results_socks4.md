@@ -55,10 +55,18 @@ Server: None
 Country: United States
 
 Protocol: socks4
-Proxy: 103.188.168.87:1080
+Proxy: 69.64.85.167:43392
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 45.83.35.24:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Türkiye
 
