@@ -23,20 +23,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 185.26.201.73:8080
+Proxy: 208.43.38.57:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
-
-Protocol: connect
-Proxy: 51.195.119.226:28003
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Jordan
+Country: United States
 
 Protocol: connect
 Proxy: 51.195.118.225:28003
@@ -47,10 +39,10 @@ Server: N/A
 Country: Jordan
 
 Protocol: connect
-Proxy: 47.238.149.53:30006
+Proxy: 3.17.67.15:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Ukraine
+Country: United States
 
