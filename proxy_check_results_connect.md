@@ -38,3 +38,11 @@ Anon: N/A
 Server: N/A
 Country: Canada
 
+Protocol: connect
+Proxy: 144.21.58.250:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
