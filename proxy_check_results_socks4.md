@@ -22,11 +22,3 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4a
-Proxy: 46.249.49.205:10802
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: The Netherlands
-

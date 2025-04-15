@@ -1,4 +1,20 @@
 Protocol: http
+Proxy: 103.171.255.245:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 79.110.202.131:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
 Proxy: 102.213.146.24:8080
 Status: working
 IP: None
@@ -13,14 +29,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Armenia
-
-Protocol: http
-Proxy: 5.228.144.64:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
 
 Protocol: http
 Proxy: 196.251.131.82:8080
