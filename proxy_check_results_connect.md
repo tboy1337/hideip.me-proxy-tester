@@ -39,14 +39,6 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 193.95.53.131:7788
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Tunisia
-
-Protocol: connect
 Proxy: 51.195.117.127:28003
 Status: working
 IP: N/A
