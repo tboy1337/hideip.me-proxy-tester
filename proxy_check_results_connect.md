@@ -15,26 +15,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 85.194.244.91:10808
+Proxy: 85.198.16.71:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
-
-Protocol: connect
-Proxy: 51.195.118.225:28003
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Jordan
-
-Protocol: connect
-Proxy: 106.116.245.124:9788
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
+Country: Iran
 
