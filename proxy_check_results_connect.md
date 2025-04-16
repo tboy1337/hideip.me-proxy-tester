@@ -39,10 +39,26 @@ Server: N/A
 Country: Kazakhstan
 
 Protocol: connect
-Proxy: 46.105.50.211:3128
+Proxy: 45.77.99.40:8990
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: France
+Country: United States
+
+Protocol: connect
+Proxy: 220.167.233.186:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Hong Kong
+
+Protocol: connect
+Proxy: 197.189.204.162:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: South Africa
 
