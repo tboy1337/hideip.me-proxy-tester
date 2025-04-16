@@ -55,12 +55,28 @@ Server: mikrotik
 Country: Bhutan
 
 Protocol: http
+Proxy: 168.228.44.66:999
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Honduras
+
+Protocol: http
 Proxy: 5.228.144.64:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Russia
+
+Protocol: http
+Proxy: 146.59.16.105:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
 
 Protocol: http
 Proxy: 213.131.85.28:1976
@@ -79,31 +95,23 @@ Server: None
 Country: South Africa
 
 Protocol: http
-Proxy: 103.242.105.35:7777
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 213.131.85.27:1976
+Proxy: 202.182.59.52:10001
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Egypt
+Country: Indonesia
 
 Protocol: http
-Proxy: 5.79.163.92:8081
+Proxy: 15.229.11.204:8889
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Brazil
 
 Protocol: http
-Proxy: 92.49.191.54:8081
+Proxy: 5.79.163.92:8081
 Status: working
 IP: None
 Anon: elite
