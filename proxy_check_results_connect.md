@@ -23,6 +23,22 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
+Proxy: 47.238.149.53:30008
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: connect
+Proxy: 47.238.149.53:30007
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: connect
 Proxy: 47.238.149.53:30009
 Status: working
 IP: N/A
@@ -45,4 +61,12 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Hong Kong
+
+Protocol: connect
+Proxy: 116.118.48.147:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
