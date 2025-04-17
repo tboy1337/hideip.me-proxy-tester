@@ -23,12 +23,20 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 51.195.118.225:28003
+Proxy: 47.238.149.53:30009
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Jordan
+Country: Ukraine
+
+Protocol: connect
+Proxy: 93.190.105.108:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
 
 Protocol: connect
 Proxy: 47.243.113.74:4128
