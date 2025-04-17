@@ -15,15 +15,7 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 222.96.33.173:4123
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: South Korea
-
-Protocol: connect
-Proxy: 143.198.42.182:31280
+Proxy: 148.113.180.22:3128
 Status: working
 IP: N/A
 Anon: N/A
