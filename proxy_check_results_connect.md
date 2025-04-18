@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 15.235.131.24:10010
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Singapore
-
