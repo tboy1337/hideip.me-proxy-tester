@@ -15,14 +15,6 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 149.113.84.36:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 79.110.201.235:8081
 Status: working
 IP: None
@@ -103,14 +95,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 154.0.14.116:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
-
-Protocol: http
 Proxy: 208.43.38.57:3128
 Status: working
 IP: None
@@ -127,12 +111,12 @@ Server: None
 Country: Germany
 
 Protocol: http
-Proxy: 192.81.129.252:3133
+Proxy: 103.154.77.122:2025
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: United States
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 5.228.144.64:8081
@@ -151,12 +135,44 @@ Server: None
 Country: France
 
 Protocol: http
-Proxy: 103.247.13.203:8090
+Proxy: 213.131.85.28:1976
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 102.132.36.193:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Africa
+
+Protocol: http
+Proxy: 202.182.59.52:10001
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
 Country: Indonesia
+
+Protocol: http
+Proxy: 157.15.118.82:1111
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 84.103.174.6:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
 
 Protocol: http
 Proxy: 205.209.106.26:3128
@@ -175,12 +191,12 @@ Server: None
 Country: Singapore
 
 Protocol: http
-Proxy: 43.130.146.142:3128
+Proxy: 213.131.85.27:1976
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Singapore
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 185.191.236.162:3128
@@ -197,14 +213,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Vietnam
-
-Protocol: http
-Proxy: 190.223.60.131:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Peru
 
 Protocol: http
 Proxy: 45.32.88.13:31280
