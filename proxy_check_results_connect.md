@@ -23,12 +23,20 @@ Server: N/A
 Country: Jordan
 
 Protocol: connect
-Proxy: 47.238.149.53:30007
+Proxy: 47.238.149.53:30001
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Ukraine
+
+Protocol: connect
+Proxy: 46.105.50.211:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: connect
 Proxy: 136.228.244.46:9090
@@ -37,6 +45,14 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: United Kingdom
+
+Protocol: connect
+Proxy: 123.139.36.67:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
 Protocol: connect
 Proxy: 136.228.244.162:9090

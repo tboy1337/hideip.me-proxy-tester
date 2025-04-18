@@ -7,12 +7,20 @@ Server: None
 Country: Bangladesh
 
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 119.252.173.26:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Indonesia
+
+Protocol: http
+Proxy: 149.113.84.36:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 79.110.201.235:8081
@@ -71,20 +79,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 156.200.116.67:1981
+Proxy: 83.168.72.172:8081
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Egypt
-
-Protocol: http
-Proxy: 185.9.75.195:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Russia
+Server: None
+Country: Poland
 
 Protocol: http
 Proxy: 79.110.200.27:8000
@@ -101,6 +101,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
+
+Protocol: http
+Proxy: 154.0.14.116:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Africa
 
 Protocol: http
 Proxy: 208.43.38.57:3128
@@ -127,6 +135,30 @@ Server: None
 Country: United States
 
 Protocol: http
+Proxy: 5.228.144.64:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 146.59.16.105:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: http
+Proxy: 103.247.13.203:8090
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
 Proxy: 205.209.106.26:3128
 Status: working
 IP: None
@@ -135,12 +167,20 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 51.159.98.163:8089
+Proxy: 104.250.56.49:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
+Country: Singapore
+
+Protocol: http
+Proxy: 43.130.146.142:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
 Protocol: http
 Proxy: 185.191.236.162:3128
@@ -165,4 +205,12 @@ IP: None
 Anon: elite
 Server: None
 Country: Peru
+
+Protocol: http
+Proxy: 45.32.88.13:31280
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
