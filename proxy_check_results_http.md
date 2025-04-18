@@ -7,30 +7,6 @@ Server: None
 Country: Bangladesh
 
 Protocol: http
-Proxy: 119.252.173.26:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Indonesia
-
-Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 79.110.201.235:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
 Proxy: 185.49.31.207:8081
 Status: working
 IP: None
@@ -87,12 +63,28 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 45.123.142.65:8181
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
 Proxy: 83.168.75.202:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Poland
+
+Protocol: http
+Proxy: 103.180.118.184:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 208.43.38.57:3128
@@ -103,7 +95,7 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 47.241.123.150:80
+Proxy: 68.183.184.35:9090
 Status: working
 IP: None
 Anon: elite
@@ -111,15 +103,15 @@ Server: None
 Country: Singapore
 
 Protocol: http
-Proxy: 146.59.16.105:3128
+Proxy: 157.15.118.82:1111
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: France
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
-Proxy: 157.15.118.82:1111
+Proxy: 103.93.93.66:8080
 Status: working
 IP: None
 Anon: elite
@@ -143,14 +135,6 @@ Server: None
 Country: Singapore
 
 Protocol: http
-Proxy: 46.105.50.211:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: http
 Proxy: 185.191.236.162:3128
 Status: working
 IP: None
@@ -165,4 +149,28 @@ IP: None
 Anon: elite
 Server: None
 Country: Vietnam
+
+Protocol: http
+Proxy: 88.212.48.11:4444
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Slovakia
+
+Protocol: http
+Proxy: 190.223.60.131:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Peru
+
+Protocol: http
+Proxy: 31.129.97.62:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
 
