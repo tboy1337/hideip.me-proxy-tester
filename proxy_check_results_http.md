@@ -1,26 +1,26 @@
 Protocol: http
-Proxy: 103.49.114.195:8080
+Proxy: 167.99.124.118:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Bangladesh
+Country: United States
 
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 103.165.157.245:3000
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 31.43.52.216:41890
-Status: working
-IP: None
-Anon: transparent
 Server: mikrotik
-Country: Ukraine
+Country: Indonesia
+
+Protocol: http
+Proxy: 79.110.201.235:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
 
 Protocol: http
 Proxy: 185.49.31.207:8081
@@ -79,22 +79,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 157.20.50.238:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 179.1.203.75:999
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Colombia
-
-Protocol: http
 Proxy: 83.168.75.202:8081
 Status: working
 IP: None
@@ -103,28 +87,28 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 154.0.14.116:3128
+Proxy: 208.43.38.57:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Africa
+Country: United States
 
 Protocol: http
-Proxy: 213.131.85.28:1981
+Proxy: 31.56.78.165:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Egypt
+Country: Indonesia
 
 Protocol: http
-Proxy: 216.250.11.178:3128
+Proxy: 95.216.154.169:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Turkmenistan
+Country: Finland
 
 Protocol: http
 Proxy: 205.209.106.26:3128
@@ -135,7 +119,7 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 47.236.163.74:8080
+Proxy: 104.250.56.49:8080
 Status: working
 IP: None
 Anon: elite
@@ -151,18 +135,10 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 45.93.170.84:3128
+Proxy: 185.233.36.136:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: The Netherlands
-
-Protocol: http
-Proxy: 43.252.237.196:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Country: Ukraine
 
