@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 172.245.10.114:8128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
