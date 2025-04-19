@@ -1,10 +1,18 @@
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 154.65.39.7:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Senegal
+
+Protocol: http
+Proxy: 119.252.173.26:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
 
 Protocol: http
 Proxy: 79.110.201.235:8081
@@ -79,36 +87,68 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 65.49.2.99:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 101.255.119.205:8080
+Proxy: 126.209.13.230:8082
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Indonesia
+Country: Philippines
 
 Protocol: http
-Proxy: 12.131.14.114:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 194.31.212.109:8080
+Proxy: 103.180.118.184:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ukraine
+Country: Indonesia
+
+Protocol: http
+Proxy: 45.180.62.238:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Argentina
+
+Protocol: http
+Proxy: 192.81.129.252:3133
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 146.59.16.105:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: http
+Proxy: 102.132.36.193:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Africa
+
+Protocol: http
+Proxy: 84.103.174.6:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: http
+Proxy: 103.180.126.154:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 205.209.106.26:3128
@@ -135,34 +175,10 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 45.137.68.13:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
-
-Protocol: http
 Proxy: 45.93.170.84:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: The Netherlands
-
-Protocol: http
-Proxy: 31.24.44.115:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Spain
-
-Protocol: http
-Proxy: 187.155.243.141:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Mexico
 
