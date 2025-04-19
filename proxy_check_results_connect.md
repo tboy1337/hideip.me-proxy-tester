@@ -39,6 +39,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 47.238.149.53:30004
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Ukraine
+
+Protocol: connect
 Proxy: 123.139.36.231:8118
 Status: working
 IP: N/A
