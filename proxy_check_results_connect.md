@@ -30,19 +30,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 47.238.149.53:30007
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: connect
-Proxy: 185.241.208.31:60001
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
