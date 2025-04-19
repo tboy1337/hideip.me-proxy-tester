@@ -1,4 +1,28 @@
 Protocol: http
+Proxy: 103.49.114.195:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Bangladesh
+
+Protocol: http
+Proxy: 167.99.124.118:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 119.252.173.26:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
+
+Protocol: http
 Proxy: 77.119.240.209:8080
 Status: working
 IP: None
@@ -8,6 +32,14 @@ Country: Austria
 
 Protocol: http
 Proxy: 79.110.201.235:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
+Proxy: 185.49.31.207:8081
 Status: working
 IP: None
 Anon: elite
@@ -39,12 +71,28 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 185.35.130.16:55520
+Proxy: 212.127.95.235:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
+Proxy: 62.241.133.227:1981
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Russia
+Country: Egypt
+
+Protocol: http
+Proxy: 62.162.193.125:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: North Macedonia
 
 Protocol: http
 Proxy: 79.110.200.27:8000
@@ -63,6 +111,14 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 65.49.68.99:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
 Proxy: 208.43.38.57:3128
 Status: working
 IP: None
@@ -71,20 +127,28 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 192.81.129.252:3133
+Proxy: 185.26.201.73:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Germany
 
 Protocol: http
-Proxy: 103.38.104.163:7777
+Proxy: 5.228.144.64:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 213.131.85.28:1976
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Egypt
 
 Protocol: http
 Proxy: 205.209.106.26:3128
@@ -119,10 +183,10 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 171.248.148.58:3333
+Proxy: 103.118.44.182:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
+Country: Cambodia
 
