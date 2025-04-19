@@ -7,12 +7,12 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 153.127.195.58:4444
+Proxy: 79.110.201.235:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Japan
+Country: Poland
 
 Protocol: http
 Proxy: 79.110.202.184:8081
@@ -31,6 +31,14 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 91.241.217.58:9090
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Ukraine
+
+Protocol: http
 Proxy: 83.168.74.163:8080
 Status: working
 IP: None
@@ -39,12 +47,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.39.51.73:8181
+Proxy: 212.127.95.235:8081
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Poland
 
 Protocol: http
 Proxy: 83.168.72.172:8081
@@ -55,28 +63,36 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.97.198.253:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 208.43.38.57:3128
+Proxy: 102.132.36.193:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: South Africa
 
 Protocol: http
-Proxy: 160.19.178.45:8080
+Proxy: 84.103.174.6:80
 Status: working
 IP: None
 Anon: elite
+Server: None
+Country: France
+
+Protocol: http
+Proxy: 181.230.40.27:6588
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Argentina
+
+Protocol: http
+Proxy: 194.31.212.109:8080
+Status: working
+IP: None
+Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Ukraine
 
 Protocol: http
 Proxy: 205.209.106.26:3128
@@ -85,14 +101,6 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
-
-Protocol: http
-Proxy: 213.131.85.27:1981
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
 
 Protocol: http
 Proxy: 104.250.56.49:8080
@@ -111,18 +119,10 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 45.93.170.84:3128
+Proxy: 88.212.48.11:4444
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: The Netherlands
-
-Protocol: http
-Proxy: 92.251.102.5:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Malta
+Country: Slovakia
 
