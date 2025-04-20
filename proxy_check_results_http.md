@@ -7,10 +7,18 @@ Server: None
 Country: Austria
 
 Protocol: http
-Proxy: 223.25.110.41:8085
+Proxy: 77.119.240.209:8080
 Status: working
 IP: None
 Anon: transparent
+Server: None
+Country: Austria
+
+Protocol: http
+Proxy: 103.52.16.91:8081
+Status: working
+IP: None
+Anon: elite
 Server: mikrotik
 Country: Indonesia
 
@@ -23,12 +31,20 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 5.228.144.64:8081
+Proxy: 202.182.59.52:10001
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 181.230.40.27:6588
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Argentina
 
 Protocol: http
 Proxy: 185.191.236.162:3128
