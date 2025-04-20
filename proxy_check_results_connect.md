@@ -39,14 +39,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 51.195.117.127:28003
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Jordan
-
-Protocol: connect
 Proxy: 92.251.102.5:3128
 Status: working
 IP: N/A
