@@ -31,10 +31,10 @@ Server: N/A
 Country: Jordan
 
 Protocol: connect
-Proxy: 45.150.33.134:49152
+Proxy: 47.238.149.53:30001
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United Kingdom
+Country: Ukraine
 
