@@ -7,28 +7,20 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 42.96.16.71:3128
+Proxy: 157.66.84.14:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Vietnam
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
-Proxy: 78.28.152.111:80
+Proxy: 62.241.133.227:1981
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Bosnia and Herzegovina
-
-Protocol: http
-Proxy: 110.43.221.121:7088
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: China
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 208.43.38.57:3128
@@ -47,36 +39,28 @@ Server: None
 Country: Hong Kong
 
 Protocol: http
-Proxy: 103.154.77.122:2025
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 192.81.129.252:3133
+Proxy: 102.132.36.193:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: South Africa
 
 Protocol: http
-Proxy: 103.38.104.163:7777
+Proxy: 84.103.174.6:80
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
+Server: None
+Country: France
+
+Protocol: http
+Proxy: 160.19.18.99:8080
+Status: working
+IP: None
+Anon: elite
 Server: mikrotik
 Country: Indonesia
-
-Protocol: http
-Proxy: 46.98.155.228:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Ukraine
 
 Protocol: http
 Proxy: 104.250.56.49:8080
@@ -87,14 +71,6 @@ Server: None
 Country: Singapore
 
 Protocol: http
-Proxy: 160.250.35.11:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Japan
-
-Protocol: http
 Proxy: 103.152.100.221:8080
 Status: working
 IP: None
@@ -103,26 +79,10 @@ Server: mikrotik
 Country: Pakistan
 
 Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 190.223.60.131:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
-
-Protocol: http
-Proxy: 116.118.48.147:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: http
-Proxy: 88.212.48.11:4444
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Slovakia
+Country: Peru
 
