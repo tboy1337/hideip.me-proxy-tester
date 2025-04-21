@@ -1,12 +1,4 @@
 Protocol: http
-Proxy: 154.65.39.7:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Senegal
-
-Protocol: http
 Proxy: 103.49.114.195:8080
 Status: working
 IP: None
@@ -31,14 +23,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 54.38.181.125:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: http
 Proxy: 79.110.202.184:8081
 Status: working
 IP: None
@@ -47,60 +31,20 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 83.168.72.172:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 159.224.232.194:8888
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Ukraine
-
-Protocol: http
-Proxy: 83.168.75.202:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 103.179.218.15:1080
+Proxy: 213.131.85.28:1976
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Egypt
 
 Protocol: http
-Proxy: 202.182.59.52:10001
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 157.15.118.82:1111
+Proxy: 101.255.119.205:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
 Country: Indonesia
-
-Protocol: http
-Proxy: 61.79.72.201:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Korea
 
 Protocol: http
 Proxy: 43.252.237.142:8080
@@ -119,20 +63,12 @@ Server: None
 Country: Singapore
 
 Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 182.253.179.188:3128
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Switzerland
-
-Protocol: http
-Proxy: 89.58.38.239:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 3.111.212.176:3128
@@ -141,4 +77,12 @@ IP: None
 Anon: elite
 Server: None
 Country: India
+
+Protocol: http
+Proxy: 103.159.117.189:8081
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
 
