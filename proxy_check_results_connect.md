@@ -15,14 +15,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 103.204.129.42:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 218.98.160.110:12798
 Status: working
 IP: N/A
@@ -53,4 +45,12 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Jordan
+
+Protocol: connect
+Proxy: 114.225.211.66:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
