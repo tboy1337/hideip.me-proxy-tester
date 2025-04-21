@@ -31,7 +31,7 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 208.43.38.57:3128
+Proxy: 107.172.43.171:6488
 Status: working
 IP: N/A
 Anon: N/A
