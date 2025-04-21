@@ -15,12 +15,12 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 103.12.199.216:8080
+Proxy: 213.131.85.28:1981
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Pakistan
+Country: Egypt
 
 Protocol: http
 Proxy: 102.132.36.193:8080
@@ -31,12 +31,12 @@ Server: None
 Country: South Africa
 
 Protocol: http
-Proxy: 103.247.14.103:8080
+Proxy: 181.230.40.27:6588
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Argentina
 
 Protocol: http
 Proxy: 50.114.33.131:8080
