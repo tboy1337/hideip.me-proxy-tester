@@ -23,14 +23,6 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 47.238.149.53:30001
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: connect
 Proxy: 47.243.113.74:4128
 Status: working
 IP: N/A
