@@ -1,10 +1,26 @@
 Protocol: http
-Proxy: 154.0.14.116:3128
+Proxy: 203.210.85.215:3128
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Africa
+Country: Russia
+
+Protocol: http
+Proxy: 34.94.151.116:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: http
 Proxy: 208.43.38.57:3128
@@ -15,7 +31,7 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 194.99.22.21:3128
+Proxy: 89.58.46.123:9100
 Status: working
 IP: None
 Anon: elite
@@ -31,30 +47,6 @@ Server: None
 Country: Turkmenistan
 
 Protocol: http
-Proxy: 12.131.14.114:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 84.103.174.6:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: http
-Proxy: 104.250.56.49:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
-
-Protocol: http
 Proxy: 89.58.38.239:3128
 Status: working
 IP: None
@@ -63,15 +55,7 @@ Server: None
 Country: Germany
 
 Protocol: http
-Proxy: 198.7.116.47:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
-
-Protocol: http
-Proxy: 107.148.20.160:8099
+Proxy: 45.32.88.13:31280
 Status: working
 IP: None
 Anon: elite
@@ -79,20 +63,28 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 18.221.207.235:3128
+Proxy: 109.194.49.193:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: United States
+Anon: transparent
+Server: mikrotik
+Country: Russia
 
 Protocol: http
-Proxy: 103.39.70.250:8181
+Proxy: 38.156.75.132:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Indonesia
+Country: Türkiye
+
+Protocol: http
+Proxy: 157.230.253.1:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
 Protocol: http
 Proxy: 3.111.212.176:3128
@@ -101,4 +93,12 @@ IP: None
 Anon: elite
 Server: None
 Country: India
+
+Protocol: http
+Proxy: 66.228.47.125:110
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
