@@ -30,11 +30,3 @@ Anon: N/A
 Server: N/A
 Country: Hong Kong
 
-Protocol: connect
-Proxy: 47.238.149.53:30004
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
