@@ -39,10 +39,18 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 47.238.149.53:30009
+Proxy: 221.202.27.194:10811
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Ukraine
+Country: China
+
+Protocol: connect
+Proxy: 47.243.113.74:4128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Hong Kong
 
