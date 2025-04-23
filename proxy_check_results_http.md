@@ -23,6 +23,14 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 103.138.14.170:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
 Proxy: 79.110.202.184:8081
 Status: working
 IP: None
@@ -71,30 +79,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.155.196.104:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 62.162.193.125:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: North Macedonia
-
-Protocol: http
-Proxy: 79.110.200.27:8000
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
 Proxy: 83.168.75.202:8081
 Status: working
 IP: None
@@ -103,20 +87,44 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 91.205.196.215:8080
+Proxy: 47.241.123.150:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Armenia
+Country: Singapore
 
 Protocol: http
-Proxy: 103.93.93.66:8080
+Proxy: 103.149.239.87:3127
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
 Country: Indonesia
+
+Protocol: http
+Proxy: 103.79.131.70:13001
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
+
+Protocol: http
+Proxy: 157.15.118.82:1111
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 213.131.85.27:1976
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 50.114.33.245:8080
@@ -125,4 +133,60 @@ IP: None
 Anon: elite
 Server: None
 Country: Cambodia
+
+Protocol: http
+Proxy: 185.191.236.162:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Switzerland
+
+Protocol: http
+Proxy: 213.131.85.26:1981
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 103.149.239.73:7777
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 119.95.227.135:8082
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Philippines
+
+Protocol: http
+Proxy: 92.255.193.113:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 176.226.136.139:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 176.226.215.31:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
 
