@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: Hong Kong
 
+Protocol: connect
+Proxy: 193.180.208.45:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Sweden
+
