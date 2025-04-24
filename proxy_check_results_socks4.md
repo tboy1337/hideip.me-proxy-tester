@@ -1,45 +1,45 @@
 Protocol: socks4
-Proxy: 91.228.245.196:60606
+Proxy: 181.204.4.74:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Slovakia
+Country: Colombia
 
 Protocol: socks4
-Proxy: 82.130.202.219:43429
+Proxy: 12.218.209.130:13326
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Spain
+Country: United States
 
 Protocol: socks4
-Proxy: 109.232.106.150:52435
+Proxy: 190.13.147.93:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Russia
+Country: Chile
 
 Protocol: socks4
-Proxy: 51.178.68.226:46753
+Proxy: 49.0.156.20:32000
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Mongolia
+
+Protocol: socks4a
+Proxy: 166.62.121.196:61764
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
+Country: United States
 
 Protocol: socks4
-Proxy: 178.32.202.54:10635
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks4
-Proxy: 103.39.51.156:1090
+Proxy: 103.152.92.134:21080
 Status: working
 IP: None
 Anon: transparent
@@ -47,12 +47,28 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 124.169.84.161:5678
+Proxy: 46.8.48.143:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Australia
+Country: Russia
+
+Protocol: socks4
+Proxy: 103.160.205.38:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: socks4a
+Proxy: 69.202.164.128:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks4a
 Proxy: 64.202.184.249:15986
@@ -69,6 +85,14 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: socks4
+Proxy: 81.228.44.187:65530
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Sweden
 
 Protocol: socks4a
 Proxy: 64.202.184.249:31239
@@ -87,15 +111,7 @@ Server: None
 Country: United States
 
 Protocol: socks4
-Proxy: 195.251.162.32:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Greece
-
-Protocol: socks4
-Proxy: 103.81.194.120:8888
+Proxy: 103.81.194.126:8888
 Status: working
 IP: None
 Anon: transparent
