@@ -22,3 +22,19 @@ Anon: N/A
 Server: N/A
 Country: Mexico
 
+Protocol: connect
+Proxy: 118.120.231.252:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 113.200.168.238:1082
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Taiwan
+
