@@ -1,13 +1,5 @@
 Protocol: http
-Proxy: 95.66.244.250:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 103.133.26.119:8080
+Proxy: 103.165.157.239:1080
 Status: working
 IP: None
 Anon: transparent
@@ -23,18 +15,18 @@ Server: None
 Country: Turkmenistan
 
 Protocol: http
-Proxy: 123.186.146.68:8088
+Proxy: 185.191.236.162:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: China
+Country: Switzerland
 
 Protocol: http
-Proxy: 208.109.234.211:8700
+Proxy: 203.95.198.102:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Cambodia
 
