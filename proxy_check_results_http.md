@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 103.118.47.243:8080
+Proxy: 103.39.49.156:3128
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Cambodia
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.49.114.195:8080
@@ -23,14 +23,6 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 27.109.215.216:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Macao
-
-Protocol: http
 Proxy: 119.252.173.26:8080
 Status: working
 IP: None
@@ -47,23 +39,7 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 79.110.202.184:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
 Proxy: 79.110.200.148:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 83.168.74.163:8080
 Status: working
 IP: None
 Anon: elite
@@ -87,12 +63,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 79.110.202.131:8081
+Proxy: 110.43.221.121:7088
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: China
 
 Protocol: http
 Proxy: 79.110.200.27:8000
@@ -109,14 +85,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
-
-Protocol: http
-Proxy: 154.0.14.116:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
 
 Protocol: http
 Proxy: 212.108.135.215:9090
@@ -151,28 +119,12 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 216.250.11.178:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Turkmenistan
-
-Protocol: http
 Proxy: 220.84.52.176:80
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: South Korea
-
-Protocol: http
-Proxy: 185.191.236.162:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Switzerland
 
 Protocol: http
 Proxy: 190.223.60.131:8080
@@ -183,12 +135,12 @@ Server: None
 Country: Peru
 
 Protocol: http
-Proxy: 93.125.6.191:8080
+Proxy: 92.255.193.113:8080
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Belarus
+Server: None
+Country: Russia
 
 Protocol: http
 Proxy: 85.193.238.144:8081
