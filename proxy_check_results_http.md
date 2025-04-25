@@ -1,12 +1,4 @@
 Protocol: http
-Proxy: 185.191.236.162:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Switzerland
-
-Protocol: http
 Proxy: 190.223.60.131:8080
 Status: working
 IP: None
@@ -15,12 +7,20 @@ Server: None
 Country: Peru
 
 Protocol: http
-Proxy: 182.253.179.188:3128
+Proxy: 103.115.197.142:3127
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
 Server: mikrotik
-Country: Indonesia
+Country: Pakistan
+
+Protocol: http
+Proxy: 193.180.208.45:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Sweden
 
 Protocol: http
 Proxy: 191.242.177.78:3128
