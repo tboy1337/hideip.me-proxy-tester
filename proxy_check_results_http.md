@@ -1,50 +1,10 @@
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 134.249.185.223:41890
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 188.0.154.254:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Kazakhstan
-
-Protocol: http
-Proxy: 103.155.199.57:8080
-Status: working
-IP: None
-Anon: elite
+Anon: transparent
 Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 65.49.14.168:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 64.62.219.99:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 91.205.196.215:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Armenia
+Country: Ukraine
 
 Protocol: http
 Proxy: 208.43.38.57:3128
@@ -55,28 +15,44 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 103.12.199.216:8080
+Proxy: 185.191.236.162:3128
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Pakistan
+Anon: elite
+Server: None
+Country: Switzerland
 
 Protocol: http
-Proxy: 213.131.85.27:1981
+Proxy: 190.223.60.131:8080
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Anon: elite
+Server: None
+Country: Peru
 
 Protocol: http
-Proxy: 103.160.148.103:8083
+Proxy: 193.180.208.45:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Sweden
+
+Protocol: http
+Proxy: 58.69.161.62:8082
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Indonesia
+Country: Philippines
+
+Protocol: http
+Proxy: 203.95.196.173:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
 
 Protocol: http
 Proxy: 8.222.235.39:3128
@@ -87,15 +63,15 @@ Server: None
 Country: Singapore
 
 Protocol: http
-Proxy: 103.81.220.70:8080
+Proxy: 103.191.240.27:4857
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Bangladesh
 
 Protocol: http
-Proxy: 185.141.26.114:4857
+Proxy: 185.141.26.134:4857
 Status: working
 IP: None
 Anon: elite
