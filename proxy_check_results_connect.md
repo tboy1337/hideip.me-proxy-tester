@@ -1,5 +1,5 @@
 Protocol: connect
-Proxy: 47.251.122.81:8888
+Proxy: 5.78.124.240:40001
 Status: working
 IP: N/A
 Anon: N/A
