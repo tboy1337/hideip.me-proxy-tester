@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: Pakistan
 
+Protocol: connect
+Proxy: 147.78.1.25:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Mexico
+
