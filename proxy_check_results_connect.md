@@ -23,20 +23,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 195.54.178.243:24983
+Proxy: 173.208.246.194:40000
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Georgia
-
-Protocol: connect
-Proxy: 18.162.51.75:8089
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
+Country: United States
 
 Protocol: connect
 Proxy: 128.0.1.234:4322
