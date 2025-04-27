@@ -30,11 +30,3 @@ Anon: N/A
 Server: N/A
 Country: Canada
 
-Protocol: connect
-Proxy: 79.253.230.164:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
-
