@@ -55,20 +55,28 @@ Server: None
 Country: Australia
 
 Protocol: http
+Proxy: 178.177.54.157:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 93.171.157.249:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
 Proxy: 27.109.215.216:80
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Macao
-
-Protocol: http
-Proxy: 103.154.118.154:57413
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
 
 Protocol: http
 Proxy: 62.33.53.248:3128
@@ -127,14 +135,6 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 103.171.255.246:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 103.118.46.64:8080
 Status: working
 IP: None
@@ -191,14 +191,6 @@ Server: None
 Country: South Korea
 
 Protocol: http
-Proxy: 178.217.89.78:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Bulgaria
-
-Protocol: http
 Proxy: 154.0.14.116:3128
 Status: working
 IP: None
@@ -231,7 +223,7 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 103.39.51.156:8089
+Proxy: 103.179.218.15:1080
 Status: working
 IP: None
 Anon: transparent
@@ -245,6 +237,14 @@ IP: None
 Anon: elite
 Server: None
 Country: France
+
+Protocol: http
+Proxy: 103.156.140.195:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 185.191.236.162:3128
@@ -271,6 +271,22 @@ Server: None
 Country: Peru
 
 Protocol: http
+Proxy: 208.109.234.211:8700
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 8.222.235.39:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
+
+Protocol: http
 Proxy: 102.132.57.174:8080
 Status: working
 IP: None
@@ -285,6 +301,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Cambodia
+
+Protocol: http
+Proxy: 49.151.85.5:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Philippines
 
 Protocol: http
 Proxy: 188.240.115.193:8080
