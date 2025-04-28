@@ -55,14 +55,6 @@ Server: None
 Country: Taiwan
 
 Protocol: http
-Proxy: 67.206.213.202:3120
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Puerto Rico
-
-Protocol: http
 Proxy: 27.109.215.216:80
 Status: working
 IP: None
@@ -87,7 +79,23 @@ Server: None
 Country: France
 
 Protocol: http
+Proxy: 79.110.202.184:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
 Proxy: 79.110.200.148:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
+Proxy: 83.168.74.163:8080
 Status: working
 IP: None
 Anon: elite
@@ -127,12 +135,12 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 103.165.226.94:8080
+Proxy: 1.32.48.212:8081
 Status: working
 IP: None
-Anon: elite
+Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Malaysia
 
 Protocol: http
 Proxy: 62.162.193.125:8081
@@ -181,6 +189,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Finland
+
+Protocol: http
+Proxy: 154.0.14.116:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Africa
 
 Protocol: http
 Proxy: 203.95.199.159:8080
@@ -247,12 +263,28 @@ Server: None
 Country: United States
 
 Protocol: http
+Proxy: 185.191.236.162:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Switzerland
+
+Protocol: http
 Proxy: 3.111.212.176:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: India
+
+Protocol: http
+Proxy: 185.196.213.108:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Uzbekistan
 
 Protocol: http
 Proxy: 89.58.38.239:3128
@@ -279,6 +311,14 @@ Server: None
 Country: South Africa
 
 Protocol: http
+Proxy: 84.36.39.194:1976
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
 Proxy: 188.209.233.136:8080
 Status: working
 IP: None
@@ -295,12 +335,12 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 49.151.85.5:8080
+Proxy: 176.226.142.237:8081
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Philippines
+Server: None
+Country: Russia
 
 Protocol: http
 Proxy: 105.101.211.162:3128
