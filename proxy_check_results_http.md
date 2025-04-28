@@ -7,14 +7,6 @@ Server: None
 Country: Macao
 
 Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
 Proxy: 79.110.201.235:8081
 Status: working
 IP: None
@@ -143,14 +135,6 @@ Server: None
 Country: Germany
 
 Protocol: http
-Proxy: 196.251.131.84:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
-
-Protocol: http
 Proxy: 178.168.144.65:8888
 Status: working
 IP: None
@@ -173,12 +157,4 @@ IP: None
 Anon: elite
 Server: None
 Country: Cambodia
-
-Protocol: http
-Proxy: 213.131.85.29:1976
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
 
