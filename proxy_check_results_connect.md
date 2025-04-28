@@ -1,13 +1,13 @@
 Protocol: connect
-Proxy: 218.98.160.110:12798
+Proxy: 176.97.210.117:3000
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Germany
 
 Protocol: connect
-Proxy: 176.97.210.117:3000
+Proxy: 5.75.156.208:3128
 Status: working
 IP: N/A
 Anon: N/A
@@ -21,14 +21,6 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Türkiye
-
-Protocol: connect
-Proxy: 114.96.67.139:1080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
 
 Protocol: connect
 Proxy: 143.198.42.182:31280
