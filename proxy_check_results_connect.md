@@ -23,7 +23,7 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 208.43.38.57:3128
+Proxy: 199.48.129.114:3121
 Status: working
 IP: N/A
 Anon: N/A
