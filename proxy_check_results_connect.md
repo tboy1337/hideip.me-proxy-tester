@@ -23,12 +23,12 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 185.26.201.73:8080
+Proxy: 46.105.50.211:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: France
 
 Protocol: connect
 Proxy: 128.0.1.234:4322
