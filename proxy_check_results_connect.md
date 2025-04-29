@@ -39,6 +39,14 @@ Server: N/A
 Country: Türkiye
 
 Protocol: connect
+Proxy: 114.225.211.221:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
 Proxy: 143.198.42.182:31280
 Status: working
 IP: N/A
