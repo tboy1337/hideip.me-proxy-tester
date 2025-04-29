@@ -23,10 +23,10 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 94.131.13.27:3128
+Proxy: 128.0.1.234:4322
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Lithuania
+Country: Türkiye
 
