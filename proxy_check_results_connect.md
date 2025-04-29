@@ -15,10 +15,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 192.81.129.252:3133
+Proxy: 128.0.1.234:4322
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Türkiye
 
