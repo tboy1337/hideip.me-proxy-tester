@@ -1,10 +1,10 @@
 Protocol: connect
-Proxy: 176.97.210.117:3000
+Proxy: 119.252.173.26:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Indonesia
 
 Protocol: connect
 Proxy: 125.209.108.86:3128
@@ -15,10 +15,18 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 128.0.1.234:4322
+Proxy: 185.26.201.73:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Türkiye
+Country: Germany
+
+Protocol: connect
+Proxy: 192.81.129.252:3133
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
 
