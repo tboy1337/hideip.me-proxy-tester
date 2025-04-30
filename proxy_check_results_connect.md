@@ -30,11 +30,3 @@ Anon: N/A
 Server: N/A
 Country: Türkiye
 
-Protocol: connect
-Proxy: 172.82.67.162:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Canada
-
