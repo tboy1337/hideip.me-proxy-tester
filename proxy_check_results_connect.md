@@ -23,20 +23,20 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 8.210.38.209:1081
+Proxy: 192.81.129.252:3133
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
+Country: United States
 
 Protocol: connect
-Proxy: 193.180.208.45:3128
+Proxy: 195.54.178.243:24983
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Sweden
+Country: Georgia
 
 Protocol: connect
 Proxy: 128.0.1.234:4322
@@ -45,12 +45,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Türkiye
-
-Protocol: connect
-Proxy: 223.204.176.161:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Thailand
 
