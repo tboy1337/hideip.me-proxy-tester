@@ -31,10 +31,18 @@ Server: N/A
 Country: Türkiye
 
 Protocol: connect
-Proxy: 155.254.25.156:3128
+Proxy: 156.67.28.21:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Germany
+
+Protocol: connect
+Proxy: 185.65.246.234:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Ukraine
 
