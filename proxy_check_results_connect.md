@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: Türkiye
 
+Protocol: connect
+Proxy: 106.117.208.101:7890
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Japan
+
