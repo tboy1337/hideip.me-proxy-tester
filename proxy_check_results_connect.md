@@ -7,6 +7,14 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
+Proxy: 47.251.122.81:8888
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 176.97.210.117:3000
 Status: working
 IP: N/A
@@ -23,6 +31,14 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
+Proxy: 202.38.78.123:4780
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 128.0.1.234:4322
 Status: working
 IP: N/A
@@ -31,10 +47,10 @@ Server: N/A
 Country: Türkiye
 
 Protocol: connect
-Proxy: 106.117.208.101:7890
+Proxy: 172.82.67.162:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Japan
+Country: Canada
 
