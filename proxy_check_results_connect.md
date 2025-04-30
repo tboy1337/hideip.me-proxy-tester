@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: Türkiye
 
+Protocol: connect
+Proxy: 155.254.25.156:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
