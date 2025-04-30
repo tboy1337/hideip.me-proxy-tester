@@ -23,26 +23,10 @@ Server: N/A
 Country: Pakistan
 
 Protocol: connect
-Proxy: 106.117.235.109:9788
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: connect
 Proxy: 128.0.1.234:4322
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Türkiye
-
-Protocol: connect
-Proxy: 172.82.67.163:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Canada
 
