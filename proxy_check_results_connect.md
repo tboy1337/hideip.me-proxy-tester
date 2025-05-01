@@ -15,10 +15,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 8.210.38.209:1081
+Proxy: 14.224.174.168:4506
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
+Country: Vietnam
 
