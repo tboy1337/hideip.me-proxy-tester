@@ -15,18 +15,34 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 125.209.108.86:3128
+Proxy: 185.26.201.73:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Pakistan
+Country: Germany
 
 Protocol: connect
-Proxy: 111.67.193.111:7890
+Proxy: 116.118.48.147:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Vietnam
+
+Protocol: connect
+Proxy: 193.180.208.45:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Sweden
+
+Protocol: connect
+Proxy: 143.198.42.182:31280
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Canada
 
