@@ -1,4 +1,12 @@
 Protocol: connect
+Proxy: 119.252.173.26:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Indonesia
+
+Protocol: connect
 Proxy: 5.78.124.240:40001
 Status: working
 IP: N/A
@@ -8,6 +16,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 218.98.160.110:12798
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 114.214.170.41:27890
 Status: working
 IP: N/A
 Anon: N/A
