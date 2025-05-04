@@ -7,7 +7,15 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 155.94.128.59:10809
+Proxy: 47.251.122.81:8888
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 5.161.133.23:8080
 Status: working
 IP: N/A
 Anon: N/A
