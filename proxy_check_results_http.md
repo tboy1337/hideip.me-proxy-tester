@@ -1,12 +1,4 @@
 Protocol: http
-Proxy: 42.96.16.71:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: http
 Proxy: 41.220.136.199:8040
 Status: working
 IP: None
@@ -23,12 +15,12 @@ Server: None
 Country: Turkmenistan
 
 Protocol: http
-Proxy: 213.131.85.30:1976
+Proxy: 5.181.178.34:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Egypt
+Country: Indonesia
 
 Protocol: http
 Proxy: 41.89.22.100:3128
@@ -55,15 +47,7 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 14.224.165.146:6820
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: http
-Proxy: 103.44.19.196:1111
+Proxy: 202.58.77.9:8080
 Status: working
 IP: None
 Anon: elite
