@@ -15,20 +15,20 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 122.154.68.50:8213
+Proxy: 176.97.210.117:3000
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: Germany
 
 Protocol: connect
-Proxy: 14.224.174.168:2335
+Proxy: 8.210.117.141:8888
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: Hong Kong
 
 Protocol: connect
 Proxy: 14.224.174.168:4729
