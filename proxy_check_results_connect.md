@@ -1,8 +1,8 @@
 Protocol: connect
-Proxy: 61.188.233.237:8118
+Proxy: 155.94.128.59:10809
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: United States
 
