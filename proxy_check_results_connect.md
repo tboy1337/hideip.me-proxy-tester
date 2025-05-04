@@ -15,12 +15,12 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 8.210.117.141:8888
+Proxy: 203.170.58.97:9999
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
+Country: China
 
 Protocol: connect
 Proxy: 143.198.42.182:31280
