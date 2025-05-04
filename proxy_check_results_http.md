@@ -7,20 +7,12 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 88.193.129.217:80
+Proxy: 8.222.235.39:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Finland
-
-Protocol: http
-Proxy: 185.196.213.108:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Uzbekistan
+Country: Singapore
 
 Protocol: http
 Proxy: 41.89.22.100:3128
