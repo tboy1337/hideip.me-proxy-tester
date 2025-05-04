@@ -22,19 +22,3 @@ Anon: N/A
 Server: N/A
 Country: United States
 
-Protocol: connect
-Proxy: 5.161.133.23:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 101.224.210.59:3333
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
