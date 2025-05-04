@@ -15,10 +15,10 @@ Server: N/A
 Country: Sweden
 
 Protocol: connect
-Proxy: 143.198.42.182:31280
+Proxy: 14.224.174.168:2604
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: Vietnam
 
