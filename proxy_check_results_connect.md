@@ -7,12 +7,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 176.97.210.117:3000
+Proxy: 41.89.22.100:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Kenya
 
 Protocol: connect
 Proxy: 143.198.42.182:31280
