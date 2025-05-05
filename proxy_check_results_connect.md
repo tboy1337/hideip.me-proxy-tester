@@ -15,28 +15,12 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 41.89.22.100:3128
+Proxy: 176.97.210.117:3000
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Kenya
-
-Protocol: connect
-Proxy: 14.224.174.168:2335
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: connect
-Proxy: 14.224.174.168:2953
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
+Country: Germany
 
 Protocol: connect
 Proxy: 8.210.117.141:8888
