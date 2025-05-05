@@ -23,10 +23,10 @@ Server: N/A
 Country: Kenya
 
 Protocol: connect
-Proxy: 14.224.174.168:4310
+Proxy: 59.173.31.1:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Vietnam
+Country: China
 
