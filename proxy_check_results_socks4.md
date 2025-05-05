@@ -6,19 +6,19 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
-Proxy: 81.228.44.187:65530
+Protocol: socks4a
+Proxy: 159.89.164.144:57557
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Sweden
+Anon: elite
+Server: None
+Country: India
 
 Protocol: socks4
-Proxy: 202.163.127.244:5678
+Proxy: 103.115.116.14:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Pakistan
+Country: Bangladesh
 
