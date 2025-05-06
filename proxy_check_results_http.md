@@ -7,14 +7,6 @@ Server: mikrotik
 Country: Equatorial Guinea
 
 Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
 Proxy: 79.110.201.235:8081
 Status: working
 IP: None
@@ -119,10 +111,10 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.180.118.184:8080
+Proxy: 103.148.130.43:8080
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
 Server: mikrotik
 Country: Indonesia
 
@@ -135,7 +127,15 @@ Server: None
 Country: Armenia
 
 Protocol: http
-Proxy: 103.165.157.239:1080
+Proxy: 89.40.143.28:7788
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Italy
+
+Protocol: http
+Proxy: 103.249.19.190:8080
 Status: working
 IP: None
 Anon: transparent
@@ -149,14 +149,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Taiwan
-
-Protocol: http
-Proxy: 103.152.100.221:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Pakistan
 
 Protocol: http
 Proxy: 91.241.241.60:9090
@@ -175,28 +167,20 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 8.222.235.39:3128
+Proxy: 126.209.13.237:8082
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Singapore
+Anon: transparent
+Server: mikrotik
+Country: Philippines
 
 Protocol: http
-Proxy: 197.167.214.157:1976
+Proxy: 186.190.231.184:999
 Status: working
 IP: None
-Anon: elite
+Anon: transparent
 Server: mikrotik
-Country: Egypt
-
-Protocol: http
-Proxy: 103.130.241.65:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
+Country: Colombia
 
 Protocol: http
 Proxy: 41.89.22.100:3128
@@ -215,6 +199,14 @@ Server: mikrotik
 Country: Russia
 
 Protocol: http
+Proxy: 194.195.210.88:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
 Proxy: 196.251.131.90:8080
 Status: working
 IP: None
@@ -229,6 +221,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Cambodia
+
+Protocol: http
+Proxy: 124.121.94.199:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Thailand
 
 Protocol: http
 Proxy: 203.95.196.192:8080
