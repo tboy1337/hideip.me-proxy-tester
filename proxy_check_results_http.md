@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 84.103.174.6:80
+Proxy: 190.223.60.131:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
+Country: Peru
 
 Protocol: http
 Proxy: 85.193.238.144:8081
