@@ -7,28 +7,20 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 91.241.217.58:9090
+Proxy: 103.115.164.71:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 85.193.238.144:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Ukraine
-
-Protocol: http
-Proxy: 103.165.157.239:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.249.19.190:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Country: Poland
 
 Protocol: http
 Proxy: 8.222.235.39:3128
@@ -47,18 +39,10 @@ Server: None
 Country: Kenya
 
 Protocol: http
-Proxy: 154.127.219.242:999
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Angola
-
-Protocol: http
-Proxy: 123.60.172.211:221
+Proxy: 197.167.214.157:1981
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: China
+Server: mikrotik
+Country: Egypt
 
