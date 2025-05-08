@@ -23,6 +23,14 @@ Server: N/A
 Country: Kenya
 
 Protocol: connect
+Proxy: 27.185.51.135:9996
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Hong Kong
+
+Protocol: connect
 Proxy: 143.198.42.182:31280
 Status: working
 IP: N/A
