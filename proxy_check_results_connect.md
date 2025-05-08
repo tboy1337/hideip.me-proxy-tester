@@ -23,20 +23,20 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
+Proxy: 122.154.68.50:8213
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Thailand
+
+Protocol: connect
 Proxy: 192.81.129.252:3133
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
-
-Protocol: connect
-Proxy: 122.237.18.137:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
 
 Protocol: connect
 Proxy: 89.117.145.245:3128
