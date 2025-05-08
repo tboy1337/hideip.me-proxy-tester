@@ -15,14 +15,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 41.89.22.100:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Kenya
-
-Protocol: connect
 Proxy: 27.185.51.135:9996
 Status: working
 IP: N/A
@@ -37,12 +29,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Canada
-
-Protocol: connect
-Proxy: 111.196.184.14:7890
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
 
