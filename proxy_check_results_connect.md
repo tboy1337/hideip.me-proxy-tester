@@ -7,44 +7,28 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 47.251.122.81:8888
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 91.186.97.212:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Russia
-
-Protocol: connect
-Proxy: 14.224.174.168:3877
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: connect
-Proxy: 14.224.165.146:6820
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: connect
 Proxy: 8.210.117.141:8888
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Hong Kong
+
+Protocol: connect
+Proxy: 143.198.42.182:31280
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Canada
+
+Protocol: connect
+Proxy: 155.94.128.21:10809
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: connect
 Proxy: 155.94.128.24:10809
@@ -55,23 +39,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 155.94.128.26:10809
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 155.94.128.49:10809
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 155.94.128.106:10809
+Proxy: 155.94.128.54:10809
 Status: working
 IP: N/A
 Anon: N/A
@@ -95,6 +63,30 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 155.94.128.113:10809
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 113.121.249.124:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 155.94.128.139:10809
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 155.94.128.161:10809
 Status: working
 IP: N/A
@@ -103,7 +95,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 155.94.128.187:10809
+Proxy: 155.94.128.174:10809
 Status: working
 IP: N/A
 Anon: N/A
@@ -120,6 +112,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 155.94.128.217:10809
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 155.94.128.227:10809
 Status: working
 IP: N/A
 Anon: N/A
