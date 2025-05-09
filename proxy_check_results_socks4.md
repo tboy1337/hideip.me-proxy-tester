@@ -6,7 +6,7 @@ Anon: elite
 Server: None
 Country: Thailand
 
-Protocol: socks4a
+Protocol: socks4
 Proxy: 69.64.85.167:18290
 Status: working
 IP: None
@@ -30,7 +30,7 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4a
+Protocol: socks4
 Proxy: 64.202.184.249:31239
 Status: working
 IP: None
