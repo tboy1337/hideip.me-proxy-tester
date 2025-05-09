@@ -31,7 +31,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 155.94.128.126:10809
+Proxy: 155.94.128.82:10809
 Status: working
 IP: N/A
 Anon: N/A
@@ -39,12 +39,12 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 113.121.249.124:8118
+Proxy: 155.94.128.126:10809
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: United States
 
 Protocol: connect
 Proxy: 155.94.128.212:10809
