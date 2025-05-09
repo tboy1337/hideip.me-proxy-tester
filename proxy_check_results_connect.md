@@ -15,12 +15,12 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 41.89.22.100:3128
+Proxy: 14.224.174.168:3568
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Kenya
+Country: Vietnam
 
 Protocol: connect
 Proxy: 14.224.174.168:3259
@@ -71,7 +71,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 155.94.128.80:10809
+Proxy: 155.94.128.92:10809
 Status: working
 IP: N/A
 Anon: N/A
@@ -79,7 +79,15 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 155.94.128.227:10809
+Proxy: 155.94.128.114:10809
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 155.94.128.161:10809
 Status: working
 IP: N/A
 Anon: N/A
