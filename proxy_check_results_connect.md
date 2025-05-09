@@ -31,7 +31,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 155.94.128.6:10809
+Proxy: 155.94.128.113:10809
 Status: working
 IP: N/A
 Anon: N/A
@@ -39,12 +39,28 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 223.204.176.17:3128
+Proxy: 155.94.128.126:10809
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: United States
+
+Protocol: connect
+Proxy: 155.94.128.183:10809
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 155.94.128.184:10809
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
 
 Protocol: connect
 Proxy: 155.94.128.234:10809
