@@ -23,7 +23,15 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 14.224.174.168:3958
+Proxy: 14.224.174.168:2584
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 14.224.174.168:3259
 Status: working
 IP: N/A
 Anon: N/A
@@ -48,6 +56,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 155.94.128.96:10809
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 155.94.128.114:10809
 Status: working
 IP: N/A
 Anon: N/A
