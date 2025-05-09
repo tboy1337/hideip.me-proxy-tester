@@ -1,37 +1,21 @@
 Protocol: socks4
-Proxy: 37.186.66.36:3629
+Proxy: 201.204.47.66:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Armenia
+Country: Costa Rica
 
 Protocol: socks4
-Proxy: 190.13.147.93:5678
+Proxy: 201.204.47.67:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Chile
+Country: Costa Rica
 
-Protocol: socks4
-Proxy: 111.90.177.100:60606
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Cambodia
-
-Protocol: socks4
-Proxy: 103.154.2.37:1088
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: India
-
-Protocol: socks4
-Proxy: 159.89.164.144:55157
+Protocol: socks4a
+Proxy: 159.89.164.144:49012
 Status: working
 IP: None
 Anon: elite
@@ -39,28 +23,44 @@ Server: None
 Country: India
 
 Protocol: socks4
-Proxy: 166.62.121.196:47509
+Proxy: 103.152.92.134:21080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: socks4a
+Proxy: 159.89.164.144:47023
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: India
+
+Protocol: socks4a
+Proxy: 50.63.12.101:61120
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
-Proxy: 203.215.167.71:1080
+Protocol: socks4a
+Proxy: 27.254.67.114:39835
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Pakistan
+Anon: elite
+Server: None
+Country: Thailand
 
 Protocol: socks4
-Proxy: 37.52.13.164:5678
+Proxy: 41.170.80.74:60606
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
 Server: mikrotik
-Country: Ukraine
+Country: South Africa
 
 Protocol: socks4a
 Proxy: 64.202.184.249:7652
@@ -118,19 +118,11 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks4
-Proxy: 171.254.219.100:1080
+Protocol: socks4a
+Proxy: 88.198.0.39:60635
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 170.150.101.12:4145
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Brazil
+Country: Germany
 
