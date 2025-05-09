@@ -15,12 +15,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 188.132.150.42:8080
+Proxy: 103.80.98.46:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Türkiye
+Country: Indonesia
 
 Protocol: http
 Proxy: 83.168.74.163:8080
@@ -39,6 +39,22 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 62.241.133.227:1981
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 188.0.154.254:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Kazakhstan
+
+Protocol: http
 Proxy: 79.110.200.27:8000
 Status: working
 IP: None
@@ -55,20 +71,36 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 154.0.14.116:3128
+Proxy: 218.75.224.4:3309
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Africa
+Country: China
 
 Protocol: http
-Proxy: 213.131.85.27:1981
+Proxy: 220.116.142.217:80
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
+Server: None
+Country: South Korea
+
+Protocol: http
+Proxy: 203.95.196.175:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
+Proxy: 103.131.19.45:8080
+Status: working
+IP: None
+Anon: elite
 Server: mikrotik
-Country: Egypt
+Country: Indonesia
 
 Protocol: http
 Proxy: 185.191.236.162:3128
@@ -79,12 +111,36 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 14.224.174.168:3568
+Proxy: 92.255.193.113:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
+Country: Russia
+
+Protocol: http
+Proxy: 103.121.165.229:1443
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: http
+Proxy: 187.249.114.251:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Mexico
+
+Protocol: http
+Proxy: 185.5.155.104:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Saudi Arabia
 
 Protocol: http
 Proxy: 103.97.224.221:8080
@@ -101,28 +157,4 @@ IP: None
 Anon: elite
 Server: None
 Country: Brazil
-
-Protocol: http
-Proxy: 14.224.165.146:3330
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: http
-Proxy: 14.224.165.146:3867
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: http
-Proxy: 14.224.165.146:3100
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
 
