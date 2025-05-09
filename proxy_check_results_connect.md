@@ -31,12 +31,12 @@ Server: N/A
 Country: Vietnam
 
 Protocol: connect
-Proxy: 8.210.117.141:8888
+Proxy: 143.198.42.182:31280
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
+Country: Canada
 
 Protocol: connect
 Proxy: 155.94.128.54:10809
@@ -48,6 +48,14 @@ Country: United States
 
 Protocol: connect
 Proxy: 155.94.128.80:10809
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 155.94.128.82:10809
 Status: working
 IP: N/A
 Anon: N/A
