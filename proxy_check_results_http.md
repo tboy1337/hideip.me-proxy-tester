@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 103.216.50.11:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Cambodia
 
 Protocol: http
 Proxy: 212.127.95.235:8081
@@ -31,12 +31,20 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 185.162.60.46:8080
+Proxy: 203.95.196.175:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Hungary
+Country: Cambodia
+
+Protocol: http
+Proxy: 103.195.65.169:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 216.250.11.178:3128
@@ -55,36 +63,12 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 103.156.248.13:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 8.222.235.39:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
-
-Protocol: http
-Proxy: 103.68.214.113:8787
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 14.225.8.195:3218
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
+Country: Singapore
 
 Protocol: http
 Proxy: 41.89.22.100:3128
@@ -93,6 +77,22 @@ IP: None
 Anon: elite
 Server: None
 Country: Kenya
+
+Protocol: http
+Proxy: 14.224.174.168:3568
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: http
+Proxy: 197.164.101.18:1981
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 203.95.196.128:8080
@@ -111,12 +111,12 @@ Server: None
 Country: Cyprus
 
 Protocol: http
-Proxy: 154.127.219.242:999
+Proxy: 185.5.155.104:8080
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Angola
+Anon: elite
+Server: None
+Country: Saudi Arabia
 
 Protocol: http
 Proxy: 103.118.44.152:8080
@@ -133,4 +133,12 @@ IP: None
 Anon: elite
 Server: None
 Country: Saudi Arabia
+
+Protocol: http
+Proxy: 91.108.113.52:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
 
