@@ -7,10 +7,18 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 41.89.22.100:3128
+Proxy: 122.154.68.50:8213
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Kenya
+Country: Thailand
+
+Protocol: connect
+Proxy: 113.67.166.49:7890
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
