@@ -7,22 +7,6 @@ Server: None
 Country: Bangladesh
 
 Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 42.96.16.71:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: http
 Proxy: 79.110.201.235:8081
 Status: working
 IP: None
@@ -37,14 +21,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
-
-Protocol: http
-Proxy: 54.38.181.125:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
 
 Protocol: http
 Proxy: 79.110.202.184:8081
@@ -135,12 +111,52 @@ Server: None
 Country: Armenia
 
 Protocol: http
+Proxy: 43.252.107.50:9020
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 198.7.116.47:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: http
+Proxy: 102.213.248.60:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Kenya
+
+Protocol: http
 Proxy: 85.193.238.144:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Poland
+
+Protocol: http
+Proxy: 131.148.8.130:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 14.225.8.195:3218
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
 
 Protocol: http
 Proxy: 41.89.22.100:3128
@@ -159,12 +175,12 @@ Server: None
 Country: South Africa
 
 Protocol: http
-Proxy: 197.164.101.18:1981
+Proxy: 5.104.75.104:3128
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: http
 Proxy: 212.108.153.246:9090
@@ -175,18 +191,10 @@ Server: None
 Country: Cyprus
 
 Protocol: http
-Proxy: 91.108.113.52:3128
+Proxy: 210.87.90.213:8080
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: France
-
-Protocol: http
-Proxy: 97.114.140.107:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
+Server: mikrotik
+Country: Indonesia
 
