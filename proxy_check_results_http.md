@@ -1,37 +1,21 @@
 Protocol: http
-Proxy: 154.65.39.7:80
+Proxy: 119.252.173.26:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Senegal
+Country: Indonesia
 
 Protocol: http
-Proxy: 79.110.202.184:8081
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 91.241.217.58:9090
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Ukraine
+Country: Russia
 
 Protocol: http
 Proxy: 83.168.74.163:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 212.127.95.235:8081
 Status: working
 IP: None
 Anon: elite
@@ -47,14 +31,6 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 95.66.138.21:8880
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
 Proxy: 83.168.75.202:8081
 Status: working
 IP: None
@@ -63,28 +39,28 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 154.0.14.116:3128
+Proxy: 103.179.218.15:1080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: South Africa
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
-Proxy: 187.19.128.76:8090
+Proxy: 205.209.106.26:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Brazil
+Country: United States
 
 Protocol: http
-Proxy: 91.205.196.215:8080
+Proxy: 203.95.196.41:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Armenia
+Country: Cambodia
 
 Protocol: http
 Proxy: 131.148.8.130:3128
@@ -93,6 +69,14 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: http
+Proxy: 103.189.123.110:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 41.89.22.100:3128
@@ -119,12 +103,12 @@ Server: None
 Country: Cyprus
 
 Protocol: http
-Proxy: 213.131.85.26:1976
+Proxy: 185.228.137.178:3128
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: http
 Proxy: 185.5.155.104:8080
