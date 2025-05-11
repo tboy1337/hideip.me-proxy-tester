@@ -15,6 +15,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 89.117.145.245:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 47.79.16.186:3128
 Status: working
 IP: N/A
@@ -29,4 +37,12 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Canada
+
+Protocol: connect
+Proxy: 128.199.36.83:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
