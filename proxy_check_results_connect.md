@@ -22,11 +22,3 @@ Anon: N/A
 Server: N/A
 Country: Vietnam
 
-Protocol: connect
-Proxy: 170.100.195.160:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
