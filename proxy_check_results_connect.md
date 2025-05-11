@@ -14,3 +14,11 @@ Anon: N/A
 Server: N/A
 Country: Vietnam
 
+Protocol: connect
+Proxy: 113.67.166.49:7890
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
