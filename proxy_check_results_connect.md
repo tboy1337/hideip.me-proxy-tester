@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: Japan
 
+Protocol: connect
+Proxy: 14.224.165.146:3518
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
