@@ -127,12 +127,20 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 103.121.165.229:1443
+Proxy: 8.222.235.39:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: China
+Country: Singapore
+
+Protocol: http
+Proxy: 41.89.22.100:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Kenya
 
 Protocol: http
 Proxy: 202.154.18.176:8082
