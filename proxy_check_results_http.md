@@ -31,6 +31,14 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 54.38.181.125:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: http
 Proxy: 79.110.202.184:8081
 Status: working
 IP: None
@@ -71,52 +79,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 185.35.130.16:55520
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Russia
-
-Protocol: http
-Proxy: 159.224.232.194:8888
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Ukraine
-
-Protocol: http
-Proxy: 103.171.255.246:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 79.110.202.131:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Poland
-
-Protocol: http
-Proxy: 154.0.155.93:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Tanzania
-
-Protocol: http
-Proxy: 203.95.199.7:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
 
 Protocol: http
 Proxy: 45.239.175.105:8080
@@ -167,20 +135,12 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 103.121.165.229:1443
+Proxy: 190.223.60.131:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: China
-
-Protocol: http
-Proxy: 31.43.52.216:41890
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Ukraine
+Country: Peru
 
 Protocol: http
 Proxy: 41.89.22.100:3128
@@ -199,14 +159,6 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: http
-Proxy: 197.164.101.18:1981
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
-
-Protocol: http
 Proxy: 212.108.153.246:9090
 Status: working
 IP: None
@@ -223,12 +175,12 @@ Server: mikrotik
 Country: Egypt
 
 Protocol: http
-Proxy: 185.228.137.178:3128
+Proxy: 191.242.177.42:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Germany
+Country: Brazil
 
 Protocol: http
 Proxy: 103.118.44.199:8080
@@ -253,4 +205,12 @@ IP: None
 Anon: elite
 Server: None
 Country: Indonesia
+
+Protocol: http
+Proxy: 101.85.152.45:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
 
