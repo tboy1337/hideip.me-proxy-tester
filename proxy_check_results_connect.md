@@ -15,7 +15,7 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 89.117.145.245:3128
+Proxy: 192.81.129.252:3133
 Status: working
 IP: N/A
 Anon: N/A
