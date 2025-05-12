@@ -6,3 +6,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 196.251.118.104:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Seychelles
+
