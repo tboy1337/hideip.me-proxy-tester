@@ -1,10 +1,10 @@
-Protocol: socks4a
-Proxy: 188.166.217.4:47553
+Protocol: socks4
+Proxy: 46.214.153.223:5678
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Singapore
+Anon: transparent
+Server: mikrotik
+Country: Romania
 
 Protocol: socks4
 Proxy: 27.77.237.169:1080
@@ -14,7 +14,7 @@ Anon: elite
 Server: None
 Country: Vietnam
 
-Protocol: socks4a
+Protocol: socks4
 Proxy: 27.77.224.236:1080
 Status: working
 IP: None

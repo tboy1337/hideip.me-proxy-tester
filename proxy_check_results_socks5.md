@@ -79,6 +79,14 @@ Server: None
 Country: India
 
 Protocol: socks5
+Proxy: 185.93.89.168:4267
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5
 Proxy: 185.93.89.165:7472
 Status: working
 IP: None
@@ -86,13 +94,13 @@ Anon: elite
 Server: litespeed
 Country: Belgium
 
-Protocol: socks5
-Proxy: 45.142.193.20:4577
+Protocol: socks5h
+Proxy: 190.2.148.39:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Germany
+Country: The Netherlands
 
 Protocol: socks5
 Proxy: 185.93.89.179:6375
@@ -111,28 +119,12 @@ Server: None
 Country: Vietnam
 
 Protocol: socks5
-Proxy: 185.93.89.183:14724
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks5
 Proxy: 185.93.89.179:7260
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: France
-
-Protocol: socks5
-Proxy: 185.93.89.145:10469
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
 
 Protocol: socks5
 Proxy: 185.93.89.178:27302

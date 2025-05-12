@@ -63,14 +63,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.189.249.138:1111
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 79.110.202.131:8081
 Status: working
 IP: None
@@ -119,6 +111,14 @@ Server: None
 Country: Armenia
 
 Protocol: http
+Proxy: 41.89.22.100:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Kenya
+
+Protocol: http
 Proxy: 197.164.101.18:1981
 Status: working
 IP: None
@@ -133,14 +133,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Cyprus
-
-Protocol: http
-Proxy: 213.131.85.26:1976
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
 
 Protocol: http
 Proxy: 103.118.44.199:8080
