@@ -15,18 +15,10 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 91.186.97.212:3128
+Proxy: 38.242.212.166:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
-
-Protocol: connect
-Proxy: 41.89.22.100:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Kenya
+Country: Germany
 
