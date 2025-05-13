@@ -14,3 +14,11 @@ Anon: N/A
 Server: N/A
 Country: Kenya
 
+Protocol: connect
+Proxy: 47.79.16.186:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
