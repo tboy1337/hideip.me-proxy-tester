@@ -1,16 +1,16 @@
 Protocol: connect
-Proxy: 88.198.212.91:3128
+Proxy: 91.186.97.212:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Russia
 
 Protocol: connect
-Proxy: 41.89.22.100:3128
+Proxy: 46.105.50.211:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Kenya
+Country: France
 
