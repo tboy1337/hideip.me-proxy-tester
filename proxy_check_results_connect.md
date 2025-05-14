@@ -6,3 +6,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 192.3.160.141:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
