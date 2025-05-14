@@ -7,10 +7,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 147.93.67.222:3128
+Proxy: 219.145.250.129:7890
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Belgium
+Country: Taiwan
 
