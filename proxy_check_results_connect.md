@@ -14,3 +14,19 @@ Anon: N/A
 Server: N/A
 Country: United States
 
+Protocol: connect
+Proxy: 91.186.97.212:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
+Proxy: 52.169.235.202:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Ireland
+
