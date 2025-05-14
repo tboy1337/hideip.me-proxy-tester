@@ -6,3 +6,19 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 52.169.235.202:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Ireland
+
+Protocol: connect
+Proxy: 47.79.16.186:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
