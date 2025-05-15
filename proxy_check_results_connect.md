@@ -7,10 +7,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 154.6.190.79:4444
+Proxy: 143.198.42.182:31280
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: France
+Country: Canada
 
