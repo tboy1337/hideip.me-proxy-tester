@@ -1,4 +1,20 @@
 Protocol: http
+Proxy: 154.65.39.7:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Senegal
+
+Protocol: http
+Proxy: 103.49.114.195:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Bangladesh
+
+Protocol: http
 Proxy: 79.110.200.148:8081
 Status: working
 IP: None
@@ -15,20 +31,20 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 95.66.138.21:8880
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
 Proxy: 79.110.202.131:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Poland
+
+Protocol: http
+Proxy: 185.9.75.195:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Russia
 
 Protocol: http
 Proxy: 79.110.200.27:8000
@@ -55,10 +71,10 @@ Server: None
 Country: Armenia
 
 Protocol: http
-Proxy: 103.125.116.114:8080
+Proxy: 103.39.51.156:8089
 Status: working
 IP: None
-Anon: elite
+Anon: transparent
 Server: mikrotik
 Country: Indonesia
 
@@ -71,12 +87,36 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 84.103.174.6:80
+Proxy: 103.171.255.178:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 165.90.64.216:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Mozambique
+
+Protocol: http
+Proxy: 41.89.22.100:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
+Country: Kenya
+
+Protocol: http
+Proxy: 185.194.204.71:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Brazil
 
 Protocol: http
 Proxy: 203.95.196.64:8080
@@ -85,14 +125,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Cambodia
-
-Protocol: http
-Proxy: 84.201.252.32:3128
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Russia
 
 Protocol: http
 Proxy: 212.108.153.246:9090
@@ -109,14 +141,6 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
-
-Protocol: http
-Proxy: 77.119.237.96:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Austria
 
 Protocol: http
 Proxy: 102.132.38.247:8080
