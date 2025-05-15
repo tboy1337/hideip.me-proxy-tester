@@ -47,12 +47,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 212.127.95.235:8081
+Proxy: 182.155.254.159:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: Taiwan
 
 Protocol: http
 Proxy: 83.168.72.172:8081
@@ -69,14 +69,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
-
-Protocol: http
-Proxy: 103.171.255.204:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
 
 Protocol: http
 Proxy: 62.162.193.125:8081
@@ -103,12 +95,28 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 125.187.149.240:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Korea
+
+Protocol: http
 Proxy: 203.95.199.159:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Cambodia
+
+Protocol: http
+Proxy: 187.19.128.76:8090
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Brazil
 
 Protocol: http
 Proxy: 91.205.196.215:8080
@@ -119,12 +127,28 @@ Server: None
 Country: Armenia
 
 Protocol: http
-Proxy: 103.39.70.223:8181
+Proxy: 216.250.11.178:3128
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Turkmenistan
+
+Protocol: http
+Proxy: 185.191.236.162:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Switzerland
+
+Protocol: http
+Proxy: 190.223.60.131:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Peru
 
 Protocol: http
 Proxy: 131.148.8.130:3128
@@ -135,28 +159,20 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 83.229.73.113:13554
+Proxy: 103.39.70.220:8181
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Israel
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
-Proxy: 192.3.160.141:8080
+Proxy: 41.89.22.100:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
-
-Protocol: http
-Proxy: 194.195.210.88:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
+Country: Kenya
 
 Protocol: http
 Proxy: 212.108.153.246:9090
