@@ -15,26 +15,18 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 106.117.208.101:7890
+Proxy: 185.203.118.217:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Japan
+Country: Bulgaria
 
 Protocol: connect
-Proxy: 8.210.117.141:8888
+Proxy: 41.89.22.100:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 66.192.70.198:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
+Country: Kenya
 
