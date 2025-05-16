@@ -15,10 +15,10 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
-Proxy: 106.117.208.101:7890
+Proxy: 41.89.22.100:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Japan
+Country: Kenya
 
