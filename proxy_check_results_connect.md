@@ -15,10 +15,10 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 194.208.17.68:3128
+Proxy: 85.132.37.9:1313
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Austria
+Country: Azerbaijan
 
