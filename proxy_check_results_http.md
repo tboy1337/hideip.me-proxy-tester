@@ -1,10 +1,42 @@
 Protocol: http
-Proxy: 190.223.60.131:8080
+Proxy: 153.127.195.58:4444
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Peru
+Country: Japan
+
+Protocol: http
+Proxy: 212.127.95.235:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
+Proxy: 62.162.193.125:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: North Macedonia
+
+Protocol: http
+Proxy: 8.222.235.39:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
+
+Protocol: http
+Proxy: 160.19.178.43:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 45.12.150.82:8080
