@@ -15,18 +15,10 @@ Server: N/A
 Country: France
 
 Protocol: connect
-Proxy: 36.140.124.206:10188
+Proxy: 41.89.22.100:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 139.159.97.42:8880
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
+Country: Kenya
 
