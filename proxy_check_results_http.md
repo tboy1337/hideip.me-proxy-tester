@@ -1,25 +1,17 @@
 Protocol: http
+Proxy: 182.253.181.10:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
 Proxy: 119.252.173.26:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Indonesia
-
-Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 103.39.70.248:8181
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
 Country: Indonesia
 
 Protocol: http
@@ -47,28 +39,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 154.0.14.116:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
-
-Protocol: http
 Proxy: 212.108.135.215:9090
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Cyprus
-
-Protocol: http
-Proxy: 197.164.101.13:1981
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Egypt
 
 Protocol: http
 Proxy: 216.250.11.178:3128
@@ -95,28 +71,20 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 131.148.8.130:3128
+Proxy: 190.223.60.131:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Peru
 
 Protocol: http
-Proxy: 160.19.178.43:8080
+Proxy: 8.222.235.39:3128
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 154.0.157.183:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Tanzania
+Server: None
+Country: Singapore
 
 Protocol: http
 Proxy: 41.89.22.100:3128
@@ -143,12 +111,12 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 154.26.134.220:3128
+Proxy: 204.157.251.178:999
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Singapore
+Server: mikrotik
+Country: Dominican Republic
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -159,15 +127,15 @@ Server: None
 Country: Zambia
 
 Protocol: http
-Proxy: 85.208.85.202:3128
+Proxy: 41.65.236.34:1976
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Egypt
 
 Protocol: http
-Proxy: 116.205.184.9:9228
+Proxy: 61.145.128.90:8410
 Status: working
 IP: None
 Anon: elite
