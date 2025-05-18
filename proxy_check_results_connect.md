@@ -15,10 +15,18 @@ Server: N/A
 Country: Kenya
 
 Protocol: connect
-Proxy: 89.117.145.245:3128
+Proxy: 144.24.192.102:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: France
+
+Protocol: connect
+Proxy: 61.145.128.90:8410
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
 
