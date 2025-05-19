@@ -47,14 +47,6 @@ Server: None
 Country: Hong Kong
 
 Protocol: http
-Proxy: 103.156.17.161:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 50.114.33.173:8080
 Status: working
 IP: None
