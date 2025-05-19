@@ -22,11 +22,3 @@ Anon: N/A
 Server: N/A
 Country: United States
 
-Protocol: connect
-Proxy: 171.6.174.32:8213
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Thailand
-
