@@ -7,12 +7,20 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 212.127.95.235:8081
+Proxy: 216.250.11.178:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: Turkmenistan
+
+Protocol: http
+Proxy: 8.222.235.39:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
 Protocol: http
 Proxy: 41.89.22.100:3128
@@ -53,12 +61,4 @@ IP: None
 Anon: elite
 Server: None
 Country: Cambodia
-
-Protocol: http
-Proxy: 8.218.251.251:10081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Hong Kong
 
