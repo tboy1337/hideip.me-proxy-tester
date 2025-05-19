@@ -1,10 +1,18 @@
 Protocol: http
-Proxy: 154.0.14.116:3128
+Proxy: 103.39.49.156:3128
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 192.81.129.252:3133
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Africa
+Country: United States
 
 Protocol: http
 Proxy: 216.250.11.178:3128
@@ -13,14 +21,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Turkmenistan
-
-Protocol: http
-Proxy: 8.222.235.39:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
 
 Protocol: http
 Proxy: 45.12.150.82:8080
