@@ -15,10 +15,26 @@ Server: N/A
 Country: Bangladesh
 
 Protocol: connect
-Proxy: 36.139.251.14:10444
+Proxy: 199.48.130.179:3120
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: United States
+
+Protocol: connect
+Proxy: 199.48.135.186:3120
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
+Proxy: 199.48.130.178:3120
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
 
