@@ -15,10 +15,10 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 192.81.129.252:3133
+Proxy: 8.217.124.178:49440
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Hong Kong
 
