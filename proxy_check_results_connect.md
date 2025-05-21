@@ -6,11 +6,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 172.105.4.32:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Canada
-
