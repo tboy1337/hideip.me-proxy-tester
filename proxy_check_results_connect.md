@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Hong Kong
 
-Protocol: connect
-Proxy: 59.57.15.180:6000
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
