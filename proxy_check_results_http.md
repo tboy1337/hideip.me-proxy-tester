@@ -1,32 +1,32 @@
 Protocol: http
-Proxy: 103.79.131.70:13001
+Proxy: 103.99.175.9:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Indonesia
+Country: Papua New Guinea
 
 Protocol: http
-Proxy: 8.222.235.39:3128
+Proxy: 45.12.150.82:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Singapore
+Country: United States
 
 Protocol: http
-Proxy: 41.223.119.156:3128
+Proxy: 134.209.180.218:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Zambia
+Country: United Kingdom
 
 Protocol: http
-Proxy: 45.137.68.13:3128
+Proxy: 197.164.123.131:1981
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Germany
+Server: mikrotik
+Country: Egypt
 
