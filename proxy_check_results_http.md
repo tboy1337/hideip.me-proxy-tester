@@ -1,5 +1,21 @@
 Protocol: http
+Proxy: 154.65.39.7:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Senegal
+
+Protocol: http
 Proxy: 103.118.47.243:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
+Proxy: 103.216.50.11:8080
 Status: working
 IP: None
 Anon: elite
@@ -31,12 +47,12 @@ Server: None
 Country: Taiwan
 
 Protocol: http
-Proxy: 103.88.90.117:8080
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Russia
 
 Protocol: http
 Proxy: 185.49.31.207:8081
@@ -71,14 +87,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 175.34.36.22:8888
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Australia
-
-Protocol: http
 Proxy: 83.168.72.172:8081
 Status: working
 IP: None
@@ -87,7 +95,7 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.216.50.223:8080
+Proxy: 103.118.46.64:8080
 Status: working
 IP: None
 Anon: elite
@@ -119,6 +127,14 @@ Server: None
 Country: Cambodia
 
 Protocol: http
+Proxy: 62.162.193.125:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: North Macedonia
+
+Protocol: http
 Proxy: 83.168.75.202:8081
 Status: working
 IP: None
@@ -143,28 +159,12 @@ Server: None
 Country: Hungary
 
 Protocol: http
-Proxy: 61.79.72.201:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Korea
-
-Protocol: http
 Proxy: 203.95.196.160:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Cambodia
-
-Protocol: http
-Proxy: 8.222.235.39:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
 
 Protocol: http
 Proxy: 41.89.22.100:3128
@@ -223,26 +223,10 @@ Server: None
 Country: Japan
 
 Protocol: http
-Proxy: 36.138.53.26:10019
+Proxy: 212.71.254.82:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: China
-
-Protocol: http
-Proxy: 203.95.196.165:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
-
-Protocol: http
-Proxy: 112.86.55.143:81
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: China
+Country: United Kingdom
 
