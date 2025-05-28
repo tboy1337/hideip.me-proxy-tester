@@ -6,19 +6,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 159.100.20.206:27866
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Ukraine
-
-Protocol: connect
-Proxy: 192.81.129.252:3133
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
