@@ -1,4 +1,12 @@
 Protocol: http
+Proxy: 113.108.13.120:8083
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: China
+
+Protocol: http
 Proxy: 183.109.79.187:80
 Status: working
 IP: None
@@ -15,20 +23,52 @@ Server: None
 Country: Burundi
 
 Protocol: http
-Proxy: 31.10.83.158:8080
+Proxy: 192.81.129.252:3133
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: United States
 
 Protocol: http
-Proxy: 220.116.142.217:80
+Proxy: 106.107.183.19:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Korea
+Country: Taiwan
+
+Protocol: http
+Proxy: 91.241.241.60:9090
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Ukraine
+
+Protocol: http
+Proxy: 190.223.60.131:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Peru
+
+Protocol: http
+Proxy: 154.0.157.183:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Tanzania
+
+Protocol: http
+Proxy: 197.164.101.18:1981
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 45.12.150.82:8080
@@ -39,30 +79,6 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 61.145.128.90:8410
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: China
-
-Protocol: http
-Proxy: 36.138.53.26:10019
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: China
-
-Protocol: http
-Proxy: 134.209.180.218:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United Kingdom
-
-Protocol: http
 Proxy: 203.95.196.165:8080
 Status: working
 IP: None
@@ -71,12 +87,28 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 197.164.101.10:1981
+Proxy: 36.77.122.198:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Egypt
+Country: Indonesia
+
+Protocol: http
+Proxy: 43.165.70.69:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
+
+Protocol: http
+Proxy: 43.165.126.91:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
 Protocol: http
 Proxy: 203.95.196.11:8080
