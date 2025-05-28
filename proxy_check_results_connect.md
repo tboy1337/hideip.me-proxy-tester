@@ -7,7 +7,7 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 5.78.124.240:40001
+Proxy: 89.117.145.245:3128
 Status: working
 IP: N/A
 Anon: N/A
