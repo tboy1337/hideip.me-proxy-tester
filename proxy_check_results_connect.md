@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Russia
 
-Protocol: connect
-Proxy: 172.104.33.222:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Singapore
-
