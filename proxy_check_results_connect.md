@@ -15,10 +15,10 @@ Server: N/A
 Country: China
 
 Protocol: connect
-Proxy: 95.216.24.254:9091
+Proxy: 47.79.121.83:1080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Finland
+Country: United States
 
