@@ -15,15 +15,7 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 185.49.31.207:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 212.127.95.235:8081
+Proxy: 79.110.200.148:8081
 Status: working
 IP: None
 Anon: elite
@@ -39,23 +31,15 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 62.162.193.125:8081
+Proxy: 219.79.89.247:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: North Macedonia
+Country: Hong Kong
 
 Protocol: http
 Proxy: 79.110.200.27:8000
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 83.168.75.202:8081
 Status: working
 IP: None
 Anon: elite
@@ -71,12 +55,12 @@ Server: None
 Country: China
 
 Protocol: http
-Proxy: 213.131.85.27:1981
+Proxy: 106.107.183.19:80
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Anon: elite
+Server: None
+Country: Taiwan
 
 Protocol: http
 Proxy: 185.191.236.162:3128
@@ -87,12 +71,28 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 137.184.174.32:4857
+Proxy: 8.222.235.39:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Canada
+Country: Singapore
+
+Protocol: http
+Proxy: 131.148.8.130:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 1.64.217.90:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Hong Kong
 
 Protocol: http
 Proxy: 45.12.150.82:8080
@@ -111,20 +111,12 @@ Server: None
 Country: South Africa
 
 Protocol: http
-Proxy: 185.49.31.205:8080
+Proxy: 134.209.180.218:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 112.86.55.143:81
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: China
+Country: United Kingdom
 
 Protocol: http
 Proxy: 197.164.101.10:1981
@@ -133,12 +125,4 @@ IP: None
 Anon: transparent
 Server: mikrotik
 Country: Egypt
-
-Protocol: http
-Proxy: 165.227.169.161:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
 
