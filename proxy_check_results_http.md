@@ -1,20 +1,4 @@
 Protocol: http
-Proxy: 154.65.39.7:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Senegal
-
-Protocol: http
-Proxy: 203.95.198.35:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
-
-Protocol: http
 Proxy: 113.108.13.120:8083
 Status: working
 IP: None
@@ -31,12 +15,60 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 106.107.183.19:80
+Proxy: 79.110.201.235:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Taiwan
+Country: Poland
+
+Protocol: http
+Proxy: 83.168.74.163:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
+Proxy: 122.5.194.38:1001
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: http
+Proxy: 220.116.142.217:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Korea
+
+Protocol: http
+Proxy: 91.205.196.215:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Armenia
+
+Protocol: http
+Proxy: 221.6.139.190:9002
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: http
+Proxy: 103.79.131.70:13001
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
 
 Protocol: http
 Proxy: 185.191.236.162:3128
@@ -47,12 +79,20 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 137.184.174.32:4857
+Proxy: 1.64.217.90:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Canada
+Country: Hong Kong
+
+Protocol: http
+Proxy: 212.108.153.246:9090
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cyprus
 
 Protocol: http
 Proxy: 45.12.150.82:8080
@@ -61,28 +101,4 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
-
-Protocol: http
-Proxy: 103.37.111.253:18081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Japan
-
-Protocol: http
-Proxy: 134.209.180.218:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United Kingdom
-
-Protocol: http
-Proxy: 112.86.55.143:81
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: China
 
