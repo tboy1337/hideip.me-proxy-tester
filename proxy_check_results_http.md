@@ -7,14 +7,6 @@ Server: None
 Country: Senegal
 
 Protocol: http
-Proxy: 103.63.190.72:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
-
-Protocol: http
 Proxy: 79.110.201.235:8081
 Status: working
 IP: None
@@ -39,6 +31,14 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 102.134.98.222:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Burundi
+
+Protocol: http
 Proxy: 62.162.193.125:8081
 Status: working
 IP: None
@@ -47,12 +47,20 @@ Server: None
 Country: North Macedonia
 
 Protocol: http
-Proxy: 154.0.14.116:3128
+Proxy: 79.110.200.27:8000
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Africa
+Country: Poland
+
+Protocol: http
+Proxy: 83.168.75.202:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
 
 Protocol: http
 Proxy: 221.6.139.190:9002
@@ -63,28 +71,36 @@ Server: None
 Country: China
 
 Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 216.250.11.178:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
+Country: Turkmenistan
 
 Protocol: http
-Proxy: 8.222.235.39:3128
+Proxy: 197.164.101.18:1981
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Singapore
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
-Proxy: 137.184.174.32:4857
+Proxy: 45.12.150.82:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Canada
+Country: United States
+
+Protocol: http
+Proxy: 103.37.111.253:18081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Japan
 
 Protocol: http
 Proxy: 134.209.180.218:3128
@@ -103,18 +119,18 @@ Server: None
 Country: China
 
 Protocol: http
-Proxy: 197.164.101.10:1981
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
-
-Protocol: http
-Proxy: 193.111.124.12:8080
+Proxy: 134.249.136.106:8080
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Ukraine
+
+Protocol: http
+Proxy: 41.223.119.156:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Zambia
 

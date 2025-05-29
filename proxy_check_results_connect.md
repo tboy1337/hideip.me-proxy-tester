@@ -7,10 +7,18 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 196.3.170.241:3128
+Proxy: 156.54.213.122:9092
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: South Africa
+Country: Italy
+
+Protocol: connect
+Proxy: 51.79.195.196:30000
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Singapore
 
