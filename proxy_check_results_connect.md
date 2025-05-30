@@ -14,3 +14,11 @@ Anon: N/A
 Server: N/A
 Country: Hong Kong
 
+Protocol: connect
+Proxy: 3.225.41.109:80
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
