@@ -7,10 +7,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 156.54.213.122:9092
+Proxy: 47.79.121.83:1080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Italy
+Country: United States
 
