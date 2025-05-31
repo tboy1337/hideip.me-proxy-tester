@@ -1,5 +1,37 @@
 Protocol: socks4
-Proxy: 103.171.244.201:5678
+Proxy: 103.127.23.10:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: India
+
+Protocol: socks4
+Proxy: 94.231.165.94:60606
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Russia
+
+Protocol: socks4
+Proxy: 78.128.124.108:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Bulgaria
+
+Protocol: socks4
+Proxy: 93.117.72.27:55770
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Moldova
+
+Protocol: socks4
+Proxy: 103.148.45.139:1080
 Status: working
 IP: None
 Anon: transparent
@@ -7,7 +39,15 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 36.91.139.82:5678
+Proxy: 177.91.255.35:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Peru
+
+Protocol: socks4
+Proxy: 103.102.13.107:8080
 Status: working
 IP: None
 Anon: transparent
@@ -15,47 +55,39 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 186.47.213.158:5678
+Proxy: 37.52.13.164:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ecuador
+Country: Ukraine
 
 Protocol: socks4
-Proxy: 203.205.34.58:5678
+Proxy: 103.182.240.75:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Vietnam
+Country: Indonesia
 
 Protocol: socks4
-Proxy: 24.76.21.10:5678
+Proxy: 79.7.101.98:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Canada
+Country: Italy
 
 Protocol: socks4a
-Proxy: 171.253.60.119:1080
+Proxy: 145.239.5.238:16624
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
-
-Protocol: socks4a
-Proxy: 27.73.23.111:1080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
+Country: United Kingdom
 
 Protocol: socks4
-Proxy: 27.75.156.160:1080
+Proxy: 171.254.216.64:1080
 Status: working
 IP: None
 Anon: elite
@@ -69,4 +101,12 @@ IP: None
 Anon: transparent
 Server: mikrotik
 Country: Indonesia
+
+Protocol: socks4
+Proxy: 125.234.92.119:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
 
