@@ -1,4 +1,12 @@
 Protocol: http
+Proxy: 185.191.236.162:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Switzerland
+
+Protocol: http
 Proxy: 8.222.235.39:3128
 Status: working
 IP: None
@@ -15,15 +23,15 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 61.145.128.90:8410
+Proxy: 167.71.211.171:30028
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: China
+Country: Singapore
 
 Protocol: http
-Proxy: 167.71.211.171:30028
+Proxy: 167.71.211.171:30087
 Status: working
 IP: None
 Anon: elite
