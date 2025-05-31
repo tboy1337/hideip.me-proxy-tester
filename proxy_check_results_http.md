@@ -7,6 +7,14 @@ Server: None
 Country: Senegal
 
 Protocol: http
+Proxy: 62.33.53.248:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
 Proxy: 185.49.31.207:8081
 Status: working
 IP: None
@@ -31,20 +39,12 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: http
-Proxy: 186.101.251.197:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Ecuador
-
-Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 8.222.235.39:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
+Country: Singapore
 
 Protocol: http
 Proxy: 45.12.150.82:8080
@@ -55,20 +55,20 @@ Server: None
 Country: United States
 
 Protocol: http
+Proxy: 103.120.146.11:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
+
+Protocol: http
 Proxy: 185.49.31.205:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Poland
-
-Protocol: http
-Proxy: 156.155.48.107:3128
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: South Africa
 
 Protocol: http
 Proxy: 128.199.23.21:3128
