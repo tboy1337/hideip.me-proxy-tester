@@ -7,12 +7,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 8.210.88.48:13128
+Proxy: 47.79.16.186:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Hong Kong
+Country: United States
 
 Protocol: connect
 Proxy: 47.79.121.83:1080
