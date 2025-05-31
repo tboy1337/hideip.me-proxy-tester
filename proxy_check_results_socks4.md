@@ -1,21 +1,21 @@
 Protocol: socks4
-Proxy: 202.40.179.18:4145
+Proxy: 182.93.69.74:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bangladesh
+Country: Nepal
 
 Protocol: socks4
-Proxy: 190.13.147.93:5678
+Proxy: 170.245.248.45:60606
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Chile
+Country: Brazil
 
 Protocol: socks4
-Proxy: 188.143.169.22:33333
+Proxy: 95.31.35.210:3629
 Status: working
 IP: None
 Anon: transparent
@@ -23,36 +23,12 @@ Server: mikrotik
 Country: Russia
 
 Protocol: socks4
-Proxy: 202.74.243.182:228
+Proxy: 46.8.48.143:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bangladesh
-
-Protocol: socks4a
-Proxy: 27.254.67.114:37328
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Thailand
-
-Protocol: socks4
-Proxy: 103.80.210.116:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Mongolia
-
-Protocol: socks4
-Proxy: 178.32.202.54:5330
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
+Country: Russia
 
 Protocol: socks4
 Proxy: 118.70.206.161:60606
@@ -63,18 +39,50 @@ Server: mikrotik
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 27.75.145.117:1080
+Proxy: 103.148.45.139:1080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: socks4
+Proxy: 171.4.80.12:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Thailand
+
+Protocol: socks4
+Proxy: 181.143.64.100:48293
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Colombia
+
+Protocol: socks4a
+Proxy: 202.141.161.52:7891
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: socks4a
+Proxy: 27.73.20.184:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Vietnam
 
-Protocol: socks4a
-Proxy: 116.98.112.114:1080
+Protocol: socks4
+Proxy: 181.224.251.222:5678
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Vietnam
+Anon: transparent
+Server: mikrotik
+Country: Peru
 
