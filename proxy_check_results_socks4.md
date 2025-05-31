@@ -1,24 +1,40 @@
 Protocol: socks4
-Proxy: 202.40.179.18:4145
+Proxy: 177.222.60.138:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bangladesh
+Country: Bolivia
 
 Protocol: socks4
-Proxy: 170.245.248.45:60606
+Proxy: 80.92.224.141:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Brazil
+Country: Ukraine
 
 Protocol: socks4
-Proxy: 93.117.72.27:55770
+Proxy: 27.254.67.114:50729
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Moldova
+Anon: elite
+Server: None
+Country: Thailand
+
+Protocol: socks4
+Proxy: 202.141.161.52:7891
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: socks4a
+Proxy: 27.73.23.111:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
 
