@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: United States
 
+Protocol: connect
+Proxy: 5.75.200.137:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Germany
+
