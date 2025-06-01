@@ -15,10 +15,10 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 91.186.97.212:3128
+Proxy: 188.132.200.21:1953
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Russia
+Country: Türkiye
 
