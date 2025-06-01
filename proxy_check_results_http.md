@@ -7,12 +7,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.102.12.105:8080
+Proxy: 216.250.11.178:3128
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Turkmenistan
 
 Protocol: http
 Proxy: 185.49.31.205:8080
@@ -31,10 +31,10 @@ Server: None
 Country: Vietnam
 
 Protocol: http
-Proxy: 188.132.200.21:1953
+Proxy: 213.131.85.30:1981
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Türkiye
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
