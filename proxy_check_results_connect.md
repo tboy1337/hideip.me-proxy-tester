@@ -14,27 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Indonesia
 
-Protocol: connect
-Proxy: 8.210.88.48:13128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
-
-Protocol: connect
-Proxy: 61.145.128.90:8410
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 91.186.97.212:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Russia
-
