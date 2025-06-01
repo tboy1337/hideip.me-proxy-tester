@@ -15,18 +15,10 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 143.198.42.182:31280
+Proxy: 3.225.41.109:80
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
-
-Protocol: connect
-Proxy: 58.247.254.150:8444
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
+Country: United States
 
