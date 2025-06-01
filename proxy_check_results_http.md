@@ -15,15 +15,7 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 216.250.11.178:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Turkmenistan
-
-Protocol: http
-Proxy: 202.182.59.52:10001
+Proxy: 103.180.118.184:8080
 Status: working
 IP: None
 Anon: transparent
@@ -37,14 +29,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
-
-Protocol: http
-Proxy: 152.53.49.65:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Austria
 
 Protocol: http
 Proxy: 140.238.184.182:3128
