@@ -15,34 +15,34 @@ Server: None
 Country: Cyprus
 
 Protocol: http
-Proxy: 185.49.31.205:8080
+Proxy: 122.154.68.50:8213
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: Thailand
 
 Protocol: http
-Proxy: 41.223.119.156:3128
+Proxy: 192.81.129.252:3132
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Zambia
+Country: United States
 
 Protocol: http
-Proxy: 174.138.123.146:3128
+Proxy: 49.151.78.173:8080
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: India
+Server: mikrotik
+Country: Philippines
 
 Protocol: http
-Proxy: 188.132.200.21:1953
+Proxy: 50.114.33.17:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Türkiye
+Country: Cambodia
 
