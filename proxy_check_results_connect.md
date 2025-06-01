@@ -15,7 +15,7 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
-Proxy: 116.172.66.186:12701
+Proxy: 59.57.15.180:6527
 Status: working
 IP: N/A
 Anon: N/A
