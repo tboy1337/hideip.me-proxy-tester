@@ -23,6 +23,14 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
+Proxy: 36.139.251.14:10444
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
 Proxy: 59.57.15.180:6527
 Status: working
 IP: N/A
