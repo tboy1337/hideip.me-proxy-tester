@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: Canada
 
+Protocol: connect
+Proxy: 91.186.97.212:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
+
