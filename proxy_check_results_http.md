@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 154.0.14.116:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
+Country: South Africa
 
 Protocol: http
 Proxy: 91.241.241.60:9090
@@ -23,10 +23,18 @@ Server: None
 Country: Singapore
 
 Protocol: http
-Proxy: 213.131.85.30:1981
+Proxy: 103.37.111.253:18081
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Anon: elite
+Server: None
+Country: Japan
+
+Protocol: http
+Proxy: 185.126.202.76:4005
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Iran
 
