@@ -1,10 +1,34 @@
 Protocol: http
+Proxy: 154.65.39.7:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Senegal
+
+Protocol: http
+Proxy: 103.49.114.195:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Bangladesh
+
+Protocol: http
 Proxy: 93.171.157.249:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Russia
+
+Protocol: http
+Proxy: 119.252.173.26:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
 
 Protocol: http
 Proxy: 185.49.31.207:8081
@@ -21,6 +45,14 @@ IP: None
 Anon: elite
 Server: None
 Country: France
+
+Protocol: http
+Proxy: 187.251.224.167:8081
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Mexico
 
 Protocol: http
 Proxy: 79.110.202.184:8081
@@ -45,14 +77,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Bosnia and Herzegovina
-
-Protocol: http
-Proxy: 5.161.103.41:88
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
 
 Protocol: http
 Proxy: 159.224.232.194:8888
@@ -111,12 +135,12 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 106.107.183.19:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
+Country: Taiwan
 
 Protocol: http
 Proxy: 131.148.8.130:3128
@@ -135,12 +159,36 @@ Server: None
 Country: South Africa
 
 Protocol: http
+Proxy: 103.120.146.11:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
+
+Protocol: http
 Proxy: 103.37.111.253:18081
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Japan
+
+Protocol: http
+Proxy: 134.249.136.106:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Ukraine
+
+Protocol: http
+Proxy: 103.247.13.238:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 203.95.196.200:8080
@@ -159,7 +207,15 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 213.131.85.28:1976
+Proxy: 140.238.184.182:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Brazil
+
+Protocol: http
+Proxy: 41.35.150.6:8080
 Status: working
 IP: None
 Anon: transparent
