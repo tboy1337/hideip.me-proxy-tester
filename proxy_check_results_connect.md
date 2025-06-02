@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Canada
 
-Protocol: connect
-Proxy: 79.175.131.122:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Iran
-
