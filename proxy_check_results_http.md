@@ -1,34 +1,10 @@
 Protocol: http
-Proxy: 103.180.118.184:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 102.132.38.247:8080
+Proxy: 8.222.235.39:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Africa
-
-Protocol: http
-Proxy: 103.120.146.11:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.37.111.253:18081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Japan
+Country: Singapore
 
 Protocol: http
 Proxy: 185.126.202.76:4005
