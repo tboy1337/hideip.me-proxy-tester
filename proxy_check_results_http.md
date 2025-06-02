@@ -7,28 +7,12 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 102.132.38.247:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
-
-Protocol: http
-Proxy: 190.52.100.81:999
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Venezuela
-
-Protocol: http
-Proxy: 8.222.235.39:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
+Country: South Africa
 
 Protocol: http
 Proxy: 103.37.111.253:18081
@@ -53,4 +37,12 @@ IP: None
 Anon: elite
 Server: None
 Country: Iran
+
+Protocol: http
+Proxy: 107.173.181.127:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
