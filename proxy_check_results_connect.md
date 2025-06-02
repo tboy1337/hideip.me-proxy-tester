@@ -15,22 +15,6 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 116.172.66.186:12701
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 180.109.110.146:7080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
 Proxy: 183.230.184.44:8081
 Status: working
 IP: N/A
