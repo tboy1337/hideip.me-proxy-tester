@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: Canada
 
-Protocol: connect
-Proxy: 103.180.125.35:8888
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Indonesia
-
