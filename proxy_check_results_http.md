@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 103.49.114.195:8080
+Proxy: 60.188.102.225:18080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Bangladesh
+Country: China
 
 Protocol: http
 Proxy: 93.171.157.249:8080
@@ -23,36 +23,28 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 185.49.31.207:8081
+Proxy: 157.66.84.17:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 54.38.181.125:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: France
 
 Protocol: http
-Proxy: 103.44.19.220:3127
+Proxy: 160.19.178.42:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
 Country: Indonesia
-
-Protocol: http
-Proxy: 91.241.241.60:9090
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Ukraine
-
-Protocol: http
-Proxy: 190.223.60.131:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Peru
 
 Protocol: http
 Proxy: 8.222.235.39:3128
@@ -63,63 +55,23 @@ Server: None
 Country: Singapore
 
 Protocol: http
-Proxy: 103.220.23.221:1001
+Proxy: 154.208.48.166:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Indonesia
+Country: Pakistan
 
 Protocol: http
-Proxy: 140.238.184.182:3128
+Proxy: 134.209.180.218:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Brazil
-
-Protocol: http
-Proxy: 37.60.232.250:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
-
-Protocol: http
-Proxy: 213.131.85.28:1976
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
-
-Protocol: http
-Proxy: 203.95.196.68:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
+Country: United Kingdom
 
 Protocol: http
 Proxy: 52.53.251.46:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 103.118.44.225:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
-
-Protocol: http
-Proxy: 66.228.47.125:110
 Status: working
 IP: None
 Anon: elite
