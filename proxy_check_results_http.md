@@ -7,42 +7,26 @@ Server: None
 Country: Senegal
 
 Protocol: http
-Proxy: 160.20.38.18:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 160.187.174.189:8080
+Proxy: 62.241.133.227:1981
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Japan
+Country: Egypt
 
 Protocol: http
-Proxy: 140.238.184.182:3128
+Proxy: 154.0.14.116:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Brazil
+Country: South Africa
 
 Protocol: http
-Proxy: 37.60.232.250:3128
+Proxy: 147.135.222.208:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Germany
-
-Protocol: http
-Proxy: 139.228.220.107:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Country: France
 
