@@ -15,7 +15,15 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
-Proxy: 47.79.121.83:1080
+Proxy: 116.172.66.186:12701
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
+Protocol: connect
+Proxy: 18.144.29.58:3128
 Status: working
 IP: N/A
 Anon: N/A
