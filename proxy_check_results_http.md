@@ -1,8 +1,8 @@
 Protocol: http
-Proxy: 213.131.85.28:1976
+Proxy: 103.188.169.160:7777
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Egypt
+Country: Indonesia
 
