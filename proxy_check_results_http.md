@@ -1,8 +1,8 @@
 Protocol: http
-Proxy: 38.191.161.190:999
+Proxy: 213.131.85.28:1976
 Status: working
 IP: None
-Anon: elite
+Anon: transparent
 Server: mikrotik
-Country: Dominican Republic
+Country: Egypt
 
