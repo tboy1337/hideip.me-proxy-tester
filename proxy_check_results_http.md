@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 83.168.72.172:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: Poland
 
 Protocol: http
 Proxy: 91.205.196.215:8080
