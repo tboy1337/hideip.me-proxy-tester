@@ -23,18 +23,18 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: http
-Proxy: 86.180.158.25:8080
+Proxy: 95.38.155.6:8080
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
 Server: mikrotik
-Country: United Kingdom
+Country: Iran
 
 Protocol: http
-Proxy: 107.150.50.210:3128
+Proxy: 203.95.196.68:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Cambodia
 
