@@ -7,12 +7,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 103.187.100.198:3129
+Proxy: 196.3.170.241:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Bangladesh
+Country: South Africa
 
 Protocol: connect
 Proxy: 116.172.66.186:12701
