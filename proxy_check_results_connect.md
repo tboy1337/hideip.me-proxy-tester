@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: China
 
-Protocol: connect
-Proxy: 171.213.220.29:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
