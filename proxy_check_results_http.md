@@ -15,20 +15,20 @@ Server: None
 Country: Armenia
 
 Protocol: http
-Proxy: 160.187.174.189:8080
+Proxy: 103.39.70.225:8181
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Japan
+Country: Indonesia
 
 Protocol: http
-Proxy: 103.57.39.15:8080
+Proxy: 41.223.119.156:3128
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Zambia
 
 Protocol: http
 Proxy: 134.209.180.218:3128
