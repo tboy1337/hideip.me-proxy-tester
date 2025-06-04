@@ -15,15 +15,15 @@ Server: N/A
 Country: Hong Kong
 
 Protocol: connect
-Proxy: 122.154.68.50:8213
+Proxy: 123.139.36.146:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Thailand
+Country: China
 
 Protocol: connect
-Proxy: 123.139.36.146:8118
+Proxy: 171.213.220.29:8118
 Status: working
 IP: N/A
 Anon: N/A
