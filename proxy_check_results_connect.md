@@ -15,15 +15,15 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
-Proxy: 36.139.251.14:10444
+Proxy: 122.154.68.50:8213
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Thailand
 
 Protocol: connect
-Proxy: 116.172.66.186:12701
+Proxy: 36.139.251.14:10444
 Status: working
 IP: N/A
 Anon: N/A
