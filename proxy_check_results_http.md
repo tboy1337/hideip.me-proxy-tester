@@ -1,8 +1,8 @@
 Protocol: http
-Proxy: 202.182.59.52:10001
+Proxy: 154.65.39.7:80
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Senegal
 
