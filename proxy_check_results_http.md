@@ -7,14 +7,6 @@ Server: None
 Country: Senegal
 
 Protocol: http
-Proxy: 119.252.173.26:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Indonesia
-
-Protocol: http
 Proxy: 83.168.72.172:8081
 Status: working
 IP: None
@@ -31,12 +23,12 @@ Server: None
 Country: Armenia
 
 Protocol: http
-Proxy: 202.58.77.194:8031
+Proxy: 190.223.60.131:8080
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Peru
 
 Protocol: http
 Proxy: 107.173.181.127:3128
