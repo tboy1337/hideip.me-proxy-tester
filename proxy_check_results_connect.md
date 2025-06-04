@@ -7,26 +7,26 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 143.198.42.182:31280
+Proxy: 47.79.16.186:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Canada
+Country: United States
 
 Protocol: connect
-Proxy: 123.139.36.146:8118
+Proxy: 196.3.170.241:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: South Africa
 
 Protocol: connect
-Proxy: 171.213.228.93:8118
+Proxy: 91.186.97.212:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Russia
 
