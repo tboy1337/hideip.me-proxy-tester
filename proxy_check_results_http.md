@@ -7,18 +7,10 @@ Server: None
 Country: Armenia
 
 Protocol: http
-Proxy: 197.164.101.18:1981
+Proxy: 49.145.115.234:8082
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
 Server: mikrotik
-Country: Egypt
-
-Protocol: http
-Proxy: 213.131.85.28:1981
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Country: Philippines
 
