@@ -6,19 +6,3 @@ Anon: elite
 Server: None
 Country: Senegal
 
-Protocol: http
-Proxy: 107.150.50.210:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 134.209.180.218:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United Kingdom
-
