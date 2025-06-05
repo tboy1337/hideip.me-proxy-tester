@@ -1,74 +1,42 @@
 Protocol: socks5h
-Proxy: 178.32.202.54:10635
+Proxy: 178.32.202.54:48169
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: France
-
-Protocol: socks5h
-Proxy: 178.32.202.54:26045
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5h
-Proxy: 178.32.202.54:49280
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5h
-Proxy: 54.36.176.100:5330
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5h
-Proxy: 178.32.202.54:29077
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5h
-Proxy: 54.36.176.100:49864
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5h
-Proxy: 83.69.109.106:1080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
 
 Protocol: socks5
-Proxy: 185.93.89.143:4051
+Proxy: 185.93.89.144:7656
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Iran
+Country: Chile
 
 Protocol: socks5
-Proxy: 185.93.89.145:5650
+Proxy: 185.93.89.143:7849
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: France
+
+Protocol: socks5
+Proxy: 185.93.89.145:7633
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Chile
+
+Protocol: socks5
+Proxy: 185.93.89.143:4153
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks5
 Proxy: 185.93.89.143:5356
@@ -77,6 +45,38 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: socks5h
+Proxy: 45.12.150.82:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5
+Proxy: 103.148.112.242:8199
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: socks5
+Proxy: 185.93.89.143:4169
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5
+Proxy: 185.93.89.143:5008
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Chile
 
 Protocol: socks5
 Proxy: 45.146.130.48:16993
