@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: Hong Kong
 
+Protocol: connect
+Proxy: 18.133.222.120:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United Kingdom
+
