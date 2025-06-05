@@ -1,34 +1,26 @@
 Protocol: socks5h
-Proxy: 178.32.202.54:48169
+Proxy: 163.53.204.178:9813
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: France
+Anon: transparent
+Server: mikrotik
+Country: India
 
 Protocol: socks5
-Proxy: 185.93.89.144:7656
+Proxy: 185.93.89.147:36669
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Chile
+Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.143:7849
+Proxy: 185.93.89.144:22847
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
-
-Protocol: socks5
-Proxy: 185.93.89.145:7633
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Chile
+Country: United States
 
 Protocol: socks5
 Proxy: 185.93.89.143:4153
@@ -39,15 +31,15 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.143:5356
+Proxy: 185.93.89.145:7122
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Vietnam
 
-Protocol: socks5h
-Proxy: 45.12.150.82:1080
+Protocol: socks5
+Proxy: 185.93.89.143:5356
 Status: working
 IP: None
 Anon: elite
@@ -63,12 +55,36 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks5
+Proxy: 185.93.89.146:4700
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Finland
+
+Protocol: socks5
 Proxy: 185.93.89.143:4169
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: socks5
+Proxy: 185.93.89.146:11234
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
+
+Protocol: socks5
+Proxy: 185.93.89.155:16000
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Malaysia
 
 Protocol: socks5
 Proxy: 185.93.89.143:5008
@@ -79,12 +95,12 @@ Server: None
 Country: Chile
 
 Protocol: socks5
-Proxy: 45.146.130.48:16993
+Proxy: 185.93.89.147:4388
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Chile
 
 Protocol: socks5
 Proxy: 45.146.130.47:16323
@@ -95,7 +111,7 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 45.146.130.15:4625
+Proxy: 185.93.89.143:41456
 Status: working
 IP: None
 Anon: elite
