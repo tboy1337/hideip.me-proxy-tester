@@ -15,10 +15,10 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
-Proxy: 36.133.183.200:7890
+Proxy: 91.186.97.212:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Russia
 
