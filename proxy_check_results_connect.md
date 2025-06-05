@@ -6,3 +6,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 14.224.174.168:4038
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
