@@ -1,18 +1,18 @@
 Protocol: http
-Proxy: 103.39.49.156:3128
+Proxy: 46.35.9.110:80
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: France
 
 Protocol: http
-Proxy: 103.39.70.248:8181
+Proxy: 91.241.217.58:9090
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Ukraine
 
 Protocol: http
 Proxy: 83.168.72.172:8081
@@ -23,52 +23,20 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 159.224.232.194:8888
+Proxy: 103.118.46.64:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Ukraine
+Country: Cambodia
 
 Protocol: http
-Proxy: 188.191.165.159:8080
+Proxy: 106.107.183.19:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 45.239.175.105:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Brazil
-
-Protocol: http
-Proxy: 125.187.149.240:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Korea
-
-Protocol: http
-Proxy: 103.172.35.64:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 61.79.72.201:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Korea
+Country: Taiwan
 
 Protocol: http
 Proxy: 91.241.241.60:9090
@@ -87,6 +55,14 @@ Server: None
 Country: Russia
 
 Protocol: http
+Proxy: 103.120.146.11:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
+
+Protocol: http
 Proxy: 185.49.31.205:8080
 Status: working
 IP: None
@@ -95,12 +71,28 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.44.19.195:1111
+Proxy: 210.17.253.178:8080
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Hong Kong
+
+Protocol: http
+Proxy: 185.77.3.74:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Azerbaijan
+
+Protocol: http
+Proxy: 203.95.196.184:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
 
 Protocol: http
 Proxy: 208.43.38.57:3128
