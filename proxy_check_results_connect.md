@@ -6,3 +6,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 123.139.36.223:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
