@@ -6,3 +6,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 213.230.121.73:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Uzbekistan
+
