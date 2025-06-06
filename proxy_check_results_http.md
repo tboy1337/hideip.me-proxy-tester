@@ -7,14 +7,6 @@ Server: None
 Country: Senegal
 
 Protocol: http
-Proxy: 37.140.51.159:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
 Proxy: 62.162.193.125:8081
 Status: working
 IP: None
@@ -31,12 +23,12 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 190.223.60.131:8080
+Proxy: 66.228.47.125:110
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Peru
+Country: United States
 
 Protocol: http
 Proxy: 208.43.38.57:3128
