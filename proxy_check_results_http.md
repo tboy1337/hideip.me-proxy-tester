@@ -1,10 +1,18 @@
 Protocol: http
-Proxy: 197.164.101.18:1981
+Proxy: 107.150.50.210:3128
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 107.173.181.127:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: http
 Proxy: 208.43.38.57:3128
