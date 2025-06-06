@@ -7,10 +7,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 139.59.34.209:8080
+Proxy: 123.139.36.223:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: India
+Country: China
 

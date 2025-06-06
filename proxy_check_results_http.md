@@ -1,26 +1,18 @@
 Protocol: http
-Proxy: 154.65.39.7:80
+Proxy: 190.223.60.131:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Senegal
+Country: Peru
 
 Protocol: http
-Proxy: 37.140.51.159:80
+Proxy: 66.228.47.125:110
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 91.241.241.60:9090
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Ukraine
+Country: United States
 
 Protocol: http
 Proxy: 208.43.38.57:3128
