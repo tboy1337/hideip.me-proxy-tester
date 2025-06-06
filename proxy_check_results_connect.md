@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: Canada
 
+Protocol: connect
+Proxy: 193.151.154.160:8085
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Qatar
+
