@@ -7,12 +7,12 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 159.100.20.206:27866
+Proxy: 202.61.203.162:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Sweden
+Country: Germany
 
 Protocol: connect
 Proxy: 171.213.226.221:8118
