@@ -7,10 +7,10 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 213.230.121.73:3128
+Proxy: 43.153.80.6:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Uzbekistan
+Country: United States
 
