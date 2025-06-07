@@ -23,12 +23,12 @@ Server: None
 Country: Turkmenistan
 
 Protocol: http
-Proxy: 134.209.239.42:8080
+Proxy: 41.223.119.156:3128
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Germany
+Server: None
+Country: Zambia
 
 Protocol: http
 Proxy: 208.43.38.57:3128
@@ -39,28 +39,12 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 160.16.204.90:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Japan
-
-Protocol: http
 Proxy: 103.222.255.106:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
 Country: Indonesia
-
-Protocol: http
-Proxy: 178.44.251.139:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
 
 Protocol: http
 Proxy: 37.60.230.27:8888
