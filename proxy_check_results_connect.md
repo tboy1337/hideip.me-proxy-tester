@@ -6,19 +6,3 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
-Protocol: connect
-Proxy: 103.204.129.42:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
-Proxy: 59.57.15.180:6450
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
