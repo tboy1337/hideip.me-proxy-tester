@@ -15,14 +15,6 @@ Server: N/A
 Country: Russia
 
 Protocol: connect
-Proxy: 132.145.19.122:1080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United Kingdom
-
-Protocol: connect
 Proxy: 36.133.183.200:7890
 Status: working
 IP: N/A
