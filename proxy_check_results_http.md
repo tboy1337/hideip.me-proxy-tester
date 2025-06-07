@@ -22,11 +22,3 @@ Anon: elite
 Server: None
 Country: United States
 
-Protocol: http
-Proxy: 45.92.111.8:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Switzerland
-
