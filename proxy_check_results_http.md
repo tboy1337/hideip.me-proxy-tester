@@ -1,4 +1,12 @@
 Protocol: http
+Proxy: 103.155.199.104:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
 Proxy: 208.43.38.57:3128
 Status: working
 IP: None
@@ -7,10 +15,10 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 103.118.44.188:8080
+Proxy: 18.102.211.113:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Cambodia
+Country: Italy
 
