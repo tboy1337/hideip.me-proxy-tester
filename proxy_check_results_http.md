@@ -1,12 +1,4 @@
 Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
 Proxy: 83.168.72.172:8081
 Status: working
 IP: None
@@ -23,12 +15,12 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 149.86.159.94:8080
+Proxy: 107.173.181.127:3128
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Türkiye
+Server: None
+Country: United States
 
 Protocol: http
 Proxy: 208.43.38.57:3128
@@ -45,4 +37,12 @@ IP: None
 Anon: elite
 Server: None
 Country: Russia
+
+Protocol: http
+Proxy: 167.71.211.171:30477
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
