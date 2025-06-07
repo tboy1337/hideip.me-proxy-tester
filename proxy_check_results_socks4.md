@@ -7,44 +7,44 @@ Server: mikrotik
 Country: South Africa
 
 Protocol: socks4
-Proxy: 216.155.93.238:5678
+Proxy: 41.139.147.86:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Chile
+Country: Kenya
 
 Protocol: socks4
-Proxy: 80.65.80.230:5678
+Proxy: 95.31.35.210:3629
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bosnia and Herzegovina
+Country: Russia
 
 Protocol: socks4
-Proxy: 27.254.67.114:19902
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Thailand
-
-Protocol: socks4
-Proxy: 103.160.205.38:8080
+Proxy: 188.143.169.22:33333
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Russia
 
 Protocol: socks4
-Proxy: 163.47.174.47:1080
+Proxy: 46.8.60.2:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Cambodia
+Country: Russia
+
+Protocol: socks4
+Proxy: 103.80.210.116:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Mongolia
 
 Protocol: socks4
 Proxy: 103.182.240.75:1080
@@ -55,20 +55,28 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 103.109.193.204:48293
+Proxy: 122.54.86.40:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Philippines
+
+Protocol: socks4a
+Proxy: 145.239.5.238:32554
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United Kingdom
 
 Protocol: socks4
-Proxy: 185.95.186.165:48293
+Proxy: 24.199.103.116:42206
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Iraq
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks4
 Proxy: 103.171.250.54:1080
@@ -79,10 +87,18 @@ Server: mikrotik
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 105.214.96.240:5678
+Proxy: 103.81.194.126:5555
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: South Africa
+Country: Indonesia
+
+Protocol: socks4a
+Proxy: 116.107.191.6:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
 
