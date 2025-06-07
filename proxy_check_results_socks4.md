@@ -1,12 +1,4 @@
 Protocol: socks4
-Proxy: 216.155.93.238:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Chile
-
-Protocol: socks4
 Proxy: 201.204.47.67:5678
 Status: working
 IP: None
@@ -23,20 +15,20 @@ Server: mikrotik
 Country: Malawi
 
 Protocol: socks4
-Proxy: 70.80.75.236:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Canada
-
-Protocol: socks4
-Proxy: 94.231.165.94:60606
+Proxy: 95.31.35.210:3629
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
 Country: Russia
+
+Protocol: socks4a
+Proxy: 203.190.8.35:55634
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Bangladesh
 
 Protocol: socks4a
 Proxy: 27.254.67.114:39835
@@ -47,36 +39,12 @@ Server: None
 Country: Thailand
 
 Protocol: socks4
-Proxy: 50.92.154.24:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Canada
-
-Protocol: socks4a
-Proxy: 62.171.171.209:1424
+Proxy: 188.166.217.4:47553
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Germany
-
-Protocol: socks4
-Proxy: 60.217.64.237:35292
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: China
-
-Protocol: socks4a
-Proxy: 97.74.233.64:45780
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
+Country: Singapore
 
 Protocol: socks4
 Proxy: 103.182.240.75:1080
@@ -87,18 +55,34 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 103.105.78.158:1080
+Proxy: 190.205.99.186:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Venezuela
 
 Protocol: socks4
-Proxy: 171.250.216.142:1080
+Proxy: 46.98.184.203:5678
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Vietnam
+Anon: transparent
+Server: mikrotik
+Country: Ukraine
+
+Protocol: socks4
+Proxy: 79.7.101.98:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Italy
+
+Protocol: socks4
+Proxy: 105.214.96.240:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: South Africa
 
