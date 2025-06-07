@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: India
 
-Protocol: connect
-Proxy: 139.196.172.172:7799
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
