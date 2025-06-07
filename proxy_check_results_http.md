@@ -1,5 +1,5 @@
 Protocol: http
-Proxy: 103.155.199.104:8080
+Proxy: 202.154.18.176:8082
 Status: working
 IP: None
 Anon: transparent
@@ -15,10 +15,18 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 18.102.211.113:3128
+Proxy: 161.97.79.115:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Italy
+Country: Germany
+
+Protocol: http
+Proxy: 178.44.251.139:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
 
