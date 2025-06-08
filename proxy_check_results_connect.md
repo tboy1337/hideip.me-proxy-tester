@@ -15,12 +15,12 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 139.59.34.209:8080
+Proxy: 176.9.164.117:60007
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: India
+Country: United States
 
 Protocol: connect
 Proxy: 178.128.243.105:3128
@@ -29,12 +29,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: The Netherlands
-
-Protocol: connect
-Proxy: 113.118.53.155:7890
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Hong Kong
 
