@@ -23,26 +23,10 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 196.3.170.241:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: South Africa
-
-Protocol: connect
 Proxy: 139.59.34.209:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: India
-
-Protocol: connect
-Proxy: 178.128.243.105:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: The Netherlands
 
