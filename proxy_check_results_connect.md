@@ -15,10 +15,10 @@ Server: N/A
 Country: The Netherlands
 
 Protocol: connect
-Proxy: 74.81.46.242:60022
+Proxy: 113.118.53.155:7890
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: United States
+Country: Hong Kong
 
