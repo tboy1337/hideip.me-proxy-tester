@@ -1,18 +1,10 @@
 Protocol: http
-Proxy: 154.65.39.7:80
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Senegal
-
-Protocol: http
-Proxy: 119.252.173.26:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Indonesia
+Country: Russia
 
 Protocol: http
 Proxy: 91.241.217.58:9090
@@ -29,14 +21,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Ukraine
-
-Protocol: http
-Proxy: 218.75.224.4:3309
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: China
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -77,4 +61,20 @@ IP: None
 Anon: elite
 Server: None
 Country: Germany
+
+Protocol: http
+Proxy: 111.92.240.58:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: http
+Proxy: 149.154.67.34:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
 
