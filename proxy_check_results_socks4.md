@@ -1,18 +1,10 @@
 Protocol: socks4
-Proxy: 176.120.32.135:5678
+Proxy: 200.108.50.254:4145
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ukraine
-
-Protocol: socks4
-Proxy: 46.214.153.223:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Romania
+Country: Panama
 
 Protocol: socks4
 Proxy: 177.101.135.89:5678
@@ -23,7 +15,7 @@ Server: mikrotik
 Country: Brazil
 
 Protocol: socks4
-Proxy: 37.52.50.28:5678
+Proxy: 80.92.227.185:5678
 Status: working
 IP: None
 Anon: transparent
@@ -31,28 +23,28 @@ Server: mikrotik
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 91.228.245.196:60606
+Proxy: 14.232.166.150:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Slovakia
+Country: Vietnam
 
 Protocol: socks4
-Proxy: 94.232.145.158:5678
+Proxy: 80.65.80.230:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Poland
+Country: Bosnia and Herzegovina
 
 Protocol: socks4
-Proxy: 190.13.147.93:5678
+Proxy: 12.218.209.130:13326
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Chile
+Country: United States
 
 Protocol: socks4
 Proxy: 201.204.47.66:5678
@@ -71,28 +63,44 @@ Server: mikrotik
 Country: Brazil
 
 Protocol: socks4
-Proxy: 41.190.92.50:60606
+Proxy: 181.114.43.74:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Malawi
+Country: Argentina
 
 Protocol: socks4
-Proxy: 81.7.86.154:4145
+Proxy: 123.108.98.89:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Lithuania
+Country: Indonesia
 
 Protocol: socks4
-Proxy: 202.79.47.194:1080
+Proxy: 82.130.202.219:43429
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Nepal
+Country: Spain
+
+Protocol: socks4
+Proxy: 169.239.236.201:10801
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Nigeria
+
+Protocol: socks4
+Proxy: 202.144.134.150:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Bhutan
 
 Protocol: socks4
 Proxy: 93.117.72.27:55770
@@ -103,63 +111,23 @@ Server: mikrotik
 Country: Moldova
 
 Protocol: socks4
-Proxy: 27.254.67.114:19902
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Thailand
-
-Protocol: socks4
-Proxy: 46.8.48.143:1080
+Proxy: 203.112.223.126:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Russia
+Country: Bangladesh
 
 Protocol: socks4
-Proxy: 46.8.60.2:1080
+Proxy: 41.70.106.1:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Russia
-
-Protocol: socks4
-Proxy: 74.56.228.180:4145
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Canada
-
-Protocol: socks4
-Proxy: 202.79.35.143:4153
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Nepal
-
-Protocol: socks4
-Proxy: 45.236.152.21:4145
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Brazil
-
-Protocol: socks4
-Proxy: 27.254.67.114:39835
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Thailand
+Country: Malawi
 
 Protocol: socks4a
-Proxy: 178.32.202.54:45704
+Proxy: 178.32.202.54:10231
 Status: working
 IP: None
 Anon: elite
@@ -167,7 +135,47 @@ Server: None
 Country: France
 
 Protocol: socks4
-Proxy: 62.171.171.209:2374
+Proxy: 185.95.0.197:57032
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Türkiye
+
+Protocol: socks4a
+Proxy: 178.32.202.54:10635
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4a
+Proxy: 27.254.67.114:39835
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Thailand
+
+Protocol: socks4
+Proxy: 178.32.202.54:45704
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4a
+Proxy: 178.32.202.54:12550
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4
+Proxy: 207.154.230.54:32067
 Status: working
 IP: None
 Anon: elite
@@ -183,6 +191,14 @@ Server: mikrotik
 Country: Ukraine
 
 Protocol: socks4
+Proxy: 81.228.44.187:65530
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Sweden
+
+Protocol: socks4
 Proxy: 103.182.240.75:1080
 Status: working
 IP: None
@@ -190,7 +206,23 @@ Anon: transparent
 Server: mikrotik
 Country: Indonesia
 
-Protocol: socks4a
+Protocol: socks4
+Proxy: 24.76.21.10:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Canada
+
+Protocol: socks4
+Proxy: 202.46.84.226:65437
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: socks4
 Proxy: 145.239.5.238:16172
 Status: working
 IP: None
@@ -207,12 +239,20 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 202.166.211.14:48293
+Proxy: 202.79.35.12:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
 Country: Nepal
+
+Protocol: socks4
+Proxy: 204.157.168.74:1081
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Myanmar
 
 Protocol: socks4a
 Proxy: 149.28.32.205:25936
@@ -231,39 +271,31 @@ Server: mikrotik
 Country: China
 
 Protocol: socks4
-Proxy: 223.205.189.164:5678
+Proxy: 113.11.183.66:4145
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Thailand
-
-Protocol: socks4
-Proxy: 190.180.34.164:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Bolivia
-
-Protocol: socks4
-Proxy: 41.174.132.82:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: DR Congo
+Country: Indonesia
 
 Protocol: socks4a
-Proxy: 45.91.92.45:32977
+Proxy: 27.75.156.114:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Brazil
+Country: Vietnam
 
 Protocol: socks4a
-Proxy: 171.247.240.186:1080
+Proxy: 116.107.191.6:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 171.247.99.153:1080
 Status: working
 IP: None
 Anon: elite
@@ -277,4 +309,12 @@ IP: None
 Anon: elite
 Server: None
 Country: Germany
+
+Protocol: socks4
+Proxy: 46.10.71.235:4145
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Bulgaria
 
