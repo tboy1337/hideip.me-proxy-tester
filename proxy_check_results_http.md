@@ -7,6 +7,14 @@ Server: None
 Country: Senegal
 
 Protocol: http
+Proxy: 103.118.46.61:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
 Proxy: 119.252.173.26:8080
 Status: working
 IP: None
@@ -15,12 +23,12 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 79.110.202.184:8081
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: Russia
 
 Protocol: http
 Proxy: 91.241.217.58:9090
@@ -31,22 +39,6 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 154.0.14.116:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
-
-Protocol: http
-Proxy: 185.162.60.46:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Hungary
-
-Protocol: http
 Proxy: 185.191.236.162:3128
 Status: working
 IP: None
@@ -55,36 +47,36 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 91.241.241.60:9090
+Proxy: 103.134.220.145:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Ukraine
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
-Proxy: 190.223.60.131:8080
+Proxy: 165.90.64.216:8080
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Peru
+Server: mikrotik
+Country: Mozambique
 
 Protocol: http
-Proxy: 185.49.31.205:8080
+Proxy: 45.12.150.82:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: United States
 
 Protocol: http
-Proxy: 36.138.53.26:10019
+Proxy: 149.86.140.221:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: China
+Anon: transparent
+Server: mikrotik
+Country: Türkiye
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -95,6 +87,14 @@ Server: None
 Country: Zambia
 
 Protocol: http
+Proxy: 103.106.56.131:8082
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Bangladesh
+
+Protocol: http
 Proxy: 140.238.184.182:3128
 Status: working
 IP: None
@@ -103,28 +103,20 @@ Server: None
 Country: Brazil
 
 Protocol: http
+Proxy: 45.189.151.17:999
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Mexico
+
+Protocol: http
 Proxy: 185.77.3.74:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Azerbaijan
-
-Protocol: http
-Proxy: 151.243.213.130:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Iran
-
-Protocol: http
-Proxy: 66.228.47.125:110
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
 
 Protocol: http
 Proxy: 27.22.85.52:8100
@@ -143,20 +135,12 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 103.118.44.246:8080
+Proxy: 160.16.204.90:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Cambodia
-
-Protocol: http
-Proxy: 103.121.12.9:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Bangladesh
+Country: Japan
 
 Protocol: http
 Proxy: 37.60.230.27:8888
