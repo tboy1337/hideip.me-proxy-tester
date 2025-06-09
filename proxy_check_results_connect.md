@@ -6,3 +6,11 @@ Anon: N/A
 Server: N/A
 Country: Germany
 
+Protocol: connect
+Proxy: 70.36.101.234:60014
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
