@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 203.95.198.35:8080
+Proxy: 154.65.39.7:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Cambodia
+Country: Senegal
 
 Protocol: http
 Proxy: 119.252.173.26:8080
@@ -15,14 +15,6 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
 Proxy: 91.241.217.58:9090
 Status: working
 IP: None
@@ -31,28 +23,12 @@ Server: None
 Country: Ukraine
 
 Protocol: http
-Proxy: 83.168.74.163:8080
+Proxy: 218.75.224.4:3309
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 79.110.202.131:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 62.182.204.81:88
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
+Country: China
 
 Protocol: http
 Proxy: 185.191.236.162:3128
@@ -63,12 +39,12 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 8.210.117.141:8888
+Proxy: 103.247.13.238:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Hong Kong
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -95,14 +71,6 @@ Server: mikrotik
 Country: Mexico
 
 Protocol: http
-Proxy: 103.171.148.126:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 208.43.38.57:3128
 Status: working
 IP: None
@@ -111,28 +79,12 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 160.16.204.90:3128
+Proxy: 197.167.214.157:1981
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Japan
-
-Protocol: http
-Proxy: 103.118.44.246:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
-
-Protocol: http
-Proxy: 103.118.44.188:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 37.60.230.27:8888
@@ -151,10 +103,10 @@ Server: None
 Country: South Korea
 
 Protocol: http
-Proxy: 103.81.85.239:3128
+Proxy: 54.83.142.133:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
+Country: United States
 
