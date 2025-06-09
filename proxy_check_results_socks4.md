@@ -1,74 +1,98 @@
 Protocol: socks4
-Proxy: 41.169.151.154:4153
+Proxy: 197.251.236.227:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: South Africa
+Country: Ghana
 
 Protocol: socks4
-Proxy: 37.52.50.28:5678
+Proxy: 201.204.47.67:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ukraine
+Country: Costa Rica
 
 Protocol: socks4
-Proxy: 216.155.93.238:5678
+Proxy: 94.231.165.94:60606
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Chile
+Country: Russia
 
 Protocol: socks4
-Proxy: 80.65.80.230:5678
+Proxy: 103.154.2.37:1088
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bosnia and Herzegovina
+Country: India
 
 Protocol: socks4
-Proxy: 177.55.191.22:60606
+Proxy: 109.232.106.150:52435
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Brazil
+Country: Russia
 
 Protocol: socks4
-Proxy: 36.94.100.114:1080
+Proxy: 27.254.67.114:50729
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Thailand
+
+Protocol: socks4a
+Proxy: 27.254.67.114:37328
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Thailand
+
+Protocol: socks4a
+Proxy: 91.121.173.38:62630
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4a
+Proxy: 67.225.137.109:61891
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks4
-Proxy: 49.0.156.20:32000
+Proxy: 198.177.125.109:3949
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Mongolia
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks4
-Proxy: 103.81.194.123:4444
+Proxy: 103.115.116.14:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Bangladesh
 
 Protocol: socks4
-Proxy: 187.188.131.169:1080
+Proxy: 202.40.186.70:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Mexico
+Country: Bangladesh
 
 Protocol: socks4
 Proxy: 103.9.211.54:8888
