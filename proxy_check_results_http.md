@@ -47,6 +47,14 @@ Server: None
 Country: Bulgaria
 
 Protocol: http
+Proxy: 13.229.197.173:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
+
+Protocol: http
 Proxy: 182.253.217.220:8008
 Status: working
 IP: None
