@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: India
 
+Protocol: connect
+Proxy: 193.151.152.199:8079
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Germany
+
