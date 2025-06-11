@@ -23,12 +23,28 @@ Server: N/A
 Country: Canada
 
 Protocol: connect
+Proxy: 91.186.97.212:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
 Proxy: 18.61.43.209:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: India
+
+Protocol: connect
+Proxy: 54.36.105.26:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: France
 
 Protocol: connect
 Proxy: 14.224.165.146:6842
