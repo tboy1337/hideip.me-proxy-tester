@@ -22,3 +22,19 @@ Anon: elite
 Server: None
 Country: Zambia
 
+Protocol: http
+Proxy: 160.16.204.90:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Japan
+
+Protocol: http
+Proxy: 45.14.165.47:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Bulgaria
+
