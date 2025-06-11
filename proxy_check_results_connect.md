@@ -1,10 +1,10 @@
 Protocol: connect
-Proxy: 88.198.212.91:3128
+Proxy: 143.198.42.182:31280
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: Canada
 
 Protocol: connect
 Proxy: 103.184.123.41:8888
