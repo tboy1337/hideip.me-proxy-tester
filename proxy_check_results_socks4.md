@@ -1,53 +1,45 @@
 Protocol: socks4
-Proxy: 46.160.90.81:5678
+Proxy: 74.56.228.180:4145
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ukraine
+Country: Canada
 
 Protocol: socks4
-Proxy: 193.200.151.69:32777
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Ukraine
-
-Protocol: socks4a
-Proxy: 185.95.0.197:57032
+Proxy: 27.254.67.114:37328
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Türkiye
+Country: Thailand
+
+Protocol: socks4a
+Proxy: 54.36.176.100:52638
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
 
 Protocol: socks4
+Proxy: 202.40.177.186:1088
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Bangladesh
+
+Protocol: socks4a
+Proxy: 178.32.202.54:41611
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
+
+Protocol: socks4a
 Proxy: 178.32.202.54:5330
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks4a
-Proxy: 54.36.176.100:48169
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks4a
-Proxy: 91.121.173.38:54233
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks4a
-Proxy: 54.36.176.100:49864
 Status: working
 IP: None
 Anon: elite
@@ -63,15 +55,31 @@ Server: mikrotik
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 103.132.92.110:1080
+Proxy: 103.182.240.75:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bangladesh
+Country: Indonesia
 
 Protocol: socks4
-Proxy: 171.238.61.160:1080
+Proxy: 122.54.86.40:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Philippines
+
+Protocol: socks4
+Proxy: 103.81.194.120:8888
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: socks4a
+Proxy: 171.238.61.232:1080
 Status: working
 IP: None
 Anon: elite
@@ -79,7 +87,7 @@ Server: None
 Country: Vietnam
 
 Protocol: socks4a
-Proxy: 27.68.168.3:1080
+Proxy: 116.107.188.128:1080
 Status: working
 IP: None
 Anon: elite

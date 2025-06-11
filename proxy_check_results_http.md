@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 119.252.173.26:8080
+Proxy: 115.127.31.66:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Indonesia
+Country: Bangladesh
 
 Protocol: http
 Proxy: 185.191.236.162:3128
