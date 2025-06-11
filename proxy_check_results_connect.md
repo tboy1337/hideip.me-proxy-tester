@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: India
 
+Protocol: connect
+Proxy: 122.237.19.147:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: China
+
