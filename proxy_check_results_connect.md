@@ -31,10 +31,10 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 193.151.152.199:8079
+Proxy: 171.213.236.123:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Germany
+Country: China
 
