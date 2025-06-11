@@ -1,20 +1,4 @@
 Protocol: http
-Proxy: 103.39.49.156:3128
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.187.100.198:3129
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Bangladesh
-
-Protocol: http
 Proxy: 157.66.84.14:8080
 Status: working
 IP: None
@@ -47,14 +31,6 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 154.0.14.116:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
-
-Protocol: http
 Proxy: 203.95.199.159:8080
 Status: working
 IP: None
@@ -71,20 +47,20 @@ Server: None
 Country: Brazil
 
 Protocol: http
-Proxy: 216.250.11.178:3128
+Proxy: 45.12.150.82:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Turkmenistan
+Country: United States
 
 Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 198.59.68.130:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
+Country: United States
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -95,14 +71,6 @@ Server: None
 Country: Zambia
 
 Protocol: http
-Proxy: 43.252.107.102:7777
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 103.106.56.131:8082
 Status: working
 IP: None
@@ -111,12 +79,36 @@ Server: None
 Country: Bangladesh
 
 Protocol: http
-Proxy: 213.131.85.28:1976
+Proxy: 37.60.232.250:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: http
+Proxy: 107.150.50.210:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 66.228.47.125:110
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: http
+Proxy: 103.165.245.149:8082
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Egypt
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.121.12.9:8080
@@ -141,6 +133,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
+
+Protocol: http
+Proxy: 103.81.85.239:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
 
 Protocol: http
 Proxy: 182.233.119.10:8880
