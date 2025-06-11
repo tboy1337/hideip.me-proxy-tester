@@ -1,40 +1,32 @@
 Protocol: http
-Proxy: 216.250.11.178:3128
+Proxy: 54.38.181.125:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Turkmenistan
+Country: France
 
 Protocol: http
-Proxy: 182.233.119.10:8880
+Proxy: 185.191.236.162:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Taiwan
+Country: Switzerland
 
 Protocol: http
-Proxy: 1.175.158.185:8080
+Proxy: 103.120.146.11:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Taiwan
+Country: Indonesia
 
 Protocol: http
-Proxy: 1.0.252.174:3128
+Proxy: 103.118.44.162:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Thailand
-
-Protocol: http
-Proxy: 100.42.177.68:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
+Country: Cambodia
 

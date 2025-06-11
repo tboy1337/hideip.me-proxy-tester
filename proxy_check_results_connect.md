@@ -22,3 +22,19 @@ Anon: N/A
 Server: N/A
 Country: Canada
 
+Protocol: connect
+Proxy: 14.224.165.146:5031
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
+Protocol: connect
+Proxy: 18.61.43.209:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: India
+
