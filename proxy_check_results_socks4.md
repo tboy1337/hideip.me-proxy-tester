@@ -1,58 +1,18 @@
 Protocol: socks4
-Proxy: 46.160.90.81:5678
+Proxy: 91.228.245.196:60606
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Ukraine
+Country: Slovakia
 
 Protocol: socks4
-Proxy: 41.164.247.154:1088
+Proxy: 186.47.213.158:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: South Africa
-
-Protocol: socks4
-Proxy: 14.241.182.44:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 202.137.141.212:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Laos
-
-Protocol: socks4
-Proxy: 159.89.174.192:35059
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: India
-
-Protocol: socks4
-Proxy: 203.112.223.126:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Bangladesh
-
-Protocol: socks4
-Proxy: 203.205.34.58:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Vietnam
+Country: Ecuador
 
 Protocol: socks4a
 Proxy: 138.68.21.132:40467
@@ -61,6 +21,14 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
+
+Protocol: socks4a
+Proxy: 209.97.169.41:13108
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
 Protocol: socks4
 Proxy: 41.186.174.167:1088
@@ -71,15 +39,7 @@ Server: mikrotik
 Country: Rwanda
 
 Protocol: socks4
-Proxy: 103.80.210.116:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Mongolia
-
-Protocol: socks4
-Proxy: 103.109.193.204:48293
+Proxy: 103.182.240.75:1080
 Status: working
 IP: None
 Anon: transparent
@@ -95,14 +55,14 @@ Server: mikrotik
 Country: Nepal
 
 Protocol: socks4
-Proxy: 184.149.25.55:5678
+Proxy: 183.237.2.243:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Canada
+Country: China
 
-Protocol: socks4
+Protocol: socks4a
 Proxy: 171.253.49.63:1080
 Status: working
 IP: None
@@ -110,8 +70,8 @@ Anon: elite
 Server: None
 Country: Vietnam
 
-Protocol: socks4a
-Proxy: 116.100.223.189:1080
+Protocol: socks4
+Proxy: 171.238.61.160:1080
 Status: working
 IP: None
 Anon: elite
