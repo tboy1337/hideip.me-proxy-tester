@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: India
 
+Protocol: connect
+Proxy: 85.105.174.206:3310
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Türkiye
+
