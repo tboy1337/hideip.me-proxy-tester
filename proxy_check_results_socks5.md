@@ -1,10 +1,10 @@
 Protocol: socks5h
-Proxy: 163.53.204.178:9813
+Proxy: 132.148.82.125:45605
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: India
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks5h
 Proxy: 195.91.129.101:1337
@@ -31,6 +31,14 @@ Server: None
 Country: Chile
 
 Protocol: socks5
+Proxy: 185.93.89.143:4176
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
+
+Protocol: socks5
 Proxy: 185.93.89.143:7633
 Status: working
 IP: None
@@ -53,22 +61,6 @@ IP: None
 Anon: elite
 Server: None
 Country: United States
-
-Protocol: socks5
-Proxy: 185.93.89.146:6250
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks5
-Proxy: 185.93.89.143:36520
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Chile
 
 Protocol: socks5
 Proxy: 185.93.89.144:9260
@@ -135,14 +127,6 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 45.146.130.42:4610
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Chile
-
-Protocol: socks5
 Proxy: 185.93.89.143:4040
 Status: working
 IP: None
@@ -157,14 +141,6 @@ IP: None
 Anon: elite
 Server: None
 Country: South Korea
-
-Protocol: socks5
-Proxy: 185.93.89.146:25791
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Chile
 
 Protocol: socks5
 Proxy: 185.93.89.157:6246
@@ -215,22 +191,6 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.143:13923
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 185.93.89.170:30728
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
 Proxy: 185.93.89.183:19721
 Status: working
 IP: None
@@ -253,20 +213,4 @@ IP: None
 Anon: elite
 Server: None
 Country: United Kingdom
-
-Protocol: socks5
-Proxy: 185.93.89.182:10663
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Iran
-
-Protocol: socks5
-Proxy: 185.93.89.164:11716
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Iran
 
