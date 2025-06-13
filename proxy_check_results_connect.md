@@ -14,3 +14,11 @@ Anon: N/A
 Server: N/A
 Country: India
 
+Protocol: connect
+Proxy: 70.36.101.234:60024
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
