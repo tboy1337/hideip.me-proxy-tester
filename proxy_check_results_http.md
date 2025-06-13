@@ -79,14 +79,6 @@ Server: None
 Country: Japan
 
 Protocol: http
-Proxy: 102.132.38.28:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
-
-Protocol: http
 Proxy: 83.168.76.89:8081
 Status: working
 IP: None
@@ -96,6 +88,14 @@ Country: Poland
 
 Protocol: http
 Proxy: 203.95.196.61:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
+Proxy: 50.114.33.190:8080
 Status: working
 IP: None
 Anon: elite
