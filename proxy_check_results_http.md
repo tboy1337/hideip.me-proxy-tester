@@ -39,14 +39,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 154.0.14.116:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
-
-Protocol: http
 Proxy: 185.49.31.205:8080
 Status: working
 IP: None
@@ -71,14 +63,6 @@ Server: None
 Country: Brazil
 
 Protocol: http
-Proxy: 160.16.204.90:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Japan
-
-Protocol: http
 Proxy: 83.168.76.89:8081
 Status: working
 IP: None
@@ -87,15 +71,15 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.81.85.239:3128
+Proxy: 102.132.36.145:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
+Country: South Africa
 
 Protocol: http
-Proxy: 102.47.187.60:8080
+Proxy: 197.164.101.21:1981
 Status: working
 IP: None
 Anon: transparent
@@ -125,4 +109,12 @@ IP: None
 Anon: elite
 Server: None
 Country: Singapore
+
+Protocol: http
+Proxy: 5.3.75.220:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
 
