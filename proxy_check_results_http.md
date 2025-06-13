@@ -1,12 +1,4 @@
 Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
 Proxy: 41.223.119.156:3128
 Status: working
 IP: None
@@ -15,12 +7,12 @@ Server: None
 Country: Zambia
 
 Protocol: http
-Proxy: 140.238.184.182:3128
+Proxy: 107.150.50.210:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Brazil
+Country: United States
 
 Protocol: http
 Proxy: 160.16.204.90:3128
@@ -29,6 +21,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Japan
+
+Protocol: http
+Proxy: 207.154.207.148:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: http
 Proxy: 124.156.197.57:80
