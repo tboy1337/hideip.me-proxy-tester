@@ -14,3 +14,19 @@ Anon: N/A
 Server: N/A
 Country: India
 
+Protocol: connect
+Proxy: 37.27.63.151:38343
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Finland
+
+Protocol: connect
+Proxy: 38.54.27.211:80
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Bulgaria
+
