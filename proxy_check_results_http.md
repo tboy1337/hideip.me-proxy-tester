@@ -1,16 +1,24 @@
 Protocol: http
-Proxy: 79.110.202.131:8081
+Proxy: 47.79.16.186:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: United States
 
 Protocol: http
-Proxy: 154.0.14.116:3128
+Proxy: 41.223.119.156:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Africa
+Country: Zambia
+
+Protocol: http
+Proxy: 51.254.198.154:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
 
