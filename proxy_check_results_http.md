@@ -7,14 +7,6 @@ Server: None
 Country: France
 
 Protocol: http
-Proxy: 79.110.202.184:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
 Proxy: 31.10.83.158:8080
 Status: working
 IP: None
@@ -53,14 +45,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Brazil
-
-Protocol: http
-Proxy: 160.16.204.90:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Japan
 
 Protocol: http
 Proxy: 103.121.12.9:8080
