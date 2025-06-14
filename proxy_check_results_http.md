@@ -1,18 +1,18 @@
 Protocol: http
-Proxy: 103.39.49.156:3128
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 79.110.202.131:8081
+Proxy: 79.110.200.27:8000
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Poland
+
+Protocol: http
+Proxy: 190.8.34.212:999
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Dominican Republic
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -29,12 +29,4 @@ IP: None
 Anon: elite
 Server: None
 Country: Brazil
-
-Protocol: http
-Proxy: 160.16.204.90:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Japan
 
