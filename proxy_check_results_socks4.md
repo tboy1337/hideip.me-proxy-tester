@@ -1,3 +1,11 @@
+Protocol: socks4
+Proxy: 213.25.70.1:3629
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Poland
+
 Protocol: socks4a
 Proxy: 5.181.165.23:8008
 Status: working
@@ -13,12 +21,4 @@ IP: None
 Anon: transparent
 Server: mikrotik
 Country: Timor-Leste
-
-Protocol: socks4a
-Proxy: 5.181.165.23:49639
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
 
