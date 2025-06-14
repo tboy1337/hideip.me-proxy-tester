@@ -15,14 +15,6 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 131.148.8.130:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
 Proxy: 198.59.68.130:3128
 Status: working
 IP: None
@@ -31,10 +23,10 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 41.223.119.156:3128
+Proxy: 140.238.184.182:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Zambia
+Country: Brazil
 
