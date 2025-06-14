@@ -14,3 +14,11 @@ Anon: N/A
 Server: N/A
 Country: India
 
+Protocol: connect
+Proxy: 182.191.94.188:80
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
