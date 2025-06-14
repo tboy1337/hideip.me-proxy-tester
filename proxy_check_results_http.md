@@ -103,6 +103,14 @@ Server: None
 Country: Azerbaijan
 
 Protocol: http
+Proxy: 197.164.101.13:1976
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
 Proxy: 160.16.204.90:3128
 Status: working
 IP: None
@@ -127,18 +135,10 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 103.156.113.156:1111
+Proxy: 85.206.93.105:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 5.79.220.97:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
+Country: United Kingdom
 
