@@ -1,24 +1,16 @@
 Protocol: http
-Proxy: 131.148.8.130:3128
+Proxy: 79.110.202.131:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Poland
 
 Protocol: http
-Proxy: 41.223.119.156:3128
+Proxy: 154.0.14.116:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Zambia
-
-Protocol: http
-Proxy: 197.164.101.13:1976
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
+Country: South Africa
 
