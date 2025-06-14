@@ -1,18 +1,10 @@
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 54.38.181.125:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 79.110.200.148:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
+Country: France
 
 Protocol: http
 Proxy: 79.110.202.131:8081
@@ -61,14 +53,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Brazil
-
-Protocol: http
-Proxy: 66.228.47.125:110
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
 
 Protocol: http
 Proxy: 160.16.204.90:3128
