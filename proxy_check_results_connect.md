@@ -15,15 +15,15 @@ Server: N/A
 Country: India
 
 Protocol: connect
-Proxy: 37.27.63.151:38343
+Proxy: 171.211.10.252:8118
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Finland
+Country: China
 
 Protocol: connect
-Proxy: 37.27.63.151:39669
+Proxy: 37.27.63.151:11362
 Status: working
 IP: N/A
 Anon: N/A
