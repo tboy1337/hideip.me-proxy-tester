@@ -1,8 +1,8 @@
-Protocol: socks4a
-Proxy: 145.239.5.238:16172
+Protocol: socks4
+Proxy: 103.115.116.14:1080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: United Kingdom
+Anon: transparent
+Server: mikrotik
+Country: Bangladesh
 
