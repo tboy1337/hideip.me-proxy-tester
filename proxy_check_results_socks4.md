@@ -1,8 +1,8 @@
 Protocol: socks4
-Proxy: 103.162.184.251:1088
+Proxy: 85.237.62.189:3629
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bangladesh
+Country: Russia
 

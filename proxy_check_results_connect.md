@@ -15,7 +15,7 @@ Server: N/A
 Country: India
 
 Protocol: connect
-Proxy: 37.27.63.151:38343
+Proxy: 37.27.63.151:40258
 Status: working
 IP: N/A
 Anon: N/A
