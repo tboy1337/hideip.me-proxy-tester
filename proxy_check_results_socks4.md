@@ -1,12 +1,4 @@
 Protocol: socks4
-Proxy: 81.7.86.154:4145
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Lithuania
-
-Protocol: socks4
 Proxy: 197.232.43.224:1080
 Status: working
 IP: None
