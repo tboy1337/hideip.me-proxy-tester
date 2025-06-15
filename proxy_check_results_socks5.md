@@ -15,14 +15,6 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks5
-Proxy: 185.93.89.145:4360
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
-
-Protocol: socks5
 Proxy: 185.93.89.143:5375
 Status: working
 IP: None
@@ -85,12 +77,4 @@ IP: None
 Anon: elite
 Server: None
 Country: Chile
-
-Protocol: socks5
-Proxy: 185.93.89.168:7474
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
 
