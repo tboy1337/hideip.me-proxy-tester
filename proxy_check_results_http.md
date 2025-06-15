@@ -7,18 +7,26 @@ Server: None
 Country: Brazil
 
 Protocol: http
-Proxy: 85.206.93.105:8080
+Proxy: 197.164.101.13:1976
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 202.58.77.9:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: United Kingdom
+Country: Indonesia
 
 Protocol: http
-Proxy: 154.26.134.220:3128
+Proxy: 103.188.169.219:1080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Singapore
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
