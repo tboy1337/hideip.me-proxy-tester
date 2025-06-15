@@ -15,15 +15,7 @@ Server: N/A
 Country: India
 
 Protocol: connect
-Proxy: 171.211.10.252:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: China
-
-Protocol: connect
-Proxy: 37.27.63.151:11362
+Proxy: 37.27.63.151:54189
 Status: working
 IP: N/A
 Anon: N/A
