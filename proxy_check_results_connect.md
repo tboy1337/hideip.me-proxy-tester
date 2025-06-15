@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: India
 
+Protocol: connect
+Proxy: 43.130.146.142:10811
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Romania
+
