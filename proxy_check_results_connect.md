@@ -1,4 +1,12 @@
 Protocol: connect
+Proxy: 217.26.67.57:3180
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Serbia
+
+Protocol: connect
 Proxy: 88.198.212.91:3128
 Status: working
 IP: N/A
@@ -7,18 +15,18 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
+Proxy: 5.78.124.240:40000
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
+Protocol: connect
 Proxy: 18.61.43.209:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: India
-
-Protocol: connect
-Proxy: 213.230.127.66:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Uzbekistan
 
