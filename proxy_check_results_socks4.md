@@ -1,8 +1,8 @@
-Protocol: socks4
-Proxy: 223.205.186.163:1080
+Protocol: socks4a
+Proxy: 145.239.5.238:16172
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Thailand
+Anon: elite
+Server: None
+Country: United Kingdom
 
