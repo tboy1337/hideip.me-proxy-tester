@@ -1,8 +1,16 @@
 Protocol: socks4
-Proxy: 113.11.183.66:4145
+Proxy: 14.232.166.150:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 27.75.145.186:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Vietnam
 
