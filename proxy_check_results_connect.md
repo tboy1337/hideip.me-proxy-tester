@@ -15,10 +15,10 @@ Server: N/A
 Country: India
 
 Protocol: connect
-Proxy: 171.211.10.252:8118
+Proxy: 213.230.127.66:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Uzbekistan
 
