@@ -14,11 +14,3 @@ Anon: N/A
 Server: N/A
 Country: India
 
-Protocol: connect
-Proxy: 47.79.19.26:8118
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
