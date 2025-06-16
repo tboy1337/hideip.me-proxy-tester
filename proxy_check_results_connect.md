@@ -14,3 +14,11 @@ Anon: N/A
 Server: N/A
 Country: India
 
+Protocol: connect
+Proxy: 136.52.10.221:8888
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: United States
+
