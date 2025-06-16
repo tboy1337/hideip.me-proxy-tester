@@ -1,21 +1,13 @@
 Protocol: socks4
-Proxy: 103.109.193.204:48293
+Proxy: 27.254.67.114:50729
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Thailand
 
 Protocol: socks4
-Proxy: 180.94.28.114:6969
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Bangladesh
-
-Protocol: socks4
-Proxy: 171.248.214.139:1080
+Proxy: 171.247.241.70:1080
 Status: working
 IP: None
 Anon: elite
