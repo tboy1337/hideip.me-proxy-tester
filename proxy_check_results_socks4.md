@@ -1,16 +1,16 @@
 Protocol: socks4
-Proxy: 203.210.235.91:5678
+Proxy: 190.14.224.244:3629
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
 Server: mikrotik
-Country: Vietnam
+Country: Colombia
 
 Protocol: socks4
-Proxy: 27.254.67.114:50729
+Proxy: 145.239.5.238:16624
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Thailand
+Country: United Kingdom
 
