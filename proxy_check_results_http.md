@@ -1,24 +1,24 @@
 Protocol: http
-Proxy: 185.77.3.74:8080
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Azerbaijan
+Country: Russia
 
 Protocol: http
-Proxy: 203.95.196.76:8080
+Proxy: 103.151.226.61:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Cambodia
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
-Proxy: 203.95.196.39:8080
+Proxy: 140.238.184.182:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Cambodia
+Country: Brazil
 
