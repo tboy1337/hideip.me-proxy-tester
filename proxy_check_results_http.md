@@ -7,12 +7,12 @@ Server: None
 Country: Bangladesh
 
 Protocol: http
-Proxy: 79.110.201.235:8081
+Proxy: 103.118.46.176:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: Cambodia
 
 Protocol: http
 Proxy: 185.49.31.207:8081
@@ -111,14 +111,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 154.0.14.116:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
-
-Protocol: http
 Proxy: 212.108.135.215:9090
 Status: working
 IP: None
@@ -127,12 +119,20 @@ Server: None
 Country: Cyprus
 
 Protocol: http
-Proxy: 103.39.51.156:8089
+Proxy: 103.249.19.190:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
 Country: Indonesia
+
+Protocol: http
+Proxy: 185.191.236.162:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Switzerland
 
 Protocol: http
 Proxy: 190.223.60.131:8080
@@ -175,20 +175,12 @@ Server: None
 Country: Brazil
 
 Protocol: http
-Proxy: 103.216.141.63:8080
+Proxy: 134.209.239.42:8080
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: India
-
-Protocol: http
-Proxy: 160.16.204.90:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Japan
+Server: mikrotik
+Country: Germany
 
 Protocol: http
 Proxy: 103.121.12.9:8080
@@ -215,28 +207,28 @@ Server: None
 Country: South Africa
 
 Protocol: http
-Proxy: 100.42.177.68:3128
+Proxy: 202.58.77.9:8080
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Germany
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
-Proxy: 34.72.21.57:3128
+Proxy: 49.151.68.6:8082
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: United States
+Server: mikrotik
+Country: Philippines
 
 Protocol: http
-Proxy: 111.201.213.254:8888
+Proxy: 197.164.101.21:1981
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: China
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 85.206.93.105:8080
@@ -245,6 +237,14 @@ IP: None
 Anon: elite
 Server: mikrotik
 Country: United Kingdom
+
+Protocol: http
+Proxy: 78.82.113.237:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Sweden
 
 Protocol: http
 Proxy: 185.5.155.104:8080
