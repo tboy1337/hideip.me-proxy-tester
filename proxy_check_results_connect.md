@@ -15,12 +15,12 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 103.184.123.41:8888
+Proxy: 147.135.222.208:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: France
 
 Protocol: connect
 Proxy: 18.61.43.209:3128
