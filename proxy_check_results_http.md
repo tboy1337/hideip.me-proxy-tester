@@ -7,12 +7,12 @@ Server: None
 Country: Zambia
 
 Protocol: http
-Proxy: 85.206.93.105:8080
+Proxy: 103.171.255.243:8080
 Status: working
 IP: None
-Anon: elite
+Anon: transparent
 Server: mikrotik
-Country: United Kingdom
+Country: Indonesia
 
 Protocol: http
 Proxy: 185.5.155.104:8080
