@@ -7,14 +7,6 @@ Server: None
 Country: Russia
 
 Protocol: socks5
-Proxy: 185.93.89.149:14888
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Malaysia
-
-Protocol: socks5
 Proxy: 185.93.89.144:4006
 Status: working
 IP: None
@@ -63,12 +55,12 @@ Server: None
 Country: Russia
 
 Protocol: socks5
-Proxy: 185.93.89.187:8111
+Proxy: 185.93.89.172:5145
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
+Country: The Netherlands
 
 Protocol: socks5h
 Proxy: 8.215.47.191:10080

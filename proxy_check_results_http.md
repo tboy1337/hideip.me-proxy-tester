@@ -23,14 +23,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 134.249.136.106:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Ukraine
-
-Protocol: http
 Proxy: 103.154.226.154:7788
 Status: working
 IP: None
@@ -53,14 +45,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Brazil
-
-Protocol: http
-Proxy: 103.216.141.63:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: India
 
 Protocol: http
 Proxy: 78.82.113.237:8080
