@@ -1,18 +1,10 @@
 Protocol: http
-Proxy: 79.110.201.235:8081
+Proxy: 54.38.181.125:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 79.110.202.184:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Poland
+Country: France
 
 Protocol: http
 Proxy: 79.110.200.148:8081
@@ -39,6 +31,14 @@ Server: None
 Country: Taiwan
 
 Protocol: http
+Proxy: 83.168.72.172:8081
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
+
+Protocol: http
 Proxy: 95.66.138.21:8880
 Status: working
 IP: None
@@ -63,12 +63,28 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 187.19.128.76:8090
+Proxy: 185.162.60.46:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Brazil
+Country: Hungary
+
+Protocol: http
+Proxy: 103.39.51.156:8089
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 185.191.236.162:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Switzerland
 
 Protocol: http
 Proxy: 45.12.150.82:8080
@@ -79,20 +95,20 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 103.216.141.63:8080
+Proxy: 156.155.48.107:3128
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: India
+Anon: transparent
+Server: mikrotik
+Country: South Africa
 
 Protocol: http
-Proxy: 103.121.12.9:8080
+Proxy: 140.238.184.182:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Bangladesh
+Country: Brazil
 
 Protocol: http
 Proxy: 51.222.204.132:80
@@ -111,20 +127,12 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 176.226.157.161:8081
+Proxy: 198.23.193.144:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 5.79.248.104:8081
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
+Country: United States
 
 Protocol: http
 Proxy: 212.32.235.131:80
@@ -135,10 +143,10 @@ Server: None
 Country: The Netherlands
 
 Protocol: http
-Proxy: 172.104.202.91:80
+Proxy: 118.163.60.153:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Germany
+Country: Taiwan
 
