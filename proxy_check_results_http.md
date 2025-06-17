@@ -1,4 +1,12 @@
 Protocol: http
+Proxy: 38.183.146.77:8090
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
 Proxy: 83.168.72.172:8081
 Status: working
 IP: None
@@ -23,12 +31,12 @@ Server: None
 Country: France
 
 Protocol: http
-Proxy: 103.76.91.65:8080
+Proxy: 103.216.141.63:8080
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: India
 
 Protocol: http
 Proxy: 185.5.155.104:8080
