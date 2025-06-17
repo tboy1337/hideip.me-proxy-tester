@@ -1,16 +1,24 @@
 Protocol: socks4
-Proxy: 41.190.92.50:60606
+Proxy: 80.92.227.185:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Malawi
+Country: Ukraine
 
 Protocol: socks4
-Proxy: 202.79.35.143:4153
+Proxy: 203.205.34.58:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Nepal
+Country: Vietnam
+
+Protocol: socks4
+Proxy: 178.115.236.219:5678
+Status: working
+IP: None
+Anon: transparent
+Server: None
+Country: Austria
 
