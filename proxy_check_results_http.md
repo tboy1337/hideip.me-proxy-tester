@@ -1,10 +1,18 @@
 Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 83.168.72.172:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
+Country: Poland
+
+Protocol: http
+Proxy: 154.0.14.116:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Africa
 
 Protocol: http
 Proxy: 185.49.31.205:8080
@@ -15,7 +23,15 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 213.131.85.26:1976
+Proxy: 160.16.204.90:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Japan
+
+Protocol: http
+Proxy: 197.164.101.21:1981
 Status: working
 IP: None
 Anon: transparent
