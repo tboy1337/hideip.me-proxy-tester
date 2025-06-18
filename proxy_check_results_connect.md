@@ -1,13 +1,13 @@
 Protocol: connect
-Proxy: 119.252.173.26:8080
+Proxy: 88.198.212.91:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Germany
 
 Protocol: connect
-Proxy: 5.78.124.240:40000
+Proxy: 47.79.121.83:1080
 Status: working
 IP: N/A
 Anon: N/A
