@@ -15,12 +15,12 @@ Server: N/A
 Country: United States
 
 Protocol: connect
-Proxy: 103.184.123.41:8888
+Proxy: 14.224.174.168:2535
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Indonesia
+Country: Vietnam
 
 Protocol: connect
 Proxy: 18.61.43.209:3128
@@ -37,4 +37,12 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Australia
+
+Protocol: connect
+Proxy: 91.219.63.72:4442
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
 
