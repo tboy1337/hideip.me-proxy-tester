@@ -15,14 +15,6 @@ Server: N/A
 Country: India
 
 Protocol: connect
-Proxy: 14.224.174.168:2057
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
-Protocol: connect
 Proxy: 82.115.20.251:3128
 Status: working
 IP: N/A
