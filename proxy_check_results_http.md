@@ -7,12 +7,12 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 45.12.150.82:8080
+Proxy: 190.223.60.131:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Peru
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -23,18 +23,18 @@ Server: None
 Country: Zambia
 
 Protocol: http
-Proxy: 103.169.41.236:8080
+Proxy: 154.118.231.30:80
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Tanzania
 
 Protocol: http
-Proxy: 103.165.157.247:8088
+Proxy: 185.112.115.57:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Indonesia
+Country: Sweden
 
