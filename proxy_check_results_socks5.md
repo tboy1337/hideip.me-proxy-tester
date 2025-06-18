@@ -1,4 +1,12 @@
 Protocol: socks5h
+Proxy: 213.250.198.146:7777
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Czechia
+
+Protocol: socks5h
 Proxy: 188.191.164.55:4890
 Status: working
 IP: None
@@ -7,23 +15,15 @@ Server: mikrotik
 Country: Russia
 
 Protocol: socks5h
-Proxy: 83.69.109.106:1080
+Proxy: 145.239.5.238:32554
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Russia
+Country: United Kingdom
 
 Protocol: socks5
-Proxy: 185.93.89.145:4552
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
-
-Protocol: socks5
-Proxy: 185.93.89.146:8258
+Proxy: 185.93.89.146:4727
 Status: working
 IP: None
 Anon: elite
@@ -31,44 +31,28 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.145:12787
+Proxy: 185.93.89.143:4039
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Bangladesh
+Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.146:4278
+Proxy: 185.93.89.146:32902
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Bangladesh
+Country: The Netherlands
 
 Protocol: socks5
-Proxy: 185.93.89.182:11234
+Proxy: 185.93.89.143:24549
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
-
-Protocol: socks5
-Proxy: 185.93.89.143:6231
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks5
-Proxy: 185.93.89.145:40013
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
+Country: South Africa
 
 Protocol: socks5h
 Proxy: 45.12.150.82:1080
@@ -87,12 +71,20 @@ Server: None
 Country: Russia
 
 Protocol: socks5
-Proxy: 185.93.89.143:4413
+Proxy: 185.93.89.143:4222
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: India
+Country: United States
+
+Protocol: socks5
+Proxy: 185.93.89.145:4015
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Spain
 
 Protocol: socks5
 Proxy: 185.93.89.145:4042
@@ -103,22 +95,6 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.145:4822
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
-
-Protocol: socks5
-Proxy: 185.93.89.145:4227
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
-
-Protocol: socks5
 Proxy: 185.93.89.145:4645
 Status: working
 IP: None
@@ -127,71 +103,7 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.145:4599
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5
-Proxy: 185.93.89.146:32954
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Canada
-
-Protocol: socks5
-Proxy: 185.93.89.145:4152
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks5h
-Proxy: 121.169.46.116:1090
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Korea
-
-Protocol: socks5
-Proxy: 185.93.89.145:4635
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5
-Proxy: 185.93.89.145:4080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Australia
-
-Protocol: socks5h
-Proxy: 85.172.1.30:1080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: socks5
-Proxy: 185.93.89.144:10840
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: India
-
-Protocol: socks5
-Proxy: 185.93.89.144:4846
+Proxy: 185.93.89.146:41233
 Status: working
 IP: None
 Anon: elite
@@ -199,31 +111,15 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 45.146.130.16:19063
+Proxy: 185.93.89.145:6030
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: United States
 
-Protocol: socks5h
-Proxy: 68.183.186.140:1080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
-
 Protocol: socks5
-Proxy: 185.93.89.145:4076
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Australia
-
-Protocol: socks5
-Proxy: 185.93.89.144:4889
+Proxy: 185.93.89.145:4835
 Status: working
 IP: None
 Anon: elite
@@ -239,7 +135,15 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.145:4439
+Proxy: 185.93.89.144:4408
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5
+Proxy: 185.93.89.144:4314
 Status: working
 IP: None
 Anon: elite
@@ -247,7 +151,7 @@ Server: None
 Country: France
 
 Protocol: socks5
-Proxy: 185.93.89.158:4087
+Proxy: 185.93.89.145:4833
 Status: working
 IP: None
 Anon: elite
@@ -255,20 +159,12 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.144:4230
+Proxy: 185.93.89.144:4794
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 185.93.89.145:4601
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
+Country: Germany
 
 Protocol: socks5
 Proxy: 185.93.89.144:8080
@@ -279,20 +175,12 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.144:4939
+Proxy: 185.93.89.146:4601
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Singapore
-
-Protocol: socks5
-Proxy: 185.93.89.144:5026
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Finland
+Country: France
 
 Protocol: socks5
 Proxy: 185.93.89.143:4020
@@ -303,15 +191,7 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.145:4098
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
-
-Protocol: socks5
-Proxy: 185.93.89.144:4153
+Proxy: 185.93.89.144:4702
 Status: working
 IP: None
 Anon: elite
@@ -327,63 +207,7 @@ Server: None
 Country: Singapore
 
 Protocol: socks5
-Proxy: 185.93.89.144:4604
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5
-Proxy: 185.93.89.145:4643
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 185.93.89.144:4041
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Hong Kong
-
-Protocol: socks5
-Proxy: 185.93.89.145:4120
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Japan
-
-Protocol: socks5
-Proxy: 185.93.89.159:4601
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
-
-Protocol: socks5
-Proxy: 185.93.89.159:4174
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
-
-Protocol: socks5
-Proxy: 185.93.89.144:4898
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 185.93.89.145:15604
+Proxy: 185.93.89.144:5221
 Status: working
 IP: None
 Anon: elite
@@ -399,23 +223,7 @@ Server: None
 Country: France
 
 Protocol: socks5
-Proxy: 185.93.89.144:5791
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
-
-Protocol: socks5
-Proxy: 185.93.89.144:4565
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
-
-Protocol: socks5
-Proxy: 185.93.89.144:4301
+Proxy: 185.93.89.144:4843
 Status: working
 IP: None
 Anon: elite
@@ -423,15 +231,15 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.181:38228
+Proxy: 185.93.89.152:4385
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
+Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.145:4465
+Proxy: 185.93.89.152:4953
 Status: working
 IP: None
 Anon: elite
@@ -447,7 +255,7 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.144:4996
+Proxy: 185.93.89.144:4590
 Status: working
 IP: None
 Anon: elite
@@ -455,34 +263,50 @@ Server: None
 Country: United States
 
 Protocol: socks5
-Proxy: 185.93.89.144:4327
+Proxy: 185.93.89.158:4626
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Singapore
+Country: Chile
 
 Protocol: socks5
-Proxy: 185.93.89.144:4412
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Lithuania
-
-Protocol: socks5
-Proxy: 45.146.130.22:5026
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: socks5
-Proxy: 45.146.130.49:30485
+Proxy: 185.93.89.159:4879
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: France
+
+Protocol: socks5
+Proxy: 185.93.89.144:4539
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5
+Proxy: 185.93.89.159:4739
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: socks5
+Proxy: 45.146.130.16:38939
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks5
+Proxy: 185.93.89.145:34370
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
