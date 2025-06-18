@@ -30,3 +30,11 @@ Anon: N/A
 Server: N/A
 Country: Australia
 
+Protocol: connect
+Proxy: 91.219.63.72:4442
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
