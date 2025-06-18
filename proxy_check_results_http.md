@@ -151,20 +151,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 216.250.11.178:3128
+Proxy: 154.0.14.116:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Turkmenistan
-
-Protocol: http
-Proxy: 185.191.236.162:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Switzerland
+Country: South Africa
 
 Protocol: http
 Proxy: 91.241.241.60:9090
@@ -191,36 +183,28 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 41.223.119.156:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Zambia
+
+Protocol: http
+Proxy: 59.47.238.4:8088
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: China
+
+Protocol: http
 Proxy: 103.106.56.131:8082
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Bangladesh
-
-Protocol: http
-Proxy: 140.238.184.182:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Brazil
-
-Protocol: http
-Proxy: 162.0.208.27:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 181.39.12.230:999
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Ecuador
 
 Protocol: http
 Proxy: 103.121.12.9:8080
@@ -247,20 +231,28 @@ Server: None
 Country: South Africa
 
 Protocol: http
+Proxy: 114.250.17.28:9000
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: China
+
+Protocol: http
+Proxy: 85.206.93.105:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: United Kingdom
+
+Protocol: http
 Proxy: 203.95.196.7:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Cambodia
-
-Protocol: http
-Proxy: 213.131.85.26:1976
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
 
 Protocol: http
 Proxy: 23.94.209.195:3128
@@ -271,28 +263,12 @@ Server: None
 Country: United States
 
 Protocol: http
-Proxy: 65.20.251.45:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Iraq
-
-Protocol: http
 Proxy: 154.118.231.30:80
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Tanzania
-
-Protocol: http
-Proxy: 46.218.28.255:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
 
 Protocol: http
 Proxy: 196.251.131.92:8080
