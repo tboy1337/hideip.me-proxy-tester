@@ -1,5 +1,5 @@
 Protocol: http
-Proxy: 79.110.202.131:8081
+Proxy: 79.110.200.148:8081
 Status: working
 IP: None
 Anon: elite
@@ -7,12 +7,36 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 220.116.142.217:80
+Proxy: 83.168.72.172:8081
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: South Korea
+Country: Poland
+
+Protocol: http
+Proxy: 95.66.138.21:8880
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 62.182.204.81:88
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
+Proxy: 185.49.31.205:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Poland
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -21,20 +45,4 @@ IP: None
 Anon: elite
 Server: None
 Country: Zambia
-
-Protocol: http
-Proxy: 172.104.202.91:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
-
-Protocol: http
-Proxy: 65.21.34.102:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Finland
 
