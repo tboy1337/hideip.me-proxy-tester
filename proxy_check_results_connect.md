@@ -22,3 +22,19 @@ Anon: N/A
 Server: N/A
 Country: Australia
 
+Protocol: connect
+Proxy: 134.209.85.179:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: The Netherlands
+
+Protocol: connect
+Proxy: 78.47.147.156:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Germany
+
