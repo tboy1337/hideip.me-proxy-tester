@@ -39,10 +39,10 @@ Server: N/A
 Country: Australia
 
 Protocol: connect
-Proxy: 171.211.10.40:8118
+Proxy: 109.206.236.139:1081
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: China
+Country: Bulgaria
 
