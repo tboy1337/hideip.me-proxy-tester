@@ -15,6 +15,14 @@ Server: None
 Country: Zambia
 
 Protocol: http
+Proxy: 102.132.36.145:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: South Africa
+
+Protocol: http
 Proxy: 100.42.177.68:3128
 Status: working
 IP: None
