@@ -1,4 +1,12 @@
 Protocol: http
+Proxy: 103.118.46.174:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Cambodia
+
+Protocol: http
 Proxy: 103.49.114.195:8080
 Status: working
 IP: None
@@ -55,6 +63,14 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 95.66.244.250:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
 Proxy: 62.182.204.81:88
 Status: working
 IP: None
@@ -87,22 +103,6 @@ Server: None
 Country: South Africa
 
 Protocol: http
-Proxy: 103.216.50.206:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Cambodia
-
-Protocol: http
-Proxy: 61.79.72.201:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Korea
-
-Protocol: http
 Proxy: 45.12.150.82:8080
 Status: working
 IP: None
@@ -117,6 +117,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
+
+Protocol: http
+Proxy: 103.81.194.120:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -135,14 +143,6 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.188.169.160:7777
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 83.168.76.89:8081
 Status: working
 IP: None
@@ -151,28 +151,12 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 182.253.217.220:8008
+Proxy: 103.81.220.51:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
 Country: Indonesia
-
-Protocol: http
-Proxy: 197.164.101.21:1981
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
-
-Protocol: http
-Proxy: 124.13.102.119:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Malaysia
 
 Protocol: http
 Proxy: 173.249.39.200:3128
@@ -189,14 +173,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Cambodia
-
-Protocol: http
-Proxy: 185.228.137.178:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Germany
 
 Protocol: http
 Proxy: 154.118.231.30:80
