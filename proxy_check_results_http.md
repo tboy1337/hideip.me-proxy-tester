@@ -7,20 +7,12 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 160.16.204.90:3128
+Proxy: 41.59.200.27:3030
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Japan
-
-Protocol: http
-Proxy: 79.118.177.11:8080
-Status: working
-IP: None
-Anon: transparent
 Server: mikrotik
-Country: Romania
+Country: Tanzania
 
 Protocol: http
 Proxy: 185.23.124.226:8080
