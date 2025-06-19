@@ -22,3 +22,11 @@ Anon: N/A
 Server: N/A
 Country: Australia
 
+Protocol: connect
+Proxy: 103.161.34.214:4444
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Hong Kong
+
