@@ -1,5 +1,21 @@
 Protocol: socks4
-Proxy: 202.40.179.18:4145
+Proxy: 213.197.136.218:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Lithuania
+
+Protocol: socks4
+Proxy: 159.89.174.192:35059
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: India
+
+Protocol: socks4
+Proxy: 203.190.8.59:1088
 Status: working
 IP: None
 Anon: transparent
@@ -7,82 +23,50 @@ Server: mikrotik
 Country: Bangladesh
 
 Protocol: socks4
-Proxy: 37.52.50.28:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Ukraine
-
-Protocol: socks4
-Proxy: 82.137.250.156:4145
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Syria
-
-Protocol: socks4
-Proxy: 103.152.92.134:21080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: socks4
-Proxy: 27.254.67.114:37328
+Proxy: 209.97.169.41:13108
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Thailand
+Country: Singapore
 
 Protocol: socks4
-Proxy: 176.214.78.230:5678
+Proxy: 202.79.35.143:4153
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Russia
+Country: Nepal
 
 Protocol: socks4
-Proxy: 103.182.240.75:1080
+Proxy: 103.80.210.116:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Mongolia
 
 Protocol: socks4
-Proxy: 122.54.86.40:5678
+Proxy: 5.172.188.97:48293
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Philippines
+Country: Poland
 
 Protocol: socks4
-Proxy: 171.248.222.220:1080
+Proxy: 115.127.188.214:1080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Bangladesh
+
+Protocol: socks4
+Proxy: 115.74.159.108:1080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Vietnam
-
-Protocol: socks4
-Proxy: 171.248.216.33:1080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 103.151.122.148:9015
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
 
