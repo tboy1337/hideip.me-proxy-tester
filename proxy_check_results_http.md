@@ -1,56 +1,32 @@
 Protocol: http
-Proxy: 62.33.53.248:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Russia
-
-Protocol: http
-Proxy: 203.111.253.146:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.247.13.131:8080
+Proxy: 134.249.185.223:41890
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
+Country: Ukraine
+
+Protocol: http
+Proxy: 103.179.252.75:8181
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
 Country: Indonesia
 
 Protocol: http
-Proxy: 185.191.236.162:3128
+Proxy: 61.79.72.201:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Switzerland
-
-Protocol: http
-Proxy: 190.223.60.131:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Peru
+Country: South Korea
 
 Protocol: http
 Proxy: 149.86.146.232:8080
 Status: working
 IP: None
 Anon: transparent
-Server: mikrotik
-Country: Türkiye
-
-Protocol: http
-Proxy: 38.156.73.36:8085
-Status: working
-IP: None
-Anon: elite
 Server: mikrotik
 Country: Türkiye
 
@@ -63,14 +39,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.81.64.85:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 140.238.184.182:3128
 Status: working
 IP: None
@@ -79,20 +47,28 @@ Server: None
 Country: Brazil
 
 Protocol: http
-Proxy: 85.206.93.105:8080
+Proxy: 103.156.249.72:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: United Kingdom
+Country: Indonesia
 
 Protocol: http
-Proxy: 124.13.102.119:8080
+Proxy: 103.171.255.244:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Malaysia
+Country: Indonesia
+
+Protocol: http
+Proxy: 102.213.219.238:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Kenya
 
 Protocol: http
 Proxy: 154.118.231.30:80
@@ -103,12 +79,12 @@ Server: None
 Country: Tanzania
 
 Protocol: http
-Proxy: 103.162.16.47:8181
+Proxy: 37.17.245.57:12359
 Status: working
 IP: None
-Anon: transparent
+Anon: elite
 Server: mikrotik
-Country: Indonesia
+Country: Ukraine
 
 Protocol: http
 Proxy: 185.23.124.226:8080
