@@ -1,10 +1,26 @@
 Protocol: http
-Proxy: 99.233.64.71:3128
+Proxy: 160.16.204.90:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Canada
+Country: Japan
+
+Protocol: http
+Proxy: 197.164.101.21:1981
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 71.121.234.208:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: http
 Proxy: 46.218.28.255:80
@@ -21,12 +37,4 @@ IP: None
 Anon: elite
 Server: None
 Country: Saudi Arabia
-
-Protocol: http
-Proxy: 202.58.77.9:4040
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
 
