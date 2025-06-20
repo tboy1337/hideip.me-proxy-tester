@@ -31,10 +31,10 @@ Server: N/A
 Country: Australia
 
 Protocol: connect
-Proxy: 193.70.39.225:3128
+Proxy: 103.76.86.23:8080
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: France
+Country: Japan
 
