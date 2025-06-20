@@ -1,12 +1,4 @@
 Protocol: http
-Proxy: 103.49.114.195:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Bangladesh
-
-Protocol: http
 Proxy: 103.63.190.72:8080
 Status: working
 IP: None
@@ -15,20 +7,20 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 54.38.181.125:3128
+Proxy: 119.252.173.26:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
+Country: Indonesia
 
 Protocol: http
-Proxy: 157.66.84.14:8080
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Russia
 
 Protocol: http
 Proxy: 79.110.202.184:8081
@@ -103,14 +95,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 125.187.149.240:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Korea
-
-Protocol: http
 Proxy: 91.241.241.60:9090
 Status: working
 IP: None
@@ -125,14 +109,6 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
-
-Protocol: http
-Proxy: 103.101.193.46:1111
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
 
 Protocol: http
 Proxy: 103.216.141.63:8080
@@ -167,36 +143,12 @@ Server: None
 Country: South Africa
 
 Protocol: http
-Proxy: 103.156.249.72:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 43.252.237.172:8085
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 154.118.231.30:80
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Tanzania
-
-Protocol: http
-Proxy: 46.218.28.255:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: France
 
 Protocol: http
 Proxy: 185.23.124.226:8080
@@ -207,12 +159,20 @@ Server: None
 Country: Saudi Arabia
 
 Protocol: http
-Proxy: 197.248.178.67:8080
+Proxy: 202.58.77.9:4040
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Kenya
+Country: Indonesia
+
+Protocol: http
+Proxy: 103.99.27.188:8282
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 185.23.124.230:8080
