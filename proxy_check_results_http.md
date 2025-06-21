@@ -1,18 +1,18 @@
 Protocol: http
-Proxy: 103.39.49.156:3128
+Proxy: 165.90.64.216:8080
 Status: working
 IP: None
 Anon: elite
 Server: mikrotik
-Country: Indonesia
+Country: Mozambique
 
 Protocol: http
-Proxy: 103.159.220.215:8080
+Proxy: 46.246.1.106:3128
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Sweden
 
 Protocol: http
 Proxy: 185.23.124.226:8080
