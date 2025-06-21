@@ -1,10 +1,18 @@
 Protocol: http
-Proxy: 46.218.28.255:80
+Proxy: 134.209.239.42:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Germany
+
+Protocol: http
+Proxy: 160.16.204.90:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: France
+Country: Japan
 
 Protocol: http
 Proxy: 185.23.124.226:8080
