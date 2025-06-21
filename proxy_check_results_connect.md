@@ -23,6 +23,14 @@ Server: N/A
 Country: India
 
 Protocol: connect
+Proxy: 103.76.86.23:8080
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Japan
+
+Protocol: connect
 Proxy: 141.147.138.24:3128
 Status: working
 IP: N/A
