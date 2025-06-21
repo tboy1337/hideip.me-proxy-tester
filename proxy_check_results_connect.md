@@ -31,10 +31,26 @@ Server: N/A
 Country: Australia
 
 Protocol: connect
+Proxy: 78.47.147.156:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Germany
+
+Protocol: connect
 Proxy: 141.147.138.24:3128
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
 Country: Saudi Arabia
+
+Protocol: connect
+Proxy: 87.106.207.13:9091
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Germany
 
