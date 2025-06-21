@@ -7,14 +7,6 @@ Server: None
 Country: Cambodia
 
 Protocol: http
-Proxy: 119.252.173.26:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Indonesia
-
-Protocol: http
 Proxy: 185.49.31.207:8081
 Status: working
 IP: None
@@ -111,12 +103,12 @@ Server: None
 Country: South Korea
 
 Protocol: http
-Proxy: 176.98.80.71:8080
+Proxy: 103.152.100.221:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Ukraine
+Anon: transparent
+Server: mikrotik
+Country: Pakistan
 
 Protocol: http
 Proxy: 91.241.241.60:9090
@@ -135,7 +127,15 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.156.248.14:8080
+Proxy: 103.154.226.154:7788
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Indonesia
+
+Protocol: http
+Proxy: 157.20.252.179:8085
 Status: working
 IP: None
 Anon: elite
@@ -143,15 +143,7 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: http
-Proxy: 103.159.220.215:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.121.12.9:8080
+Proxy: 103.106.56.131:8082
 Status: working
 IP: None
 Anon: elite
@@ -165,6 +157,46 @@ IP: None
 Anon: elite
 Server: None
 Country: Poland
+
+Protocol: http
+Proxy: 218.250.66.183:8080
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Hong Kong
+
+Protocol: http
+Proxy: 103.44.19.194:1111
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 43.252.237.172:8085
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 213.131.85.26:1976
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 46.246.1.106:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Sweden
 
 Protocol: http
 Proxy: 154.118.231.30:80
@@ -205,6 +237,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Saudi Arabia
+
+Protocol: http
+Proxy: 197.167.214.154:1976
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
 Proxy: 185.23.124.230:8080
