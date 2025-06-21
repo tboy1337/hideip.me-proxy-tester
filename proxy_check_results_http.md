@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 216.250.11.178:3128
+Proxy: 160.16.204.90:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Turkmenistan
+Country: Japan
 
 Protocol: http
 Proxy: 185.23.124.226:8080
