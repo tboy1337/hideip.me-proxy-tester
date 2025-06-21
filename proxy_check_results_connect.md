@@ -1,12 +1,4 @@
 Protocol: connect
-Proxy: 217.26.67.57:3180
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Serbia
-
-Protocol: connect
 Proxy: 88.198.212.91:3128
 Status: working
 IP: N/A
@@ -21,6 +13,14 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: United States
+
+Protocol: connect
+Proxy: 113.177.115.97:8118
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
 Protocol: connect
 Proxy: 18.61.43.209:3128
@@ -45,4 +45,12 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Saudi Arabia
+
+Protocol: connect
+Proxy: 118.71.140.8:1002
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
 
