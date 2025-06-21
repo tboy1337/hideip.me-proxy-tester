@@ -23,10 +23,18 @@ Server: N/A
 Country: Australia
 
 Protocol: connect
-Proxy: 118.163.27.49:8080
+Proxy: 109.206.236.139:1081
 Status: working
 IP: N/A
 Anon: N/A
 Server: N/A
-Country: Taiwan
+Country: Bulgaria
+
+Protocol: connect
+Proxy: 141.147.138.24:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Saudi Arabia
 
