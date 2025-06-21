@@ -1,29 +1,13 @@
 Protocol: socks4
-Proxy: 46.214.153.223:5678
+Proxy: 49.0.156.20:32000
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Romania
+Country: Mongolia
 
 Protocol: socks4
-Proxy: 36.94.110.49:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: socks4
-Proxy: 12.218.209.130:13326
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: United States
-
-Protocol: socks4
-Proxy: 188.143.169.22:33333
+Proxy: 109.232.106.150:52435
 Status: working
 IP: None
 Anon: transparent
@@ -31,12 +15,28 @@ Server: mikrotik
 Country: Russia
 
 Protocol: socks4
-Proxy: 62.4.37.104:60606
+Proxy: 45.79.203.254:48388
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Montenegro
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 209.97.169.41:13108
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
+
+Protocol: socks4a
+Proxy: 162.144.32.131:19829
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: socks4
 Proxy: 103.182.240.75:1080
@@ -47,23 +47,7 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: socks4
-Proxy: 24.76.21.10:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Canada
-
-Protocol: socks4
-Proxy: 202.40.186.70:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Bangladesh
-
-Protocol: socks4
-Proxy: 46.98.199.154:1111
+Proxy: 195.138.65.34:5678
 Status: working
 IP: None
 Anon: transparent
@@ -71,18 +55,26 @@ Server: mikrotik
 Country: Ukraine
 
 Protocol: socks4
-Proxy: 103.81.194.124:8888
+Proxy: 87.110.164.219:4145
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Latvia
 
 Protocol: socks4
-Proxy: 103.248.9.69:8080
+Proxy: 202.79.35.12:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Indonesia
+Country: Nepal
+
+Protocol: socks4a
+Proxy: 45.91.92.45:31337
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
