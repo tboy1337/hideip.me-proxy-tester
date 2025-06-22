@@ -63,12 +63,20 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 103.188.169.160:7777
+Proxy: 103.180.118.184:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
 Country: Indonesia
+
+Protocol: http
+Proxy: 84.247.149.172:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
 Protocol: http
 Proxy: 194.99.22.21:3128
@@ -79,12 +87,12 @@ Server: None
 Country: Germany
 
 Protocol: http
-Proxy: 103.101.193.46:1111
+Proxy: 37.60.232.250:3128
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: http
 Proxy: 103.159.220.215:8080
@@ -103,6 +111,14 @@ Server: mikrotik
 Country: Indonesia
 
 Protocol: http
+Proxy: 149.154.67.34:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Russia
+
+Protocol: http
 Proxy: 83.168.76.89:8081
 Status: working
 IP: None
@@ -111,7 +127,39 @@ Server: None
 Country: Poland
 
 Protocol: http
+Proxy: 100.42.177.68:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: http
 Proxy: 197.164.101.21:1981
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 173.249.39.200:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
+
+Protocol: http
+Proxy: 103.156.14.227:8080
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 213.131.85.26:1976
 Status: working
 IP: None
 Anon: transparent
@@ -135,26 +183,18 @@ Server: None
 Country: Tanzania
 
 Protocol: http
-Proxy: 71.121.234.208:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United States
-
-Protocol: http
-Proxy: 212.32.235.131:80
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: The Netherlands
-
-Protocol: http
-Proxy: 197.164.101.21:1976
+Proxy: 103.162.16.47:8181
 Status: working
 IP: None
 Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 197.167.214.154:1976
+Status: working
+IP: None
+Anon: elite
 Server: mikrotik
 Country: Egypt
 
