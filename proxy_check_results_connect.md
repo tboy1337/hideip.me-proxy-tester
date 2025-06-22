@@ -15,7 +15,7 @@ Server: N/A
 Country: Indonesia
 
 Protocol: connect
-Proxy: 204.109.59.194:3121
+Proxy: 89.117.145.245:3128
 Status: working
 IP: N/A
 Anon: N/A
