@@ -38,11 +38,3 @@ Anon: N/A
 Server: N/A
 Country: Saudi Arabia
 
-Protocol: connect
-Proxy: 92.246.87.155:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
-
