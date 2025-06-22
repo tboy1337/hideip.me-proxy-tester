@@ -7,12 +7,12 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 41.223.119.156:3128
+Proxy: 84.247.149.172:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Zambia
+Country: Singapore
 
 Protocol: http
 Proxy: 154.118.231.30:80
