@@ -1,10 +1,10 @@
 Protocol: http
-Proxy: 12.131.14.114:3128
+Proxy: 78.28.152.111:80
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: Bosnia and Herzegovina
 
 Protocol: http
 Proxy: 154.118.231.30:80
@@ -37,6 +37,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Saudi Arabia
+
+Protocol: http
+Proxy: 103.220.23.113:8282
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 185.23.124.230:8080
