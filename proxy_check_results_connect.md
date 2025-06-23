@@ -7,7 +7,7 @@ Server: N/A
 Country: Germany
 
 Protocol: connect
-Proxy: 119.252.173.26:8080
+Proxy: 103.184.123.41:8888
 Status: working
 IP: N/A
 Anon: N/A
@@ -37,12 +37,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Saudi Arabia
-
-Protocol: connect
-Proxy: 195.201.91.95:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Germany
 
