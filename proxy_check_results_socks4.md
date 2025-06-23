@@ -1,34 +1,42 @@
 Protocol: socks4
-Proxy: 41.169.151.154:4153
+Proxy: 80.65.80.230:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: South Africa
+Country: Bosnia and Herzegovina
 
 Protocol: socks4
-Proxy: 213.156.124.3:33333
+Proxy: 222.212.85.149:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Poland
+Country: China
 
 Protocol: socks4
-Proxy: 202.79.47.194:1080
+Proxy: 91.247.250.215:4145
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Nepal
+Country: Russia
 
 Protocol: socks4
-Proxy: 195.29.122.132:60606
+Proxy: 36.37.189.64:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Croatia
+Country: Cambodia
+
+Protocol: socks4
+Proxy: 202.74.243.182:228
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Bangladesh
 
 Protocol: socks4
 Proxy: 186.47.213.158:5678
@@ -39,55 +47,39 @@ Server: mikrotik
 Country: Ecuador
 
 Protocol: socks4
-Proxy: 203.205.34.58:5678
+Proxy: 189.127.35.50:60606
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
+Country: Brazil
+
+Protocol: socks4
+Proxy: 198.177.125.109:3949
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4a
+Proxy: 24.199.103.116:10716
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
+
+Protocol: socks4
+Proxy: 171.247.96.252:1080
+Status: working
+IP: None
+Anon: elite
+Server: None
 Country: Vietnam
 
 Protocol: socks4
-Proxy: 209.97.169.41:13108
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Singapore
-
-Protocol: socks4
-Proxy: 24.76.21.10:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Canada
-
-Protocol: socks4
-Proxy: 145.239.5.238:18012
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: United Kingdom
-
-Protocol: socks4
-Proxy: 202.79.35.12:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Nepal
-
-Protocol: socks4
-Proxy: 195.251.162.32:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Greece
-
-Protocol: socks4
-Proxy: 115.74.157.132:1080
+Proxy: 171.248.208.138:1080
 Status: working
 IP: None
 Anon: elite
