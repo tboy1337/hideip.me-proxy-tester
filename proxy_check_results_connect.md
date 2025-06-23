@@ -31,14 +31,6 @@ Server: N/A
 Country: Australia
 
 Protocol: connect
-Proxy: 107.152.35.241:8080
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: United States
-
-Protocol: connect
 Proxy: 141.147.138.24:3128
 Status: working
 IP: N/A
