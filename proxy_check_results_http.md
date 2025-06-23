@@ -151,14 +151,6 @@ Server: None
 Country: Brazil
 
 Protocol: http
-Proxy: 103.155.199.104:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 79.110.200.27:8000
 Status: working
 IP: None
@@ -175,14 +167,6 @@ Server: None
 Country: South Korea
 
 Protocol: http
-Proxy: 154.0.14.116:3128
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: South Africa
-
-Protocol: http
 Proxy: 220.116.142.217:80
 Status: working
 IP: None
@@ -191,12 +175,12 @@ Server: None
 Country: South Korea
 
 Protocol: http
-Proxy: 61.79.72.201:80
+Proxy: 103.39.51.156:8089
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: South Korea
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -219,14 +203,6 @@ Proxy: 103.101.193.46:1111
 Status: working
 IP: None
 Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 103.159.220.215:8080
-Status: working
-IP: None
-Anon: elite
 Server: mikrotik
 Country: Indonesia
 
@@ -255,23 +231,7 @@ Server: mikrotik
 Country: United Kingdom
 
 Protocol: http
-Proxy: 103.81.220.51:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
-Proxy: 213.131.85.26:1976
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Egypt
-
-Protocol: http
-Proxy: 112.78.44.238:1111
+Proxy: 103.196.85.26:8080
 Status: working
 IP: None
 Anon: elite
@@ -335,12 +295,28 @@ Server: None
 Country: Saudi Arabia
 
 Protocol: http
-Proxy: 118.163.27.49:8080
+Proxy: 154.236.168.178:1976
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Taiwan
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 45.243.70.106:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Egypt
+
+Protocol: http
+Proxy: 103.193.144.43:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 103.155.199.67:8080
