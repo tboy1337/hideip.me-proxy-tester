@@ -30,11 +30,3 @@ Anon: N/A
 Server: N/A
 Country: Saudi Arabia
 
-Protocol: connect
-Proxy: 154.6.161.224:37198
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
-
