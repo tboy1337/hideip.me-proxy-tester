@@ -1,18 +1,10 @@
 Protocol: socks4
-Proxy: 177.222.60.138:5678
+Proxy: 103.127.23.10:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Bolivia
-
-Protocol: socks4
-Proxy: 80.65.80.230:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Bosnia and Herzegovina
+Country: India
 
 Protocol: socks4
 Proxy: 91.228.245.196:60606
@@ -23,23 +15,23 @@ Server: mikrotik
 Country: Slovakia
 
 Protocol: socks4
-Proxy: 190.13.147.93:5678
+Proxy: 202.137.141.212:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Chile
+Country: Laos
 
 Protocol: socks4
-Proxy: 186.10.102.218:5678
+Proxy: 213.197.136.218:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Chile
+Country: Lithuania
 
 Protocol: socks4
-Proxy: 91.247.250.215:4145
+Proxy: 85.237.62.189:3629
 Status: working
 IP: None
 Anon: transparent
@@ -47,50 +39,42 @@ Server: mikrotik
 Country: Russia
 
 Protocol: socks4
-Proxy: 41.186.174.167:1088
+Proxy: 188.143.169.22:33333
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Rwanda
+Country: Russia
 
 Protocol: socks4
-Proxy: 183.237.2.243:1080
+Proxy: 209.97.169.41:13108
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: China
-
-Protocol: socks4
-Proxy: 178.115.236.219:5678
-Status: working
-IP: None
-Anon: transparent
+Anon: elite
 Server: None
-Country: Austria
+Country: Singapore
+
+Protocol: socks4
+Proxy: 122.54.86.40:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Philippines
+
+Protocol: socks4
+Proxy: 24.76.21.10:5678
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Canada
 
 Protocol: socks4a
-Proxy: 27.68.172.226:1080
+Proxy: 45.40.143.74:21340
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Vietnam
-
-Protocol: socks4
-Proxy: 46.21.186.252:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Italy
-
-Protocol: socks4
-Proxy: 116.100.223.155:1080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Vietnam
+Country: United States
 
