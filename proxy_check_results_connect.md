@@ -46,11 +46,3 @@ Anon: N/A
 Server: N/A
 Country: Saudi Arabia
 
-Protocol: connect
-Proxy: 62.122.192.70:3128
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Russia
-
