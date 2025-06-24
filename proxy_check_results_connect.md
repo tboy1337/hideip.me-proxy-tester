@@ -15,14 +15,6 @@ Server: N/A
 Country: India
 
 Protocol: connect
-Proxy: 43.130.146.142:10811
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Romania
-
-Protocol: connect
 Proxy: 82.115.20.251:3128
 Status: working
 IP: N/A
@@ -37,14 +29,6 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Saudi Arabia
-
-Protocol: connect
-Proxy: 154.6.160.120:37198
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
 Protocol: connect
 Proxy: 3.112.230.162:3128
