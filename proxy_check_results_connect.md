@@ -39,7 +39,7 @@ Server: N/A
 Country: Saudi Arabia
 
 Protocol: connect
-Proxy: 103.82.23.55:1081
+Proxy: 154.6.160.120:37198
 Status: working
 IP: N/A
 Anon: N/A
