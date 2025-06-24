@@ -15,6 +15,14 @@ Server: N/A
 Country: United States
 
 Protocol: connect
+Proxy: 91.186.97.212:3128
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Russia
+
+Protocol: connect
 Proxy: 103.184.123.41:8888
 Status: working
 IP: N/A
@@ -45,12 +53,4 @@ IP: N/A
 Anon: N/A
 Server: N/A
 Country: Saudi Arabia
-
-Protocol: connect
-Proxy: 103.82.23.55:1088
-Status: working
-IP: N/A
-Anon: N/A
-Server: N/A
-Country: Vietnam
 
