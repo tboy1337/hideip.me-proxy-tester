@@ -1,4 +1,12 @@
 Protocol: http
+Proxy: 103.191.115.252:83
+Status: working
+IP: None
+Anon: elite
+Server: mikrotik
+Country: India
+
+Protocol: http
 Proxy: 119.252.173.26:8080
 Status: working
 IP: None
@@ -7,20 +15,20 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 62.33.53.248:3128
+Proxy: 62.241.133.227:1981
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Russia
+Anon: transparent
+Server: mikrotik
+Country: Egypt
 
 Protocol: http
-Proxy: 79.110.200.148:8081
+Proxy: 82.138.55.83:8080
 Status: working
 IP: None
 Anon: elite
-Server: None
-Country: Poland
+Server: mikrotik
+Country: Russia
 
 Protocol: http
 Proxy: 103.120.146.11:8080
@@ -31,12 +39,20 @@ Server: None
 Country: Indonesia
 
 Protocol: http
-Proxy: 200.125.170.238:999
+Proxy: 103.81.194.120:8080
+Status: working
+IP: None
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
+
+Protocol: http
+Proxy: 41.223.119.156:3128
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: Dominican Republic
+Server: None
+Country: Zambia
 
 Protocol: http
 Proxy: 140.238.184.182:3128
@@ -47,20 +63,12 @@ Server: None
 Country: Brazil
 
 Protocol: http
-Proxy: 85.206.93.105:8080
+Proxy: 85.235.150.219:3128
 Status: working
 IP: None
 Anon: elite
-Server: mikrotik
-Country: United Kingdom
-
-Protocol: http
-Proxy: 103.188.169.219:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Server: None
+Country: Italy
 
 Protocol: http
 Proxy: 154.118.231.30:80
@@ -69,6 +77,14 @@ IP: None
 Anon: elite
 Server: None
 Country: Tanzania
+
+Protocol: http
+Proxy: 46.218.28.255:80
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: France
 
 Protocol: http
 Proxy: 185.23.124.226:8080
@@ -87,12 +103,20 @@ Server: None
 Country: Saudi Arabia
 
 Protocol: http
-Proxy: 154.236.168.178:1976
+Proxy: 103.193.144.43:8080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Egypt
+Country: Indonesia
+
+Protocol: http
+Proxy: 35.232.66.129:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United States
 
 Protocol: http
 Proxy: 105.157.109.147:39811
