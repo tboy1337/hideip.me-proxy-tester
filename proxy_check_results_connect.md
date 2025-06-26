@@ -38,3 +38,11 @@ Anon: N/A
 Server: N/A
 Country: Vietnam
 
+Protocol: connect
+Proxy: 154.6.161.193:37198
+Status: working
+IP: N/A
+Anon: N/A
+Server: N/A
+Country: Vietnam
+
