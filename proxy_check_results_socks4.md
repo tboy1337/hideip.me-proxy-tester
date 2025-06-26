@@ -1,66 +1,58 @@
 Protocol: socks4
-Proxy: 12.218.209.130:13326
+Proxy: 203.205.34.58:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: United States
+Country: Vietnam
 
 Protocol: socks4
-Proxy: 190.13.147.93:5678
+Proxy: 27.147.221.140:5678
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Chile
-
-Protocol: socks4
-Proxy: 123.108.98.89:5678
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
-
-Protocol: socks4
-Proxy: 46.8.60.2:1080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Russia
+Country: Bangladesh
 
 Protocol: socks4a
-Proxy: 45.79.203.254:48388
+Proxy: 145.239.5.238:16172
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: United States
+Country: United Kingdom
 
 Protocol: socks4a
-Proxy: 193.106.249.83:44446
+Proxy: 145.239.5.238:32554
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Germany
+Country: United Kingdom
 
-Protocol: socks4
-Proxy: 110.39.40.118:1088
+Protocol: socks4a
+Proxy: 145.239.5.238:54803
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Pakistan
+Anon: elite
+Server: None
+Country: United Kingdom
 
 Protocol: socks4
-Proxy: 103.182.240.75:1080
+Proxy: 145.239.5.238:11483
 Status: working
 IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
+Anon: elite
+Server: None
+Country: United Kingdom
+
+Protocol: socks4a
+Proxy: 145.239.5.238:25569
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: United Kingdom
 
 Protocol: socks4a
 Proxy: 145.239.5.238:27413
@@ -71,12 +63,12 @@ Server: None
 Country: United Kingdom
 
 Protocol: socks4
-Proxy: 143.137.198.204:5678
+Proxy: 46.36.65.117:1080
 Status: working
 IP: None
 Anon: transparent
 Server: mikrotik
-Country: Brazil
+Country: Lithuania
 
 Protocol: socks4
 Proxy: 195.251.162.32:1080
@@ -85,12 +77,4 @@ IP: None
 Anon: transparent
 Server: mikrotik
 Country: Greece
-
-Protocol: socks4
-Proxy: 103.248.9.69:8080
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
-Country: Indonesia
 
