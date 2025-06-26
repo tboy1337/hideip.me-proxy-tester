@@ -7,12 +7,12 @@ Server: None
 Country: Bangladesh
 
 Protocol: http
-Proxy: 79.110.202.184:8081
+Proxy: 62.33.53.248:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Poland
+Country: Russia
 
 Protocol: http
 Proxy: 79.110.200.148:8081
@@ -31,14 +31,6 @@ Server: None
 Country: Poland
 
 Protocol: http
-Proxy: 159.224.232.194:8888
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Ukraine
-
-Protocol: http
 Proxy: 95.66.138.21:8880
 Status: working
 IP: None
@@ -47,20 +39,12 @@ Server: None
 Country: Russia
 
 Protocol: http
-Proxy: 79.110.202.131:8081
+Proxy: 103.133.26.119:8080
 Status: working
 IP: None
-Anon: elite
-Server: None
-Country: Poland
-
-Protocol: http
-Proxy: 218.75.224.4:3309
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: China
+Anon: transparent
+Server: mikrotik
+Country: Indonesia
 
 Protocol: http
 Proxy: 185.191.236.162:3128
@@ -71,28 +55,20 @@ Server: None
 Country: Switzerland
 
 Protocol: http
-Proxy: 91.241.241.60:9090
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Ukraine
-
-Protocol: http
-Proxy: 160.20.38.2:8080
-Status: working
-IP: None
-Anon: elite
-Server: mikrotik
-Country: Indonesia
-
-Protocol: http
 Proxy: 185.49.31.205:8080
 Status: working
 IP: None
 Anon: elite
 Server: None
 Country: Poland
+
+Protocol: http
+Proxy: 84.247.149.172:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Singapore
 
 Protocol: http
 Proxy: 41.223.119.156:3128
@@ -103,28 +79,20 @@ Server: None
 Country: Zambia
 
 Protocol: http
-Proxy: 154.118.231.30:80
+Proxy: 140.238.184.182:3128
 Status: working
 IP: None
 Anon: elite
 Server: None
-Country: Tanzania
-
-Protocol: http
-Proxy: 185.23.124.226:8080
-Status: working
-IP: None
-Anon: elite
-Server: None
-Country: Saudi Arabia
-
-Protocol: http
-Proxy: 170.239.108.210:8085
-Status: working
-IP: None
-Anon: transparent
-Server: mikrotik
 Country: Brazil
+
+Protocol: http
+Proxy: 100.42.177.68:3128
+Status: working
+IP: None
+Anon: elite
+Server: None
+Country: Germany
 
 Protocol: http
 Proxy: 203.95.196.20:8080
